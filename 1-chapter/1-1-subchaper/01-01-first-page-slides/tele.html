@@ -1,0 +1,57 @@
+
+
+<html>
+	<head>
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cis598/reveal/css/reveal.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cis598/reveal/css/theme/black.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cis598/css/atom-one-dark-reasonable.css">
+		<link rel="shortcut icon" href="https://ksu-cs-textbooks.github.io/cis598/images/favicon.png" type="image/x-icon" />
+		<link rel="icon" href="https://ksu-cs-textbooks.github.io/cis598/images/favicon.png" type="image/x-icon" />
+		<script type="text/javascript" async src="https://ksu-cs-textbooks.github.io/cis598/mathjax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+		<meta charset="utf-8" >
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				  <section>
+	<h2>CIS 123</h2><br><br><p>Title Slide</p>
+</section>
+<section>
+	<h3>Slide Title</h3>
+	<ul>
+    <li class="fragment">Content</li>
+    <li class="fragment">Content</li>
+    <li class="fragment">Content</li>
+		<li class="fragment">Content</li>
+	</ul>
+</section>
+
+			</div>
+		</div>
+		<script src="https://ksu-cs-textbooks.github.io/cis598/js/highlight.pack.js"></script>"/js/highlight.pack.js"
+		<script>
+		  hljs.initHighlightingOnLoad();
+	  </script>
+		<script src="https://ksu-cs-textbooks.github.io/cis598/reveal/js/reveal.js"></script>
+		<script>
+			Reveal.initialize({
+        controls: false,
+        controlsTutorial: false,
+        progress: false,
+        transition: 'fade',
+				width: 1440,
+				height: 1080,
+				history: true,
+      });
+
+			window.addEventListener("mousedown", handleClick, false);
+			window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
+
+			function handleClick(e) {
+				e.preventDefault();
+				if(e.button === 0) Reveal.next();
+				if(e.button === 2) Reveal.prev();
+			}
+		</script>
+	</body>
+</html>
