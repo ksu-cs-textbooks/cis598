@@ -32,7 +32,6 @@ pre: "1. "
 ### Prerequisites
 
 * **CIS 596:** CIS 560, ENTRP 340 and senior standing in computer science. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
-
 * **CIS 598:** CIS 560 and senior standing in computer science. Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to those courses.
 
 ### Course Overview
@@ -65,6 +64,8 @@ After completing this course, a successful student will be able to:
 ###  Course Structure
 
 The course meets in person **Mondays from 3:30 - 4:20 PM in DUR 1066**. Students should attend all in-person course sessions. In-person sessions will primarily be used for student presentations throughout the semester.
+
+On weeks where **Monday** falls on a university holiday, such as Labor Day or President's Day, the course will instead meet in person on **Wednesday** of the same week. 
 
 Course work hours will be **Wednesdays and Fridays from 3:30 - 4:20 PM in DUR 1066 and online via Zoom**. Attendance at these work hours is optional, but highly recommended. It is a good time to work on your project, ask questions, and get advice. The instructors will be available during these times to answer questions about the class or provide project assistance.
 
