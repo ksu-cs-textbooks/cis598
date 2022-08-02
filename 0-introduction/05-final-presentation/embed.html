@@ -1,419 +1,116 @@
-
-
-
-
-
-
 <!DOCTYPE html>
-<html lang="en" class="js csstransforms3d">
+<html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="generator" content="Hugo 0.101.0" />
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.101.0">
+    <meta name="generator" content="Relearn 5.0.3+tip">
+
+
+
+
+	
+	
+			
+
+	
+	
+			
+
+	
+	
+			
+
+	
+	
+			
+			
+			
+
+	
+	
+			
+			
+
+	
+	
+			
+			
+
+	
+	
+			
+			
+
+	
+	
+			
+			
+
+	
+	
+			
+			
+
     <meta name="description" content="CIS 598 Textbook">
-<meta name="author" content="Russell Feldhausen">
-
-    <link rel="icon" href="https://ksu-cs-textbooks.github.io/cis598/images/favicon.png" type="image/png">
-
+    <meta name="author" content="Russell Feldhausen">
     <title>Final Presentation :: CIS 598 Textbook</title>
+    <link href="https://textbooks.cs.ksu.edu/cis598/0-introduction/05-final-presentation/" rel="canonical" type="text/html" title="CIS 598 Textbook">
+    <link href="https://textbooks.cs.ksu.edu/cis598/0-introduction/05-final-presentation/index.xml" rel="alternate" type="application/rss+xml" title="CIS 598 Textbook">
+    <link href="https://textbooks.cs.ksu.edu/cis598/_print/0-introduction/05-final-presentation/" rel="alternate" type="text/html" title="CIS 598 Textbook">
+    <link href="https://textbooks.cs.ksu.edu/cis598/0-introduction/05-final-presentation/tele.html" rel="alternate" type="text/html" title="CIS 598 Textbook">
+    
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/fontawesome-all.min.css?1659469271" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;">
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/featherlight.min.css?1659469271" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;">
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/auto-complete.css?1659469271" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;">
+    <noscript>
+      <link href="https://textbooks.cs.ksu.edu/cis598/css/fontawesome-all.min.css?1659469271" rel="stylesheet">
+      <link href="https://textbooks.cs.ksu.edu/cis598/css/featherlight.min.css?1659469271" rel="stylesheet">
+      <link href="https://textbooks.cs.ksu.edu/cis598/css/auto-complete.css?1659469271" rel="stylesheet">
+    </noscript>
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/perfect-scrollbar.min.css?1659469271" rel="stylesheet">
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/nucleus.css?1659469271" rel="stylesheet">
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/fonts.css?1659469271" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;">
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/theme.css?1659469271" rel="stylesheet">
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/theme-light-theme.css?1659469271" rel="stylesheet" id="variant-style">
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/ie.css?1659469271" rel="stylesheet">
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/variant.css?1659469271" rel="stylesheet">
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/print.css?1659469271" rel="stylesheet" media="print">
+    <script src="https://textbooks.cs.ksu.edu/cis598/js/variant.js?1659469271"></script>
+    <script>
+      // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
+      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
+      var index_url="https://textbooks.cs.ksu.edu/cis598/index.json";
+      var root_url="https://textbooks.cs.ksu.edu/cis598/";
+      var baseUri=root_url.replace(/\/$/, '');
+      // translations
+      window.T_Copy_to_clipboard = 'Copy to clipboard';
+      window.T_Copied_to_clipboard = 'Copied to clipboard!';
+      window.T_Copy_link_to_clipboard = 'Copy link to clipboard';
+      window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
+      // some further base stuff
+      var baseUriFull='https:\/\/textbooks.cs.ksu.edu\/cis598/';
+      variants.init( [ 'light-theme', 'dark-theme' ] );
+    </script>
+    
+    <link href="https://textbooks.cs.ksu.edu/cis598/css/custom.css?1659469271" rel="stylesheet">
+    <script src="https://textbooks.cs.ksu.edu/cis598/js/jquery.min.js?1659469271" defer></script>
 
-    
-    <link href="https://ksu-cs-textbooks.github.io/cis598/css/nucleus.css?1658936410" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cis598/css/fontawesome-all.min.css?1658936410" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cis598/css/hybrid.css?1658936410" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cis598/css/featherlight.min.css?1658936410" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cis598/css/perfect-scrollbar.min.css?1658936410" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cis598/css/auto-complete.css?1658936410" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cis598/css/atom-one-dark-reasonable.css?1658936410" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cis598/css/theme.css?1658936410" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cis598/css/tabs.css?1658936410" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cis598/css/hugo-theme.css?1658936410" rel="stylesheet">
-    
-    <link href="https://ksu-cs-textbooks.github.io/cis598/css/theme-purple.css?1658936410" rel="stylesheet">
-    
-    
-    
-      <link href="https://ksu-cs-textbooks.github.io/cis598/css/theme-iframe.css?1658936410" rel="stylesheet">
-    
-    
-
-    <script src="https://ksu-cs-textbooks.github.io/cis598/js/jquery-3.3.1.min.js?1658936410"></script>
-
-    <style>
-      :root #header + #content > #left > #rlblock_left{
-          display:none !important;
-      }
-      
-    </style>
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-    
-
-     
-    
-<script>
-    MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$','$$'], ['\\[', '\\]']],
-        processEscapes: true,
-        processEnvironments: true
-      },
-      options: {
-        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-      }
-    };
-  
-    window.addEventListener('load', (event) => {
-        document.querySelectorAll("mjx-container").forEach(function(x){
-          x.parentElement.classList += 'has-jax'})
-      });
-  
-</script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script type="text/javascript" id="MathJax-script" async
-src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   </head>
-  <body class="" data-url="https://ksu-cs-textbooks.github.io/cis598/0-introduction/05-final-presentation/">
-    <nav id="sidebar" class="">
-
-
-
-  <div id="header-wrapper">
-    <div id="header">
-      <a id="logo" href="https://ksu-cs-textbooks.github.io/cis598">
-  CIS 598 Textbook
-</a>
-
-    </div>
+  <body class="mobile-support disableInlineCopyToClipboard" data-url="https://textbooks.cs.ksu.edu/cis598/0-introduction/05-final-presentation/embed.html">
     
-        <div class="searchbox">
-    <label for="search-by"><i class="fas fa-search"></i></label>
-    <input data-search-input id="search-by" type="search" placeholder="Search...">
-    <span data-search-clear=""><i class="fas fa-times"></i></span>
-</div>
-
-<script type="text/javascript" src="https://ksu-cs-textbooks.github.io/cis598/js/lunr.min.js?1658936410"></script>
-<script type="text/javascript" src="https://ksu-cs-textbooks.github.io/cis598/js/auto-complete.js?1658936410"></script>
-<script type="text/javascript">
+    <div class="embed">
     
-        var baseurl = "https:\/\/ksu-cs-textbooks.github.io\/cis598";
-    
-</script>
-<script type="text/javascript" src="https://ksu-cs-textbooks.github.io/cis598/js/search.js?1658936410"></script>
-
-    
-  </div>
-  
-    <section id="homelinks">
-      <ul>
-        <li>
-            <a class="padding" href='https://ksu-cs-textbooks.github.io/cis598/'><i class='fas fa-home'></i> Home</a>
-        </li>
-      </ul>
-    </section>
-  
-
-    <div class="highlightable">
-    <ul class="topics">
-
-        
-          
-          
-
-
-
-
- 
-  
-    
-    <li data-nav-id="/0-introduction/" title="Introduction" class="dd-item
-        parent
-        
-        
-        ">
-      <a href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/">
-        
-        
-          
-          <i class="fas fa-angle-down fa-fw"></i>
-          
-        
-          <b>0. </b>Introduction
-          
-
-      </a>
-    
+    <div id="body" class="default-animation">
       
       
-      
-        <ul>
-          
-          
-            
-          
-          
-
-        
-          
-            
-            
-
-
-
-
- 
-  
-    
-    <li data-nav-id="/0-introduction/01-syllabus/" title="Fall 2022 Syllabus" class="dd-item
-        
-        
-        
-        ">
-      <a href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/">
-        
-        
-          <i class="fas fa-angle-down fa-fw" style="color: transparent;"></i>
-        
-          1. Fall 2022 Syllabus
-          
-
-      </a>
-    
-  
- 
-
-            
-          
-            
-            
-
-
-
-
- 
-  
-    
-      <li data-nav-id="/0-introduction/02-getting-started/" title="Getting Started" class="dd-item ">
-        <a href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-getting-started/">
-        <i class="fas fa-angle-down fa-fw" style="color: transparent;"></i>
-        2. Getting Started
-        
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
-
-
- 
-  
-    
-      <li data-nav-id="/0-introduction/03-presentation-1/" title="Presentation 1" class="dd-item ">
-        <a href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/03-presentation-1/">
-        <i class="fas fa-angle-down fa-fw" style="color: transparent;"></i>
-        3. Presentation 1
-        
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
-
-
- 
-  
-    
-      <li data-nav-id="/0-introduction/04-presentation-2/" title="Presentation 2" class="dd-item ">
-        <a href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/04-presentation-2/">
-        <i class="fas fa-angle-down fa-fw" style="color: transparent;"></i>
-        4. Presentation 2
-        
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
-
-
- 
-  
-    
-      <li data-nav-id="/0-introduction/05-final-presentation/" title="Final Presentation" class="dd-item active">
-        <a href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/05-final-presentation/">
-        <i class="fas fa-angle-down fa-fw" style="color: transparent;"></i>
-        5. Final Presentation
-        
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
-
-
- 
-  
-    
-      <li data-nav-id="/0-introduction/06-artifacts/" title="Final Artifacts" class="dd-item ">
-        <a href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/06-artifacts/">
-        <i class="fas fa-angle-down fa-fw" style="color: transparent;"></i>
-        6. Final Artifacts
-        
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-        
-        </ul>
-      
-    </li>
-    
-  
- 
-
-          
-        
-    </ul>
-
+      <main id="body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <div id="head-tags">
+          </div>
+          <article class="default">
     
     
-
-    
-    <section id="footer">
-      <p>Built using <a href="http://gohugo.io/">Hugo</a> and <a href="https://github.com/russfeld/ksucs-hugo-theme">ksucs-hugo-theme</a>.</p>
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; margin: .5rem auto" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
-
-    </section>
-  </div>
-</nav>
-
-
-
-
-        <section id="body">
-        <div id="overlay"></div>
-        <div class="padding highlightable">
-              
-              <div>
-                <div id="top-bar">
-                  <div id="top-github-link">
-                    <a id="themelink" class="github-link" title='Toggle Light or Dark Mode' href="#">
-                      <i class="fas fa-moon"></i>
-                      <span id="top-github-link-text"></span>
-                    </a>
-                    <a class="github-link" title='Teleprompter View' href="tele.html" target="blank">
-                      <i class="fas fa-tv"></i>
-                      <span id="top-github-link-text"></span>
-                    </a>
-                    <a class="github-link" title='Embed this page' href="embed.html" target="blank">
-                      <i class="fas fa-expand-arrows-alt"></i>
-                      <span id="top-github-link-text"></span>
-                    </a>
-                
-                  
-                  
-                  
-                    <a class="github-link" title='Edit this page' href="https://gitlab.cs.ksu.edu/cs-textbooks/cis598-textbook/-/tree/master/content/0-introduction/05-final-presentation.md" target="blank">
-                      <i class="fas fa-code-branch"></i>
-                      <span id="top-github-link-text"></span>
-                    </a>
-                  
-                
-                  </div>
-                
-                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-                    <span id="sidebar-toggle-span">
-                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
-                          <i class="fas fa-bars"></i>
-                        </a>
-                    </span>
-                  
-                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
-                  
-                  <span class="links">
-                 
-                 
-                    
-          
-          
-            
-            
-          
-          
-            
-            
-          
-          
-            <a href='https://ksu-cs-textbooks.github.io/cis598/'>Homepage</a> > <a href='https://ksu-cs-textbooks.github.io/cis598/0-introduction/'>Introduction</a> > Final Presentation
-          
-        
-          
-        
-          
-        
-                 
-                  </span>
-                </div>
-                
-                    <div class="progress">
-    <div class="wrapper">
-<nav id="TableOfContents">
-  <ul>
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#scheduling">Scheduling</a></li>
-    <li><a href="#advertising">Advertising</a></li>
-    <li><a href="#sample-presentations">Sample Presentations</a></li>
-  </ul>
-</nav>
-    </div>
-</div>
-
-                
-              </div>
-            </div>
-            
-        <div id="head-tags">
-        
-        </div>
-        
-        <div id="body-inner">
-          
-
-        
-
-
 <p>At the end of the semester, each student will give a public <strong>Final Presentation</strong> that presents all aspects of the completed project.</p>
 <h2 id="overview">Overview</h2>
 <p>The presentation should be roughly <strong>30-45 minutes</strong> in length, and cover all aspects of the project. A recommended outline is below:</p>
@@ -435,7 +132,9 @@ src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <p>There are two options for presenting your project:</p>
 <ul>
 <li><strong>In Person:</strong> - you&rsquo;ll need to work with the Computer Science office to reserve a conference room for your presentation.</li>
-<li><strong>Virtual:</strong> - you&rsquo;ll schedule a time using <a href="https://ksu.zoom.us/" target="_blank">Zoom</a> for your presentation.</li>
+<li><strong>Virtual:</strong> - you&rsquo;ll schedule a time using 
+
+<a href="https://ksu.zoom.us/" target="_blank" rel="noopener">Zoom</a> for your presentation.</li>
 </ul>
 <p>You should schedule the session to last for an hour to include time for setup and Q&amp;A at the end.</p>
 <h2 id="advertising">Advertising</h2>
@@ -448,269 +147,28 @@ src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <h2 id="sample-presentations">Sample Presentations</h2>
 <p>You can find several previous presentations and completed projects under the Files section on Canvas. Bear in mind that these may or may not be example of <em>good</em> presentations, they are simply ones that have been collected for sharing.</p>
 
+            <footer class="footline">
+            </footer>
+          </article>
 
-<script>
-
-	 
-
-	iframeString = (height, uri) => `<iframe style="width: 100%; height: ${height}px; border: none;" src="${uri}"></iframe>`
-
-
-	function updateClipboard(newClip) {
-		navigator.clipboard.writeText(newClip).then(function() {
-		}, function() {
-			alert("clipboard failed");
-		});
-	  }	  
-
-	function onLoad() {
-		navigator.permissions.query({name: "clipboard-write"}).then(result => {
-			let uri = window.location.href;
-			let height = document.documentElement.scrollHeight;
-			if (result.state == "granted" || result.state == "prompt") {
-				updateClipboard(iframeString(height, uri));
-			}
-			else{
-				navigator.permissions.query({name:'clipboard-write'}).then(function(result) {
-					if (result.state == "granted" || result.state == "prompt") {
-						updateClipboard(iframeString(height, uri));
-					}
-				  });
-			}
-		  });
-	}
-	window.onload = onLoad();
-
-</script>
-
-<footer class="footline">
-	
-</footer>
-
-        
         </div>
-        
-
-      </div>
-
-    <div id="navigation">
-        
-        
-
-        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-            
-        
-
-        
-
-
-	 
-	 
-		
-			<a class="nav nav-prev" href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/04-presentation-2/" title="Presentation 2"> <i class="fa fa-chevron-left"></i></a>
-		
-		
-			<a class="nav nav-next" href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/06-artifacts/" title="Final Artifacts" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
-		
-	
+      </main>
+    
+    
     </div>
-
-    </section>
-
-    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
-      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
-    </div>
-    <script src="https://ksu-cs-textbooks.github.io/cis598/js/clipboard.min.js?1658936410"></script>
-    <script src="https://ksu-cs-textbooks.github.io/cis598/js/perfect-scrollbar.min.js?1658936410"></script>
-    <script src="https://ksu-cs-textbooks.github.io/cis598/js/perfect-scrollbar.jquery.min.js?1658936410"></script>
-    <script src="https://ksu-cs-textbooks.github.io/cis598/js/jquery.sticky.js?1658936410"></script>
-    <script src="https://ksu-cs-textbooks.github.io/cis598/js/featherlight.min.js?1658936410"></script>
-    <script src="https://ksu-cs-textbooks.github.io/cis598/js/highlight.pack.js?1658936410"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-    <script src="https://ksu-cs-textbooks.github.io/cis598/js/modernizr.custom-3.6.0.js?1658936410"></script>
-    <script src="https://ksu-cs-textbooks.github.io/cis598/js/learn.js?1658936410"></script>
-    <script src="https://ksu-cs-textbooks.github.io/cis598/js/hugo-learn.js?1658936410"></script>
-    <script src="https://ksu-cs-textbooks.github.io/cis598/js/themer.js?1658936410"></script>
-
     
-        
-            <script src="https://ksu-cs-textbooks.github.io/cis598/mermaid/mermaid.js?1658936410"></script>
-        
-        <script>
-            var mer_theme = localStorage.getItem('theme');
-            if(mer_theme !== 'dark'){
-                mer_theme = 'neutral'
-            }
-            mermaid.initialize({ 
-                startOnLoad: true,
-                'securityLevel': 'loose', 
-                'theme': mer_theme });
-        </script>
-    
-
-    
-
+  </div>
     
     
-
     
-<script 
-src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/quizdown.js">
-</script>
-<script 
-src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/extensions/quizdownKatex.js">
-</script>
-<script 
-src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/extensions/quizdownHighlight.js">
-</script>
-<script>quizdown.register(quizdownHighlight).register(quizdownKatex).init()</script> 
+    <script src="https://textbooks.cs.ksu.edu/cis598/js/clipboard.min.js?1659469271" defer></script>
+    <script src="https://textbooks.cs.ksu.edu/cis598/js/perfect-scrollbar.min.js?1659469271" defer></script>
+    <script src="https://textbooks.cs.ksu.edu/cis598/js/featherlight.min.js?1659469271" defer></script>
+    <script src="https://textbooks.cs.ksu.edu/cis598/js/theme.js?1659469271" defer></script>
+    
+    <script src="https://textbooks.cs.ksu.edu/cis598/js/embed-iframe.js?1659469271 defer"></script>
+    
+    
+    
   </body>
 </html>
-
-
-
-
