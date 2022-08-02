@@ -49,9 +49,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentation 1 on CIS 598 Textbook</title>
-    <link>https://textbooks.cs.ksu.edu/cis598/0-introduction/03-presentation-1/</link>
+    <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/03-presentation-1/</link>
     <description>Recent content in Presentation 1 on CIS 598 Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://textbooks.cs.ksu.edu/cis598/0-introduction/03-presentation-1/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/03-presentation-1/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
