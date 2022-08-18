@@ -45,6 +45,21 @@
 	
 		
 		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -59,6 +74,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/</guid>
       <description>Chapter 0 Introduction Welcome to CIS 598!</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/</guid>
+      <description>Appendix A Resources Helpful Resources!</description>
     </item>
   </channel>
 </rss>
