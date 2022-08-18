@@ -8,7 +8,7 @@ This page contains links to videos and some comments from the **CIS 748: Advance
 
 [YouTube Channel](https://www.youtube.com/channel/UCqFJo8AdUa5oMZ4bjjHaSdw) - contains all videos.
 
-# Video Topics
+## Video Topics
 
 Below is a quick guide to the various videos and their relevance to CIS 598 projects. Feel free to use this to help you find a particular video or topic. 
 
