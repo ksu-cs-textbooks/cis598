@@ -4,6 +4,8 @@ weight: 20
 pre: "2. "
 ---
 
+<a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+
 The major outcome for this course is a project that demonstrates your skills in computer science, software development, and other areas relevant to your chosen degree program. This page provides an overview that will help you get started on your project.
 
 ## Recommended Timeline
