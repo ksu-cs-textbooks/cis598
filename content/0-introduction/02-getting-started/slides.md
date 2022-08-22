@@ -36,6 +36,17 @@ hidden: true
   </ul>
 </section>
 <section>
+  <h3>Icebreaker</h3>
+  <p>Form small groups and share:</p>
+  <ul>
+    <li>Something personal</li>
+    <li>Something professional</li>
+    <li>Something peculiar</li>
+  </ul>
+  <p>Pick 1 AMA question for instructor</p>
+  <p>Nominate speaker to introduce & ask</p>
+</section>
+<section>
   <h3>Course Overview</h3>
   <ul>
     <li><b>Complete a Project</b></li>
@@ -150,6 +161,14 @@ hidden: true
 </section>
 <section>
   <h3>Questions?</h3>
+</section>
+<section>
+  <h3>Project Ideas</h3>
+  <ul>
+    <li>See Canvas</li>
+    <li>See Faculty List</li>
+    <li><i>Attend Office Hours</i></li>
+  </ul>
 </section>
 <section>
   <h3>What's Next</h3>
