@@ -30,3 +30,7 @@ In addition to the basic outline listed above, here is a list of some other topi
 ## Sample Presentations
 
 You can find several previous presentations under the Files section on Canvas. Bear in mind that these may or may not be example of _good_ presentations, they are simply ones that have been collected for sharing.
+
+## Helpful Links
+
+* [Awesome Diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - list of tools to create various diagrams
