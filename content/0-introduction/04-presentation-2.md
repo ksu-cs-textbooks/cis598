@@ -16,9 +16,7 @@ The presentation should be roughly **8 minutes** in length, and cover the follow
   * API Documentation Diagrams
   * UI Mockups & Diagrams
   * Sitemaps for Websites
-* A discussion of how the project will be tested
-
-The first two items roughly correspond to the two initial artifacts discussed on the previous page. The timeline should give rough estimates on when each feature or group of features should be completed. 
+* A discussion of how the project will be tested 
 
 ## Additional Content to Include
 
