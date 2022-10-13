@@ -65,6 +65,11 @@
 	
 		
 		
+
+	
+	
+		
+		
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
@@ -90,6 +95,10 @@
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/03-presentation-1/</loc>
     <lastmod>2022-07-26T15:38:49-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/03-presentation-tips/</loc>
+    <lastmod>2022-10-13T10:51:01-05:00</lastmod>
   </url>
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/04-presentation-2/</loc>

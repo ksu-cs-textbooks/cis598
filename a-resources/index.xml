@@ -65,6 +65,11 @@
 	
 		
 		
+
+	
+	
+		
+		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -90,6 +95,14 @@ System Design Textbook - a great writeup on system design, starting from the bas
 YouTube Channel - contains all videos.
 Video Topics Below is a quick guide to the various videos and their relevance to CIS 598 projects. Feel free to use this to help you find a particular video or topic.
 Chapter 1: Videos 1a and 1b talk mostly about project teams. 1a also covers work products.</description>
+    </item>
+    <item>
+      <title>Presentation Tips</title>
+      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/03-presentation-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/03-presentation-tips/</guid>
+      <description>This is a presentation tips video recorded during the Fall 2022 semester.
+YouTube Video Edited Transcript Hello, everyone, I wanted to take a few minutes to record a short video to give you some tips and tricks of things that you can do to improve your presentations for the second round of presentations. Most of these comments are from things that Dr. DeLoach, Dr. Lang and I wrote down on the comment sheets for all of you, those should all be uploaded to Canvas.</description>
     </item>
   </channel>
 </rss>
