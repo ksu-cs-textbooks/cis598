@@ -114,7 +114,7 @@ A brief overview of the project. A discussion of the requirements for each phase
       <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/04-presentation-2/</guid>
       <description>During the second half of the semester, each student will be scheduled to give a Design Presentation related to the project.
 Presentation Outline The presentation should be roughly 8 minutes in length, and cover the following topics:
-The chosen design for the project. A deep overview of design diagrams relevant to the project: UML Diagrams (Class Diagrams, Sequence Diagrams, etc.) Database Entity Relationship Diagrams API Documentation Diagrams UI Mockups &amp;amp; Diagrams Sitemaps for Websites A discussion of how the project will be tested The first two items roughly correspond to the two initial artifacts discussed on the previous page.</description>
+The chosen design for the project. A deep overview of design diagrams relevant to the project: UML Diagrams (Class Diagrams, Sequence Diagrams, etc.) Database Entity Relationship Diagrams API Documentation Diagrams UI Mockups &amp;amp; Diagrams Sitemaps for Websites A discussion of how the project will be tested Additional Content to Include In addition to the basic outline listed above, here is a list of some other topics you may wish to cover in your presentation, especially if it is relevant to your project:</description>
     </item>
     <item>
       <title>Final Presentation</title>
