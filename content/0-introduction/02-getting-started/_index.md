@@ -95,3 +95,20 @@ One area that many students struggle with is finding a project that has the appr
 ## Next Steps
 
 At this point, you should be well into development on your project. The next page discusses the first presentation to be given.
+
+<!-- TODO 
+* Add Sprint Schedule & Tracking 
+* Statement of significant algorithmic functionality
+* Check student qualifications when propose project 
+  * No web if no experience
+  * No game if no experience
+* No using major engines like Unity – must be code-first and not GUI first
+  * No UI designers? Code forward
+* Weekly time logs with git commits
+* Time Management Plan
+* Initial project idea as "problem" and "solution"
+* Research-y type project pathway
+Russ
+
+
+-->
