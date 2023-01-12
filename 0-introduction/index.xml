@@ -18,6 +18,11 @@
 	
 	
 		
+
+	
+	
+		
+		
 		
 		
 
@@ -28,6 +33,16 @@
 	
 	
 		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
 		
 		
 
@@ -89,11 +104,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fall 2022 Syllabus</title>
+      <title>Spring 2023 Syllabus</title>
       <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/</guid>
-      <description>CIS 596 - Entrepreneurial Computer Science Project - Fall 2022 CIS 598 - Computer Science Project - Fall 2022 Previous Versions
+      <description>CIS 596 - Entrepreneurial Computer Science Project - Spring 2023 CIS 598 - Computer Science Project - Spring 2023 Previous Versions
 Instructor Contact Information Instructor: Dr. Scott DeLoach (sdeloach AT ksu DOT edu) Office: DUE 2184 Phone: (785) 532-6350 Website: https://people.cs.ksu.edu/~sdeloach/ Office Hours: TBA
 Instructor: Russell Feldhausen (russfeld AT ksu DOT edu)
 I use he/him pronouns. Feel free to share your own pronouns with me, and I&amp;rsquo;ll do my best to use them!</description>
@@ -105,8 +120,15 @@ I use he/him pronouns. Feel free to share your own pronouns with me, and I&amp;r
       <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-getting-started/</guid>
       <description>Slides
 The major outcome for this course is a project that demonstrates your skills in computer science, software development, and other areas relevant to your chosen degree program. This page provides an overview that will help you get started on your project.
-Recommended Timeline Here is a recommended timeline for your project:
-Week 1: Identify a project, get a project advisor. Week 2: Report your project topic and advisor. Start developing.</description>
+Research Topic Starting in Spring 2023, we now have a special track for topics that fall generally under the heading of &amp;ldquo;research&amp;rdquo; instead of a software development project. This includes projects that may have a significant experimental component where the focus is less on developing a software project and more about creating software to support a research task.</description>
+    </item>
+    <item>
+      <title>Weekly Work</title>
+      <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-weekly-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-weekly-work/</guid>
+      <description>Every two weeks throughout the semester, you are expected to do the following:
+Meet with your project advisor, either in person or via Zoom, to provide them with a clear update on your project. Ideally, you should be showing them code or working prototypes, not just a quick verbal update. They are here to provide help but need to know exactly what is going on in your project. Discuss issues, questions, and next steps with your advisor during the meeting.</description>
     </item>
     <item>
       <title>Presentation 1</title>
@@ -124,7 +146,7 @@ A brief overview of the project. A discussion of the requirements for each phase
       <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/04-presentation-2/</guid>
       <description>During the second half of the semester, each student will be scheduled to give a Design Presentation related to the project.
 Presentation Outline The presentation should be roughly 8 minutes in length, and cover the following topics:
-The chosen design for the project. A deep overview of design diagrams relevant to the project: UML Diagrams (Class Diagrams, Sequence Diagrams, etc.) Database Entity Relationship Diagrams API Documentation Diagrams UI Mockups &amp;amp; Diagrams Sitemaps for Websites A discussion of how the project will be tested Additional Content to Include In addition to the basic outline listed above, here is a list of some other topics you may wish to cover in your presentation, especially if it is relevant to your project:</description>
+The chosen design for the project. A deep overview of design diagrams relevant to the project: UML Diagrams (Class Diagrams, Sequence Diagrams, etc.) Database Entity Relationship Diagrams API Documentation Diagrams UI Mockups &amp;amp; Diagrams Sitemaps for Websites A discussion of how the project will be tested Presentation Diagrams While the focus of this presentation is the design of your project, you don&amp;rsquo;t need to include an excruciating level of detail in your design diagrams.</description>
     </item>
     <item>
       <title>Final Presentation</title>
@@ -142,6 +164,14 @@ Introduction Background &amp;amp; Related Work Project Requirements Design Docum
       <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/06-artifacts/</guid>
       <description>At the end of the semester, you&amp;rsquo;ll need to submit all of your project artifacts and information for grading. Here is a helpful checklist of everything that should be submitted:
 Initial Writeup &amp;amp; Feature List (collected via Canvas early in the semester) First Presentation (collected via Canvas when it was presented) Second Presentation (collected via Canvas when it was presented) Advertisement Materials (collected via Canvas before final presentation) All Code &amp;amp; Related Resources Pushed to GitHub Classroom Repository Repository should include a README.</description>
+    </item>
+    <item>
+      <title>Research Project</title>
+      <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/07-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/07-research/</guid>
+      <description>This course includes a special project track for projects that are considered more &amp;ldquo;research&amp;rdquo; than purely software development. Some examples:
+Exploring how to use artificial intelligence to play a simulated game or recognize images Developing a software tool to interface with lab equipment that requires a large amount of trial and error Writing a tool that uses data science techniques to analyze data and answer a question or hypothesis Developing a new educational software tool, where the major focus of the project is collecting user feedback and analyzing results to continuously improve the software.</description>
     </item>
   </channel>
 </rss>

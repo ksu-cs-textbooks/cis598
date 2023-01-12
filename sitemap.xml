@@ -18,6 +18,11 @@
 	
 	
 		
+
+	
+	
+		
+		
 		
 		
 
@@ -28,6 +33,16 @@
 	
 	
 		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
 		
 		
 
@@ -87,12 +102,12 @@
     <lastmod>2022-07-22T16:02:15-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/</loc>
-    <lastmod>2022-08-02T14:39:27-05:00</lastmod>
-  </url>
-  <url>
     <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/01-links/</loc>
     <lastmod>2022-08-18T14:09:32-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/</loc>
+    <lastmod>2023-01-12T11:06:14-06:00</lastmod>
   </url>
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/</loc>
@@ -100,11 +115,15 @@
   </url>
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-getting-started/</loc>
-    <lastmod>2023-01-10T18:37:41-06:00</lastmod>
+    <lastmod>2023-01-12T11:06:14-06:00</lastmod>
+  </url>
+  <url>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-weekly-work/</loc>
+    <lastmod>2023-01-12T11:06:14-06:00</lastmod>
   </url>
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/03-presentation-1/</loc>
-    <lastmod>2022-07-26T15:38:49-05:00</lastmod>
+    <lastmod>2023-01-12T11:06:14-06:00</lastmod>
   </url>
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/03-presentation-tips/</loc>
@@ -112,7 +131,7 @@
   </url>
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/04-presentation-2/</loc>
-    <lastmod>2022-10-13T11:02:24-05:00</lastmod>
+    <lastmod>2023-01-12T11:06:14-06:00</lastmod>
   </url>
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/05-final-presentation/</loc>
@@ -121,6 +140,10 @@
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/06-artifacts/</loc>
     <lastmod>2022-07-26T15:38:49-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/07-research/</loc>
+    <lastmod>2023-01-12T11:06:14-06:00</lastmod>
   </url>
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/</loc>
