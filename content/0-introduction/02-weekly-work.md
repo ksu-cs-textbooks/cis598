@@ -14,5 +14,3 @@ Every two weeks throughout the semester, you are expected to do the following:
 * Commit your current code to the GitHub Classroom repository for your project. You may also use a secondary repository if you would like, but your code **must** be accessible in the GitHub Classroom repository unless other arrangements have been made (i.e. you are working on a project for a company and storing the code in their systems). 
   * Post the link to the most recent commit to the MS Teams channel. 
 
-
-
