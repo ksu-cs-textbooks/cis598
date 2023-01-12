@@ -29,3 +29,9 @@ In addition to the basic outline listed above, here is a list of some other topi
 ## Sample Presentations
 
 You can find several previous presentations under the Files section on Canvas. Bear in mind that these may or may not be example of _good_ presentations, they are simply ones that have been collected for sharing.
+
+{{% notice tip "Presentation Tips" %}}
+
+In Fall 2022, we recorded a video containing some great tips to improve your presentations. [Check it out!]({{% relref "a-resources/03-presentation-tips" %}})
+
+{{% /notice %}}

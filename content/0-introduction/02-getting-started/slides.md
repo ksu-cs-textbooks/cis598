@@ -70,21 +70,22 @@ hidden: true
 <section>
   <h3>Deliverables</h3>
   <ul>
-    <li>8/29: GitHub Classroom</li>
-    <li>9/4: Initial Writeup & Requirements</li>
-    <li>9/12-10/10: Requirements Presentations</li>
-    <li>10/17-11-28: Design Presentations</li>
-    <li>12/2: Presentation Advertisements</li>
-    <li>12/5-12/16: Final Presentations</li>
-    <li>12/16: Code & Documentation</li>
+    <li>1/23: GitHub Classroom</li>
+    <li>1/29: Initial Writeup & Requirements</li>
+    <li>1/30-3/10: Requirements Presentations</li>
+    <li>3/20-4-28: Design Presentations</li>
+    <li>4/28: Presentation Advertisements</li>
+    <li>5/1-5/12: Final Presentations</li>
+    <li>5/12: Code & Documentation</li>
   </ul>
 </section>
 <section>
   <h3>Schedule</h3>
   <ul>
-    <li><b>Mondays - 3:30 PM DUR 1066</b><ul>
-      <li><b>Exception: Wednesday 9/7</b></li>
-      <li><b>Exception: W Overflow</b></li>
+    <li><b>Mondays - 3:30 PM DUE 1116</b><ul>
+      <li><b>Exception: TODAY</b></li>
+      <li><b>Exception: Wed 3/8</b></li>
+      <li><b>Exception: Wed 3/26</b></li>
       <li><b>Attendance Expected!</b></li>
     </ul></li>
     <li>Wed & Fri - 3:30 PM via Zoom<ul>
@@ -114,7 +115,7 @@ hidden: true
       <li>Appropriate scope & scale</li>
       <li><i>Solely at advisor's discretion</i></li>
     </ul></li>
-    <li>30% Presentations 1 & 2 (Instructors)<ul>
+    <li>30% Presentations & Artifacts (Instructors)<ul>
       <li>Specifications Grading (Pass/Fail)</li>
       <li>Fail - Give again within 1 week</li>
     </ul></li>
@@ -143,16 +144,20 @@ hidden: true
 <section>
   <h3>What's New?</h3>
   <ul>
-    <li>Grading Policy</li>
-    <li>Deductions</li>
-    <li>Incomplete Policy</li>
-    <li>Clearer Deadlines</li>
-    <li>GitHub Classroom</li>
+    <li>Problem/Solution</li>
+    <li>Algorithmic Functionality</li>
+    <li>Student Qualifications</li>
+    <li>Research Track</li>
+    <li>Time Logging on Teams</li>
   </ul>
 </section>
 <section>
-  <h3>Teams? Discord?</h3>
-  <h3>Kanban? Trello?</h3>
+  <h3>Microsoft Teams</h3>
+  <ul>
+    <li>Time Log</li>
+    <li>Project Tracking</li>
+    <li><i>Other ideas?</i></li>
+  </ul>
 </section>
 <section>
 	<h3>Subject to Change</h3>
@@ -173,11 +178,11 @@ hidden: true
 <section>
   <h3>What's Next</h3>
   <ul>
-    <li>GitHub Classroom (8/29)</li>
+    <li>GitHub Classroom (9/23)</li>
     <li>Project Topic & Advisor</li>
     <li>First Advisor Meeting</li>
     <li>Initial Writeup & Requirements</li>
-    <li>Due September 4th (Sunday)</li>
+    <li>Due January 29th (Sunday)</li>
   </ul>
 </section>
 <section>
