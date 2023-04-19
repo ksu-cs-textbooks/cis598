@@ -1,0 +1,630 @@
+
+
+
+
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.101.0">
+    <meta name="generator" content="Relearn 5.2.0+tip">
+    <meta name="robots" content="noindex, nofollow, noarchive, noimageindex">
+    <meta name="description" content="CIS 598 Textbook">
+    <meta name="author" content="Russell Feldhausen">
+    <title>Spring 2023 :: CIS 598 Textbook</title>
+    <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/fontawesome-all.min.css?1681917650" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cis598/css/fontawesome-all.min.css?1681917650" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/featherlight.min.css?1681917650" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cis598/css/featherlight.min.css?1681917650" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/auto-complete.css?1681917650" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cis598/css/auto-complete.css?1681917650" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/perfect-scrollbar.min.css?1681917650" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/nucleus.css?1681917650" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/fonts.css?1681917650" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cis598/css/fonts.css?1681917650" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/theme.css?1681917650" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/theme-light-theme.css?1681917650" rel="stylesheet" id="variant-style">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/ie.css?1681917650" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/variant.css?1681917650" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/print.css?1681917650" rel="stylesheet" media="print">
+    <script src="https://ksu-cs-textbooks.github.io/cis598/js/variant.js?1681917650"></script>
+    <script>
+      // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
+      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
+      var index_url="https://ksu-cs-textbooks.github.io/cis598/index.json";
+      var root_url="https://ksu-cs-textbooks.github.io/cis598/";
+      var baseUri=root_url.replace(/\/$/, '');
+      // translations
+      window.T_Copy_to_clipboard = 'Copy to clipboard';
+      window.T_Copied_to_clipboard = 'Copied to clipboard!';
+      window.T_Copy_link_to_clipboard = 'Copy link to clipboard';
+      window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
+      // some further base stuff
+      var baseUriFull='https:\/\/ksu-cs-textbooks.github.io\/cis598/';
+      window.variants && variants.init( [ 'light-theme', 'dark-theme' ] );
+    </script>
+    
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/custom.css?1681917650" rel="stylesheet">
+    <script src="https://ksu-cs-textbooks.github.io/cis598/js/jquery.min.js?1681917650" defer></script>
+
+  </head>
+  <body class="mobile-support embed disableInlineCopyToClipboard" data-url="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/embed.html">
+    <div id="body" class="default-animation" data-iframe-height="yes">
+      
+      
+      
+      <main id="body-inner" class="highlightable default" tabindex="-1" data-iframe-height="yes" style="padding-bottom: 0px">
+        <div class="flex-block-wrapper" data-iframe-height="yes">
+          <div id="head-tags">
+          </div>
+          <article class="default">
+    
+    
+    
+<p>All presentations will be streamed on Zoom at 
+
+<a href="https://bit.ly/cis598s23" target="_blank" rel="noopener">https://bit.ly/cis598s23</a></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Project</th>
+<th style="text-align:center">Student</th>
+<th style="text-align:center">Advisor</th>
+<th style="text-align:center">Date</th>
+<th style="text-align:center">Time</th>
+<th style="text-align:center">Location</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#1">Hydroponics Management System</a></td>
+<td style="text-align:center">Cashel FitzGibbons</td>
+<td style="text-align:center">Neilsen</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">8:00 - 8:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#2">Day to Remember</a></td>
+<td style="text-align:center">Eve Steinle</td>
+<td style="text-align:center">Bean</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">8:45 - 9:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#3">Sharepoint Dashboard &amp; File Migration</a></td>
+<td style="text-align:center">John Velasco</td>
+<td style="text-align:center">Valenzuela</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">9:30 - 10:15</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#4">ClarifAI</a></td>
+<td style="text-align:center">Patrick Moll</td>
+<td style="text-align:center">Thornton</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">10:15 - 11:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#5">SongSwap</a></td>
+<td style="text-align:center">Jared Bothwell</td>
+<td style="text-align:center">Feldhausen</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">11:00 - 11:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#6">EasyCart</a></td>
+<td style="text-align:center">Connor Wiggins</td>
+<td style="text-align:center">Thornton</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">11:45 - 12:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#7">Improviso</a></td>
+<td style="text-align:center">Cody Murphy</td>
+<td style="text-align:center">Weese</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">1:15 - 2:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#8">3D Printing Monitor Framework</a></td>
+<td style="text-align:center">Quentin Ricketts</td>
+<td style="text-align:center">Neilsen</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">2:00 - 2:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#9">Team Based Pixel Game</a></td>
+<td style="text-align:center">Sean Hurt</td>
+<td style="text-align:center">Feldhausen</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">2:45 - 3:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#10">Pass Keeper</a></td>
+<td style="text-align:center">Tucker Deaton</td>
+<td style="text-align:center">Feldhausen</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">3:30 - 4:15</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#11">Tool for Mycelium Grain Spawn Production</a></td>
+<td style="text-align:center">Isaac Peterson</td>
+<td style="text-align:center">Neilsen</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">4:15 - 5:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#12">Magical Casters</a></td>
+<td style="text-align:center">Jordan Miller</td>
+<td style="text-align:center">Hsu</td>
+<td style="text-align:center">Tues., May 9, 2023</td>
+<td style="text-align:center">5:00 - 5:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#13">Web of Smithies</a></td>
+<td style="text-align:center">Eric Yu</td>
+<td style="text-align:center">Shamir</td>
+<td style="text-align:center">Wed., May 10, 2023</td>
+<td style="text-align:center">8:00 - 8:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#14">Predictive Golf Tournament Model</a></td>
+<td style="text-align:center">Mason Wittman</td>
+<td style="text-align:center">Shamir</td>
+<td style="text-align:center">Wed., May 10, 2023</td>
+<td style="text-align:center">8:45 - 9:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#15">Worlds Without Number Faction Simulator</a></td>
+<td style="text-align:center">Evelyn Gruver</td>
+<td style="text-align:center">Hsu</td>
+<td style="text-align:center">Wed., May 10, 2023</td>
+<td style="text-align:center">9:30 - 10:15</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#16">FTC Web App</a></td>
+<td style="text-align:center">Rana Chevuru</td>
+<td style="text-align:center">Shamir</td>
+<td style="text-align:center">Wed., May 10, 2023</td>
+<td style="text-align:center">10:15 - 11:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#17">NexdMovie</a></td>
+<td style="text-align:center">Parker Billinger</td>
+<td style="text-align:center">Hsu</td>
+<td style="text-align:center">Wed., May 10, 2023</td>
+<td style="text-align:center">11:00 - 11:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#18">Quictionary</a></td>
+<td style="text-align:center">Marco Vasquez</td>
+<td style="text-align:center">Valenzuela</td>
+<td style="text-align:center">Wed., May 10, 2023</td>
+<td style="text-align:center">11:45 - 12:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#19">Realistic Biome Generator</a></td>
+<td style="text-align:center">Sam McAnany</td>
+<td style="text-align:center">Valenzuela</td>
+<td style="text-align:center">Wed., May 10, 2023</td>
+<td style="text-align:center">1:15 - 2:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#20">ViShader</a></td>
+<td style="text-align:center">Eric Honas</td>
+<td style="text-align:center">Bean</td>
+<td style="text-align:center">Wed., May 10, 2023</td>
+<td style="text-align:center">2:00 - 2:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#21">Dou Dizhu</a></td>
+<td style="text-align:center">Ziyu Zhao</td>
+<td style="text-align:center">Bean</td>
+<td style="text-align:center">Wed., May 10, 2023</td>
+<td style="text-align:center">2:45 - 3:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#22">FrontPage</a></td>
+<td style="text-align:center">Ethan Hulen</td>
+<td style="text-align:center">Bean</td>
+<td style="text-align:center">Wed., May 10, 2023</td>
+<td style="text-align:center">3:30 - 4:15</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#23">Geoplay</a></td>
+<td style="text-align:center">Kaden O&rsquo;Hare</td>
+<td style="text-align:center">Weese</td>
+<td style="text-align:center">Wed., May 10, 2023</td>
+<td style="text-align:center">4:15 - 5:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#24">Dungeon Swing</a></td>
+<td style="text-align:center">Micah Roening</td>
+<td style="text-align:center">Weese</td>
+<td style="text-align:center">Thur., May 11, 2023</td>
+<td style="text-align:center">8:00 - 8:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#25">What&rsquo;s Next</a></td>
+<td style="text-align:center">Connor Gabrielson</td>
+<td style="text-align:center">McGinty</td>
+<td style="text-align:center">Thur., May 11, 2023</td>
+<td style="text-align:center">8:45 - 9:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#26">LegionDB</a></td>
+<td style="text-align:center">Nicholas Friesen</td>
+<td style="text-align:center">Caragea</td>
+<td style="text-align:center">Thur., May 11, 2023</td>
+<td style="text-align:center">9:30 - 10:15</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#27">Analyses of Institutional Reputation through Social Media Data Mining</a></td>
+<td style="text-align:center">Adam Clement</td>
+<td style="text-align:center">Caragea</td>
+<td style="text-align:center">Thur., May 11, 2023</td>
+<td style="text-align:center">10:15 - 11:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#28">Personal Financial Planning Assistant</a></td>
+<td style="text-align:center">Garrett Heitmann</td>
+<td style="text-align:center">Thornton</td>
+<td style="text-align:center">Thur., May 11, 2023</td>
+<td style="text-align:center">11:00 - 11:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#29">ELA Platform</a></td>
+<td style="text-align:center">Colton Capps</td>
+<td style="text-align:center">Feldhausen</td>
+<td style="text-align:center">Thur., May 11, 2023</td>
+<td style="text-align:center">11:45 - 12:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#30">Spells and Shapes</a></td>
+<td style="text-align:center">Kirkland Akins</td>
+<td style="text-align:center">Bean</td>
+<td style="text-align:center">Thur., May 11, 2023</td>
+<td style="text-align:center">1:00 - 1:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#31">Speakeasy</a></td>
+<td style="text-align:center">Parker Schmitt</td>
+<td style="text-align:center">Feldhausen</td>
+<td style="text-align:center">Thur., May 11, 2023</td>
+<td style="text-align:center">1:45 - 2:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#32">AD Discord Bot</a></td>
+<td style="text-align:center">Reece Miller</td>
+<td style="text-align:center">Feldhausen</td>
+<td style="text-align:center">Thur., May 11, 2023</td>
+<td style="text-align:center">2:30 - 3:15</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center">
+
+<a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/#33">The Resurrection of A Project of Voice</a></td>
+<td style="text-align:center">Alisha Crow</td>
+<td style="text-align:center">Weese</td>
+<td style="text-align:center">Thur., May 11, 2023</td>
+<td style="text-align:center">3:15 - 4:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+</tbody>
+</table>
+<h2 id="1">Hydroponics Management System</h2>
+<p>Cashel FitzGibbons</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/fitzgibbons.png" alt="Hydroponics Management System"></p>
+<h2 id="2">Day to Remember</h2>
+<p>Eve Steinle</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/steinle.png" alt="Day to Remember"></p>
+<h2 id="3">Sharepoint Dashboard &amp; File Migration</h2>
+<p>John Velasco</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/velasco.png" alt="Sharepoint Dashboard &amp; File Migration"></p>
+<h2 id="4">ClarifAI</h2>
+<p>Patrick Moll</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/moll.png" alt="ClarifAI"></p>
+<h2 id="5">SongSwap</h2>
+<p>Jared Bothwell</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/bothwell.png" alt="SongSwap"></p>
+<h2 id="6">EasyCart</h2>
+<p>Connor Wiggins</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/wiggins.png" alt="EasyCart"></p>
+<h2 id="7">Improviso</h2>
+<p>Cody Murphy</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/murphy.png" alt="Improviso"></p>
+<h2 id="8">3D Printing Monitor Framework</h2>
+<p>Quentin Ricketts</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/ricketts.png" alt="3D Printing Monitor Framework"></p>
+<h2 id="9">Team Based Pixel Game</h2>
+<p>Sean Hurt</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/hurt.png" alt="Team Based Pixel Game"></p>
+<h2 id="10">Pass Keeper</h2>
+<p>Tucker Deaton</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/deaton.png" alt="Pass Keeper"></p>
+<h2 id="11">Tool for Mycelium Grain Spawn Production</h2>
+<p>Isaac Peterson</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/peterson.png" alt="Tool for Mycelium Grain Spawn Production"></p>
+<h2 id="12">Magical Casters</h2>
+<p>Jordan Miller</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/miller.png" alt="Magical Casters"></p>
+<h2 id="13">Web of Smithies</h2>
+<p>Eric Yu</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/yu.png" alt="Web of Smithies"></p>
+<h2 id="14">Predictive Golf Tournament Model</h2>
+<p>Mason Wittman</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/wittman.png" alt="Predictive Golf Tournament Model"></p>
+<h2 id="15">Worlds Without Number Faction Simulator</h2>
+<p>Evelyn Gruver</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/gruver.png" alt="Worlds Without Number Faction Simulator"></p>
+<h2 id="16">FTC Web App</h2>
+<p>Rana Chevuru</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/chevuru.png" alt="FTC Web App"></p>
+<h2 id="17">NexdMovie</h2>
+<p>Parker Billinger</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/billinger.png" alt="NexdMovie"></p>
+<h2 id="18">Quictionary</h2>
+<p>Marco Vasquez</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/vasquez.png" alt="Quictionary"></p>
+<h2 id="19">Realistic Biome Generator</h2>
+<p>Sam McAnany</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/mcanany.png" alt="Realistic Biome Generator"></p>
+<h2 id="20">ViShader</h2>
+<p>Eric Honas</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/honas.png" alt="ViShader"></p>
+<h2 id="21">Dou Dizhu</h2>
+<p>Ziyu Zhao</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/zhao.png" alt="Dou Dizhu"></p>
+<h2 id="22">FrontPage</h2>
+<p>Ethan Hulen</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/hulen.png" alt="FrontPage"></p>
+<h2 id="23">Geoplay</h2>
+<p>Kaden O&rsquo;Hare</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/o'hare.png" alt="Geoplay"></p>
+<h2 id="24">Dungeon Swing</h2>
+<p>Micah Roening</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/roening.png" alt="Dungeon Swing"></p>
+<h2 id="25">What&rsquo;s Next</h2>
+<p>Connor Gabrielson</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/gabrielson.png" alt="What&amp;rsquo;s Next"></p>
+<h2 id="26">LegionDB</h2>
+<p>Nicholas Friesen</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/friesen.png" alt="LegionDB"></p>
+<h2 id="27">Analyses of Institutional Reputation through Social Media Data Mining</h2>
+<p>Adam Clement</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/clement.png" alt="Analyses of Institutional Reputation through Social Media Data Mining"></p>
+<h2 id="28">Personal Financial Planning Assistant</h2>
+<p>Garrett Heitmann</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/heitmann.png" alt="Personal Financial Planning Assistant"></p>
+<h2 id="29">ELA Platform</h2>
+<p>Colton Capps</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/capps.png" alt="ELA Platform"></p>
+<h2 id="30">Spells and Shapes</h2>
+<p>Kirkland Akins</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/akins.png" alt="Spells and Shapes"></p>
+<h2 id="31">Speakeasy</h2>
+<p>Parker Schmitt</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/schmitt.png" alt="Speakeasy"></p>
+<h2 id="32">AD Discord Bot</h2>
+<p>Reece Miller</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/miller.png" alt="AD Discord Bot"></p>
+<h2 id="33">The Resurrection of A Project of Voice</h2>
+<p>Alisha Crow</p>
+<p><img src="https://ksu-cs-textbooks.github.io/cis598/images/spring2023/crow.png" alt="The Resurrection of A Project of Voice"></p>
+
+            <footer class="footline">
+            </footer>
+          </article>
+        </div>
+      </main>
+    </div>
+    
+    
+    
+    <script src="https://ksu-cs-textbooks.github.io/cis598/js/clipboard.min.js?1681917650" defer></script>
+    
+    <script src="https://ksu-cs-textbooks.github.io/cis598/js/featherlight.min.js?1681917650" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cis598/js/theme.js?1681917650" defer></script>
+    
+    <script src="https://ksu-cs-textbooks.github.io/cis598/js/embed-iframe.js?1681917650 defer"></script>
+    <script src="https://cdn.jsdelivr.net/npm/iframe-resizer@4.3.2/js/iframeResizer.contentWindow.min.js"></script>
+    
+  </body>
+</html>
