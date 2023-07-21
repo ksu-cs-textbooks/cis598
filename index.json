@@ -114,7 +114,7 @@
     "uri": "/0-introduction/"
   },
   {
-    "content": "This page is a collection of general links that may be useful. Email the instructors to request any additions.\nSystem Design Textbook - a great writeup on system design, starting from the basics of networking and the internet through high availability systems and case studies. This information is very useful as you get closer to having a product ready for release and deployment, but may also help inform your early design stage as well.\nMockola - IT diagramming tool developed by Keyhole Software in Lenexa, KS. The team includes a few K-State CS graduates!\n",
+    "content": "This page is a collection of general links that may be useful. Email the instructors to request any additions.\nSystem Design Textbook - a great writeup on system design, starting from the basics of networking and the internet through high availability systems and case studies. This information is very useful as you get closer to having a product ready for release and deployment, but may also help inform your early design stage as well.\nMockola - IT diagramming tool developed by Keyhole Software in Lenexa, KS. The team includes a few K-State CS graduates!\nHow to Write a Good Readme - Some good tips and information about writing a GitHub README file, as well as links to some notable examples.\n",
     "description": "",
     "tags": null,
     "title": "Links",
