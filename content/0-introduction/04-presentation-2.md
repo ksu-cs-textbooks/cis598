@@ -10,13 +10,15 @@ During the second half of the semester, each student will be scheduled to give a
 
 The presentation should be roughly **8 minutes** in length, and cover the following topics:
 * The chosen design for the project.
+  * The chosen design should clearly reflect the overall requirements listed in the previous presentation.
 * A deep overview of design diagrams relevant to the project:
   * UML Diagrams (Class Diagrams, Sequence Diagrams, etc.)
   * Database Entity Relationship Diagrams
   * API Documentation Diagrams
   * UI Mockups & Diagrams
   * Sitemaps for Websites
-* A discussion of how the project will be tested 
+* A discussion of how the project will be tested
+  * **NEW** These tests should clearly align with the use cases listed in the first presentation.
 
 {{% notice info "Presentation Diagrams" %}}
 

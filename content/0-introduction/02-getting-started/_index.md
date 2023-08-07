@@ -86,8 +86,9 @@ Each advisor approaches senior projects differently, but in general your advisor
 
 At the very beginning of your project, you should create a few initial artifacts to start the development process:
 
-* **Writeup:** prepare a short, 1 page writeup that describes your project topic. It should give some basic use-cases and a rough idea of the architecture or platforms you plan on using in the project. Your writeup must include clear sections containing the following:
+* **Writeup:** prepare a short, 1 page writeup that describes your project topic. It should give some basic [use cases](https://en.wikipedia.org/wiki/Use_case) and a rough idea of the architecture or platforms you plan on using in the project. Your writeup must include clear sections containing the following:
   * **Problem/Solution** A clear statement of a problem that you are trying to solve, and how your project will fill the role as a solution to that problem. There are many ways to approach this statement - consult the course instructors for assistance if you are unsure how to phrase your project in this way.
+  * **Use Cases** A list of a few simple use cases that help describe how users will interact with your project.
   * **Algorithmic Functionality** A clear statement of the intended algorithmic functionality of your project. Your project must include some algorithmic functionality beyond the basics. For example, a web application should provide more than just the basic CRUD database operations. Likewise, a video game should include some complex algorithmic component such as procedurally-generated terrain or a learning AI beyond just simple, hard-coded content.
   * **Student Qualification** A clear statement explaining why you are qualified to take on this project. You must describe your background and experience with the chosen project and related technologies. _If you have no prior experience, consider choosing a different project._
   * **Project Advisor** List your project advisor. **You must have permission from your advisor confirming that they will supervise your project before submitting!**
@@ -95,6 +96,7 @@ At the very beginning of your project, you should create a few initial artifacts
   * **Minimum Viable Product (MVP)** or _must haves_: these are features that must be present in the project for it to function in the basic sense. It usually doesn't include much in the way of user interface beyond the basic interactions, and it may be missing some additional items to make it more useable. A project that has these features could be considered a Minimum Viable Product. Typically you want to have these features completed in the first 8 weeks of development.
   * **Version 1.0** or _should haves_: these are features that should be present in the project for it to be considered complete. This would involve additional usability features or links to other APIs as needed. A project with these features would be considered a 1.0 product, and could be used by others. Typically these features are completed in the second 8 weeks of development.
   * **Version 2.0** or _would like to haves_: these are cool features that would be useful to have in a finalized project, but they may be outside the scope of what is achievable in a single semester. The lack of these features should not impact the useability or functionality of the project. Typically these features are simply listed on the "Future Work" portion of the final presentation, but if you complete the project ahead of schedule you may consider adding one or more of these features to the project.
+* **Time Managemnet Plan:** prepare a detailed time management plan for each week of the semester. This helps ensure that you are able to devote 9 hours each week to this class, and also ensures that you save enough time for other classes and activities. 
 
 These artifacts are not "set in stone" and can be easily adjusted throughout the project. For example, you may find that a feature previously on the Version 2.0 list is not critical, and it moves to an earlier list. 
 
@@ -123,8 +125,6 @@ At this point, you should be well into development on your project. The next pag
 
 <!-- TODO 
 
-* Add Sprint Schedule & Tracking 
-* Weekly time logs with git commits
 * Time Management Plan
 
 -->
