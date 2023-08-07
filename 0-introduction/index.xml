@@ -147,7 +147,7 @@ Meet with your project advisor, either in person or via Zoom, to provide them wi
       <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/03-presentation-1/</guid>
       <description>During the first half of the semester, each student will be scheduled to give a Overview &amp;amp; Requirements Presentation related to the project.
 Presentation Outline The presentation should be roughly 8 minutes in length, and cover the following topics:
-A brief overview of the project. A discussion of the requirements for each phase of the project. A proposed timeline for project completion. The first two items roughly correspond to the two initial artifacts discussed on the previous page.</description>
+A brief overview of the project. NEW A small set (2-3) of top level use cases for the project. These use cases should clearly lead to the requirements in the next bullet point.</description>
     </item>
     <item>
       <title>Presentation 2</title>
@@ -156,7 +156,7 @@ A brief overview of the project. A discussion of the requirements for each phase
       <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/04-presentation-2/</guid>
       <description>During the second half of the semester, each student will be scheduled to give a Design Presentation related to the project.
 Presentation Outline The presentation should be roughly 8 minutes in length, and cover the following topics:
-The chosen design for the project. A deep overview of design diagrams relevant to the project: UML Diagrams (Class Diagrams, Sequence Diagrams, etc.) Database Entity Relationship Diagrams API Documentation Diagrams UI Mockups &amp;amp; Diagrams Sitemaps for Websites A discussion of how the project will be tested Presentation Diagrams While the focus of this presentation is the design of your project, you don&amp;rsquo;t need to include an excruciating level of detail in your design diagrams.</description>
+The chosen design for the project. The chosen design should clearly reflect the overall requirements listed in the previous presentation. A deep overview of design diagrams relevant to the project: UML Diagrams (Class Diagrams, Sequence Diagrams, etc.</description>
     </item>
     <item>
       <title>Final Presentation</title>
