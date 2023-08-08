@@ -4,10 +4,8 @@ weight: 10
 pre: "1. "
 ---
 
-## CIS 596 - Entrepreneurial Computer Science Project - Fall 2023
-## CIS 598 - Computer Science Project - Fall 2023
-
-[Previous Versions]({{<relref "./old">}})
+## CIS 596 - Entrepreneurial Computer Science Project - Spring 2023
+## CIS 598 - Computer Science Project - Spring 2023
 
 ### Instructor Contact Information
 
@@ -63,11 +61,11 @@ After completing this course, a successful student will be able to:
 
 ###  Course Structure
 
-The course meets in person **Mondays from 3:30 - 4:20 PM in DUR 1066**. Students should attend all in-person course sessions. In-person sessions will primarily be used for student presentations throughout the semester. There may also be one or two **Wednesday** in-person class periods for presentations. These dates will be clearly announced in advance. 
+The course meets in person **Mondays from 3:30 - 4:20 PM in DUE 1116**. Students should attend all in-person course sessions. In-person sessions will primarily be used for student presentations throughout the semester. There may also be one or two **Wednesday** in-person class periods for presentations. These dates will be clearly announced in advance. 
 
 On weeks where **Monday** falls on a university holiday, such as Labor Day or President's Day, the course will instead meet in person on **Wednesday** of the same week. 
 
-Course work hours will be **Wednesdays and Fridays from 3:30 - 4:20 PM in DUR 1066 and online via Zoom**. Attendance at these work hours is optional, but highly recommended. It is a good time to work on your project, ask questions, and get advice. The instructors will be available during these times to answer questions about the class or provide project assistance.
+Course work hours will be **Wednesdays and Fridays from 3:30 - 4:20 PM in DUE 1116 and online via Zoom**. Attendance at these work hours is optional, but highly recommended. It is a good time to work on your project, ask questions, and get advice. The instructors will be available during these times to answer questions about the class or provide project assistance.
 
 ### The Work
 
