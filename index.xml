@@ -28,6 +28,11 @@
 	
 		
 		
+
+	
+	
+		
+		
 		
 		
 
@@ -113,24 +118,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on CIS 598 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis598/</link>
-    <description>Recent content in Homepage on CIS 598 Textbook</description>
+    <title>CIS 598 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis598/index.html</link>
+    <description>Recent content on CIS 598 Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/</link>
+      <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/</guid>
-      <description>Chapter 0 Introduction Welcome to CIS 598!</description>
+      <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/index.html</guid>
+      <description>Welcome to CIS 598!</description>
     </item>
     <item>
       <title>Resources</title>
-      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/</link>
+      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/</guid>
-      <description>Appendix A Resources Helpful Resources!</description>
+      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/index.html</guid>
+      <description>Helpful Resources!</description>
     </item>
   </channel>
 </rss>

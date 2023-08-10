@@ -28,6 +28,11 @@
 	
 		
 		
+
+	
+	
+		
+		
 		
 		
 
@@ -114,7 +119,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spring 2023 Syllabus on CIS 598 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/old/spring2023/</link>
+    <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/old/spring2023/index.html</link>
     <description>Recent content in Spring 2023 Syllabus on CIS 598 Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/old/spring2023/index.xml" rel="self" type="application/rss+xml" />

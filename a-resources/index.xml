@@ -28,6 +28,11 @@
 	
 		
 		
+
+	
+	
+		
+		
 		
 		
 
@@ -114,23 +119,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on CIS 598 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/</link>
+    <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/index.html</link>
     <description>Recent content in Resources on CIS 598 Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/a-resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links</title>
-      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/01-links/</link>
+      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/01-links/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/01-links/</guid>
+      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/01-links/index.html</guid>
       <description>This page is a collection of general links that may be useful. Email the instructors to request any additions.
 System Design Textbook - a great writeup on system design, starting from the basics of networking and the internet through high availability systems and case studies. This information is very useful as you get closer to having a product ready for release and deployment, but may also help inform your early design stage as well.</description>
     </item>
     <item>
       <title>CIS 748 Videos</title>
-      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/</link>
+      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/</guid>
+      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/index.html</guid>
       <description>This page contains links to videos and some comments from the CIS 748: Advanced Software Management course taught by Dr. DeLoach.
 YouTube Channel - contains all videos.
 Video Topics Below is a quick guide to the various videos and their relevance to CIS 598 projects. Feel free to use this to help you find a particular video or topic.
@@ -138,19 +143,19 @@ Chapter 1: Videos 1a and 1b talk mostly about project teams. 1a also covers work
     </item>
     <item>
       <title>Presentation Tips</title>
-      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/03-presentation-tips/</link>
+      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/03-presentation-tips/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/03-presentation-tips/</guid>
+      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/03-presentation-tips/index.html</guid>
       <description>This is a presentation tips video recorded during the Fall 2022 semester.
-YouTube Video Edited Transcript Hello, everyone, I wanted to take a few minutes to record a short video to give you some tips and tricks of things that you can do to improve your presentations for the second round of presentations. Most of these comments are from things that Dr. DeLoach, Dr. Lang and I wrote down on the comment sheets for all of you, those should all be uploaded to Canvas.</description>
+Edited Transcript Hello, everyone, I wanted to take a few minutes to record a short video to give you some tips and tricks of things that you can do to improve your presentations for the second round of presentations. Most of these comments are from things that Dr. DeLoach, Dr. Lang and I wrote down on the comment sheets for all of you, those should all be uploaded to Canvas.</description>
     </item>
     <item>
       <title>Projects &amp; Time Tracking</title>
-      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/04-projects-time/</link>
+      <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/04-projects-time/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/04-projects-time/</guid>
+      <guid>https://ksu-cs-textbooks.github.io/cis598/a-resources/04-projects-time/index.html</guid>
       <description>This is a video exploring GitHub Projects &amp;amp; Clockify Time Tracking for Spring 2023
-YouTube Video Edited Transcript Hello, in this video, I&amp;rsquo;m going to talk through a bit of the process of doing time tracking in CIS 598, as well as doing some project management using GitHub, through the GitHub projects interface. First and foremost, what I&amp;rsquo;ve pulled up is Clockify, I&amp;rsquo;ve invited everybody in the class to Clockify this semester for our time tracking.</description>
+Edited Transcript Hello, in this video, I&amp;rsquo;m going to talk through a bit of the process of doing time tracking in CIS 598, as well as doing some project management using GitHub, through the GitHub projects interface. First and foremost, what I&amp;rsquo;ve pulled up is Clockify, I&amp;rsquo;ve invited everybody in the class to Clockify this semester for our time tracking.</description>
     </item>
   </channel>
 </rss>

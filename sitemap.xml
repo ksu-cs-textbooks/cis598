@@ -28,6 +28,11 @@
 	
 		
 		
+
+	
+	
+		
+		
 		
 		
 
@@ -113,69 +118,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/</loc>
-    <lastmod>2022-07-22T16:02:15-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/index.html</loc>
+    <lastmod>2023-08-10T14:35:04-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/01-links/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/index.html</loc>
+    <lastmod>2023-08-10T14:35:04-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/01-links/index.html</loc>
     <lastmod>2023-07-21T11:05:57-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/</loc>
-    <lastmod>2023-08-08T10:44:36-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/index.html</loc>
     <lastmod>2023-01-10T18:37:41-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-getting-started/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-getting-started/index.html</loc>
     <lastmod>2023-08-07T11:56:04-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-weekly-work/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-weekly-work/index.html</loc>
     <lastmod>2023-08-07T11:56:04-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/03-presentation-1/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/03-presentation-1/index.html</loc>
     <lastmod>2023-08-07T11:56:04-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/03-presentation-tips/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/03-presentation-tips/index.html</loc>
     <lastmod>2022-10-13T10:51:01-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/04-presentation-2/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/04-presentation-2/index.html</loc>
     <lastmod>2023-08-07T11:56:04-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/04-projects-time/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/04-projects-time/index.html</loc>
     <lastmod>2023-01-25T10:50:19-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/05-final-presentation/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/05-final-presentation/index.html</loc>
     <lastmod>2022-07-26T15:38:49-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/06-artifacts/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/06-artifacts/index.html</loc>
     <lastmod>2022-07-26T15:38:49-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/07-research/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/0-introduction/07-research/index.html</loc>
     <lastmod>2023-01-12T13:29:51-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/</loc>
-    <lastmod>2022-08-18T14:09:32-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/a-resources/index.html</loc>
+    <lastmod>2023-08-10T14:35:04-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/categories/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/categories/index.html</loc>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/</loc>
-    <lastmod>2022-07-22T16:02:15-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/index.html</loc>
+    <lastmod>2023-08-10T14:35:04-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cis598/tags/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cis598/tags/index.html</loc>
   </url>
 </urlset>
