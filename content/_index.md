@@ -1,8 +1,7 @@
 +++
-title = "Homepage"
+title = "CIS 598 Textbook"
+archetype = "home"
 +++
-
-# CIS 598 Textbook
 
 This is the textbook for **CIS 598 - Computer Science Project**. 
 

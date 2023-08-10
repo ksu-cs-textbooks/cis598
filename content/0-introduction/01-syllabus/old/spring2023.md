@@ -1,7 +1,7 @@
 ---
 title: "Spring 2023 Syllabus"
-weight: 10
-pre: "1. "
+weight: 11
+pre: "S23. "
 ---
 
 ## CIS 596 - Entrepreneurial Computer Science Project - Spring 2023

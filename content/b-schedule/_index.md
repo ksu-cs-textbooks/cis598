@@ -1,13 +1,10 @@
 +++
 title = "Schedule"
 weight = 200
-chapter = true
+archetype = "chapter"
+ordinal = "B"
 pre = "<b>B. </b>"
 hidden = true
 +++
-
-### Appendix B
-
-# Presentation Schedules
 
 Scheduled Presentation Times!

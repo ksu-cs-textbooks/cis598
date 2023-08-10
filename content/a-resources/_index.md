@@ -1,12 +1,9 @@
 +++
 title = "Resources"
 weight = 100
-chapter = true
+archetype = "chapter"
+ordinal = "A"
 pre = "<b>A. </b>"
 +++
-
-### Appendix A
-
-# Resources
 
 Helpful Resources!

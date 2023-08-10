@@ -5,8 +5,7 @@ hidden = true
 
 Previous Versions of this page:
 
-{{% children %}}
+{{% children sort="weight" %}}
 
 ---
 
-{{% attachments title="Previous PDF Syllabi" %}}
