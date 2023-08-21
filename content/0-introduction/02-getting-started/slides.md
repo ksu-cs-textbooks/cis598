@@ -21,7 +21,6 @@ hidden: true
 	<h3>Other Faculty</h3>
 	<ul>
 		<li>CIS 598/596: Dr. Scott DeLoach</li>
-    <li>CIS 599: Dr. Eugene Vasserman</li>
     <li>CIS 599: Dr. George Amariucai</li>
 	</ul>
 </section>
@@ -31,6 +30,7 @@ hidden: true
     <li>russfeld AT ksu DOT edu</li>
     <li>Please add "CIS 598" to subject</li>
     <br>
+    <li>Ed Discussion</li>
     <li>@russfeld on Discord/Teams</li>
     <li>DMs Welcome</li>
   </ul>
@@ -70,22 +70,20 @@ hidden: true
 <section>
   <h3>Deliverables</h3>
   <ul>
-    <li>1/23: GitHub Classroom</li>
-    <li>1/29: Initial Writeup & Requirements</li>
-    <li>1/30-3/10: Requirements Presentations</li>
-    <li>3/20-4-28: Design Presentations</li>
-    <li>4/28: Presentation Advertisements</li>
-    <li>5/1-5/12: Final Presentations</li>
-    <li>5/12: Code & Documentation</li>
+    <li>8/28: GitHub Classroom</li>
+    <li>9/3: Initial Writeup & Requirements</li>
+    <li>9/25: Requirements Presentations</li>
+    <li>10/30: Design Presentations</li>
+    <li>12/1: Presentation Advertisements</li>
+    <li>12/11-12/15: Final Presentations</li>
+    <li>12/15: Code & Documentation</li>
   </ul>
 </section>
 <section>
   <h3>Schedule</h3>
   <ul>
     <li><b>Mondays - 3:30 PM DUE 1116</b><ul>
-      <li><b>Exception: TODAY</b></li>
-      <li><b>Exception: Wed 3/8</b></li>
-      <li><b>Exception: Wed 3/26</b></li>
+      <li><b>Exception: Wed 9/6</b></li>
       <li><b>Attendance Expected!</b></li>
     </ul></li>
     <li>Wed & Fri - 3:30 PM via Zoom<ul>
@@ -144,19 +142,13 @@ hidden: true
 <section>
   <h3>What's New?</h3>
   <ul>
+    <li>Use Cases
     <li>Problem/Solution</li>
     <li>Algorithmic Functionality</li>
     <li>Student Qualifications</li>
     <li>Research Track</li>
-    <li>Time Logging on Teams</li>
-  </ul>
-</section>
-<section>
-  <h3>Microsoft Teams</h3>
-  <ul>
-    <li>Time Log</li>
-    <li>Project Tracking</li>
-    <li><i>Other ideas?</i></li>
+    <li>Time Logging on Clockify</li>
+    <li>GitHub Projects</li>
   </ul>
 </section>
 <section>
@@ -178,11 +170,11 @@ hidden: true
 <section>
   <h3>What's Next</h3>
   <ul>
-    <li>GitHub Classroom (9/23)</li>
+    <li>GitHub Classroom (8/28)</li>
     <li>Project Topic & Advisor</li>
     <li>First Advisor Meeting</li>
     <li>Initial Writeup & Requirements</li>
-    <li>Due January 29th (Sunday)</li>
+    <li>Due Sept 3rd (Sunday)</li>
   </ul>
 </section>
 <section>
