@@ -1,0 +1,775 @@
+
+
+
+
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.117.0">
+    <meta name="generator" content="Relearn 5.18.0">
+    <meta name="robots" content="noindex, nofollow, noarchive, noimageindex">
+    <meta name="description" content="CIS 598 Textbook">
+    <meta name="author" content="Russell Feldhausen">
+    <title>Fall 2023 :: CIS 598 Textbook</title>
+    <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/fontawesome-all.min.css?1698264294" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cis598/css/fontawesome-all.min.css?1698264294" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/nucleus.css?1698264294" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/auto-complete.css?1698264294" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cis598/css/auto-complete.css?1698264294" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/perfect-scrollbar.min.css?1698264294" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/fonts.css?1698264294" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cis598/css/fonts.css?1698264294" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/theme.css?1698264294" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/theme-auto.css?1698264294" rel="stylesheet" id="variant-style">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/variant.css?1698264294" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/print.css?1698264294" rel="stylesheet" media="print">
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/ie.css?1698264294" rel="stylesheet">
+    <script src="https://ksu-cs-textbooks.github.io/cis598/js/url.js?1698264294"></script>
+    <script src="https://ksu-cs-textbooks.github.io/cis598/js/variant.js?1698264294"></script>
+    <script>
+      // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
+      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
+      window.index_js_url="https://ksu-cs-textbooks.github.io/cis598/index.search.js";
+      var root_url="https://ksu-cs-textbooks.github.io/cis598/";
+      var baseUri=root_url.replace(/\/$/, '');
+      // translations
+      window.T_Copy_to_clipboard = 'Copy to clipboard';
+      window.T_Copied_to_clipboard = 'Copied to clipboard!';
+      window.T_Copy_link_to_clipboard = 'Copy link to clipboard';
+      window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
+      window.T_No_results_found = 'No results found for \u0022{0}\u0022';
+      window.T_N_results_found = '{1} results found for \u0022{0}\u0022';
+      // some further base stuff
+      var baseUriFull='https:\/\/ksu-cs-textbooks.github.io\/cis598/';
+      window.variants && variants.init( [ 'auto', 'light-theme', 'dark-theme' ] );
+    </script>
+    
+    <link href="https://ksu-cs-textbooks.github.io/cis598/css/custom.css?1698264294" rel="stylesheet">
+
+  </head>
+  <body class="mobile-support html disableInlineCopyToClipboard" data-url="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/index.html">
+    <div id="body" class="default-animation">
+      <div id="sidebar-overlay"></div>
+      <div id="toc-overlay"></div>
+      <nav id="topbar" class="highlightable">
+        <div>
+          <div class="navigation">
+            <span class="nav nav-next topbar-link"><i class="fa fa-chevron-right fa-fw"></i></span>
+          </div>
+          <div class="navigation">
+            <a class="nav nav-prev topbar-link" href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/index.html" title="Spring 2023 (&#129104;)"><i class="fas fa-chevron-left fa-fw"></i></a>
+          </div>
+          <div id="top-print-link">
+            <a class="print-link topbar-link" title='Print whole chapter (CTRL+ALT+p)' href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/index.print.html">
+              <i class="fas fa-print fa-fw"></i>
+            </a>
+          </div>
+          <div id="top-tele-link">
+            <a class="print-link" title='Teleprompter View' href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/tele.html">
+              <i class="fas fa-tv fa-fw"></i>
+            </a>
+          </div>
+          <div id="top-embed-link">
+            <a class="print-link" title='Embeddable Version' href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/embed.html">
+              <i class="fas fa-expand-arrows-alt fa-fw"></i>
+            </a>
+          </div>
+          <div id="top-github-link">
+            <a class="github-link topbar-link" title='Edit (CTRL+ALT+w)' href="https://gitlab.cs.ksu.edu/-/ide/project/cs-textbooks/cis598-textbook/edit/master/-/content/b-schedule/03-fall2023.md" target="_blank">
+              <i class="fas fa-pen fa-fw"></i>
+            </a>
+          </div>
+          <div id="breadcrumbs">
+            <span id="sidebar-toggle-span">
+              <a href="#" id="sidebar-toggle" class="topbar-link" title='Menu (CTRL+ALT+n)'><i class="fas fa-bars fa-fw"></i></a>
+            </span>
+            <span id="toc-menu" title='Table of Contents (CTRL+ALT+t)'><i class="fas fa-list-alt fa-fw"></i></span>
+            <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="https://ksu-cs-textbooks.github.io/cis598/index.html"><span itemprop="name">CIS 598 Textbook</span></a><meta itemprop="position" content="1"> &gt; </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/index.html"><span itemprop="name">Schedule</span></a><meta itemprop="position" content="2"> &gt; </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Fall 2023</span><meta itemprop="position" content="3"></li>
+            </ol>
+          </div>
+          <div class="default-animation progress">
+            <div class="toc-wrapper"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#0">Project Title</a></li>
+    <li><a href="#1">Project Title</a></li>
+    <li><a href="#2">Project Title</a></li>
+    <li><a href="#3">Project Title</a></li>
+    <li><a href="#4">Project Title</a></li>
+    <li><a href="#5">Project Title</a></li>
+    <li><a href="#6">Project Title</a></li>
+    <li><a href="#7">Project Title</a></li>
+    <li><a href="#8">Project Title</a></li>
+    <li><a href="#9">Project Title</a></li>
+    <li><a href="#10">Project Title</a></li>
+    <li><a href="#11">Project Title</a></li>
+    <li><a href="#12">Project Title</a></li>
+    <li><a href="#13">Project Title</a></li>
+    <li><a href="#14">Project Title</a></li>
+    <li><a href="#15">Project Title</a></li>
+    <li><a href="#16">Project Title</a></li>
+    <li><a href="#17">Project Title</a></li>
+    <li><a href="#18">Project Title</a></li>
+    <li><a href="#19">Project Title</a></li>
+  </ul>
+</nav>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <main id="body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <article class="default">
+            <header class="headline">
+            </header>
+<h1 id="fall-2023">Fall 2023</h1>
+
+<p>All presentations will be streamed on Zoom at <a href="https://bit.ly/cis598s23" target="_blank">https://bit.ly/cis598s23</a>
+</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Project</th>
+<th style="text-align:center">Student</th>
+<th style="text-align:center">Advisor</th>
+<th style="text-align:center">Date</th>
+<th style="text-align:center">Time</th>
+<th style="text-align:center">Location</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#0">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Tue, Dec 12</td>
+<td style="text-align:center">8:45 - 9:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#1">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Tue, Dec 12</td>
+<td style="text-align:center">9:30 - 10:15</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#2">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Tue, Dec 12</td>
+<td style="text-align:center">10:15 - 11:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#3">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Tue, Dec 12</td>
+<td style="text-align:center">11:00 - 11:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#4">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Tue, Dec 12</td>
+<td style="text-align:center">11:45 - 12:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#5">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Tue, Dec 12</td>
+<td style="text-align:center">1:15 - 2:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#6">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Tue, Dec 12</td>
+<td style="text-align:center">2:00 - 2:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#7">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Tue, Dec 12</td>
+<td style="text-align:center">2:45 - 3:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#8">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Tue, Dec 12</td>
+<td style="text-align:center">3:30 - 4:15</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#9">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Tue, Dec 12</td>
+<td style="text-align:center">4:15 - 5:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#10">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Wed, Dec 13</td>
+<td style="text-align:center">8:45 - 9:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#11">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Wed, Dec 13</td>
+<td style="text-align:center">9:30 - 10:15</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#12">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Wed, Dec 13</td>
+<td style="text-align:center">10:15 - 11:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#13">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Wed, Dec 13</td>
+<td style="text-align:center">11:00 - 11:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#14">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Wed, Dec 13</td>
+<td style="text-align:center">11:45 - 12:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#15">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Wed, Dec 13</td>
+<td style="text-align:center">1:15 - 2:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#16">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Wed, Dec 13</td>
+<td style="text-align:center">2:00 - 2:45</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#17">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Wed, Dec 13</td>
+<td style="text-align:center">2:45 - 3:30</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#18">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Wed, Dec 13</td>
+<td style="text-align:center">3:30 - 4:15</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/#19">Project Title</a>
+</td>
+<td style="text-align:center">Student Name</td>
+<td style="text-align:center">Advisor</td>
+<td style="text-align:center">Wed, Dec 13</td>
+<td style="text-align:center">4:15 - 5:00</td>
+<td style="text-align:center">DUE 2168</td>
+</tr>
+</tbody>
+</table>
+<h2 id="0">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-4e694a658f8b06c8ab7fed128750aa1c" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-4e694a658f8b06c8ab7fed128750aa1c">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="1">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-ddedc1ddff6fcb9e896da6c07f0301b6" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-ddedc1ddff6fcb9e896da6c07f0301b6">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="2">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-61a652940dda86b60eb7c727200a38dd" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-61a652940dda86b60eb7c727200a38dd">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="3">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-62e2b79aaa247b683b5fe318e5c0cbb3" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-62e2b79aaa247b683b5fe318e5c0cbb3">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="4">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-16a128f656d24706d1e842e0eb766cec" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-16a128f656d24706d1e842e0eb766cec">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="5">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-cd6223be28ee29cd8a86d76adab5ec9a" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-cd6223be28ee29cd8a86d76adab5ec9a">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="6">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-8de8afd6f1e0f2ce59d801bb8abf3b86" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-8de8afd6f1e0f2ce59d801bb8abf3b86">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="7">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-fbc9bb38d39fe2b598ae2ae35d486128" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-fbc9bb38d39fe2b598ae2ae35d486128">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="8">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-b53af28668bf8d7497cbf3909e57dfbb" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-b53af28668bf8d7497cbf3909e57dfbb">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="9">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-2f9442c9d02b7f9b5a9bf18f50ea3fa2" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-2f9442c9d02b7f9b5a9bf18f50ea3fa2">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="10">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-379792e80c2983f77a0dd34f99d1c336" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-379792e80c2983f77a0dd34f99d1c336">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="11">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-cf7acce0ad6711a4d8d75b270c6bb15b" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-cf7acce0ad6711a4d8d75b270c6bb15b">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="12">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-e1a56453ffb47433d725098431555718" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-e1a56453ffb47433d725098431555718">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="13">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-a0d60229da67360471e9d8e1906a8326" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-a0d60229da67360471e9d8e1906a8326">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="14">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-b64e377993b50571e6e033182ee295ca" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-b64e377993b50571e6e033182ee295ca">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="15">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-efe3baa1a2b79851418d24f146a4c53e" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-efe3baa1a2b79851418d24f146a4c53e">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="16">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-dad2b2ff6dd8b2323706e37173745956" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-dad2b2ff6dd8b2323706e37173745956">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="17">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-333936c26f2fe8ed28c5bb3aa1aed7a6" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-333936c26f2fe8ed28c5bb3aa1aed7a6">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="18">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-76834c729b5604885ca73ccc58afb5c3" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-76834c729b5604885ca73ccc58afb5c3">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+<h2 id="19">Project Title</h2>
+<p>Student Name</p>
+<p>
+<a href="#image-785d79dbc8b5851fed964dd2ecf4b646" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-785d79dbc8b5851fed964dd2ecf4b646">
+<img src="https://ksu-cs-textbooks.github.io/cis598/images/fall2023/placeholder.png" alt="Image" class="lightbox-image" loading="lazy">
+</a></p>
+<p>Abstract here</p>
+
+            <footer class="footline">
+
+            </footer>
+          </article>
+        </div>
+      </main>
+    
+<div class="git-footer">
+<p class="theme-version-footer">5.18.0</p>
+<p>Last modified by: 
+            <i class='fas fa-user'></i> Russell Feldhausen
+            <i class='fas fa-calendar'></i> <a href="https://gitlab.cs.ksu.edu/cs-textbooks/cis598-textbook/-/commit/be7a6c4f02a711e12d4701f893c279d35033f569">Oct 25, 2023</a>
+</p>
+</div>
+
+    
+    </div>
+    <aside id="sidebar" class="default-animation">
+      <div id="header-wrapper" class="default-animation">
+        <div id="header" class="default-animation">
+
+<a id="logo" href="https://ksu-cs-textbooks.github.io/cis598/">
+  CIS 598 Textbook
+</a>
+
+        </div>
+        <form action="https://ksu-cs-textbooks.github.io/cis598/search.html" method="get"><div class="searchbox default-animation">
+          <button class="search-detail" type="submit" title="Search (CTRL+ALT+f)"><i class="fas fa-search"></i></button>
+          <label class="a11y-only" for="search-by">Search</label>
+          <input data-search-input id="search-by" name="search-by" class="search-by" type="search" placeholder="Search...">
+          <button class="search-clear" type="button" data-search-clear="" title="Clear search"><i class="fas fa-times" title="Clear search"></i></button>
+        </div></form>
+        <script>
+          var contentLangs=['en'];
+        </script>
+        <script src="https://ksu-cs-textbooks.github.io/cis598/js/auto-complete.js?1698264294" defer></script>
+        <script src="https://ksu-cs-textbooks.github.io/cis598/js/lunr/lunr.min.js?1698264294" defer></script>
+        <script src="https://ksu-cs-textbooks.github.io/cis598/js/lunr/lunr.stemmer.support.min.js?1698264294" defer></script>
+        <script src="https://ksu-cs-textbooks.github.io/cis598/js/lunr/lunr.multi.min.js?1698264294" defer></script>
+        <script src="https://ksu-cs-textbooks.github.io/cis598/js/lunr/lunr.en.min.js?1698264294" defer></script>
+        <script src="https://ksu-cs-textbooks.github.io/cis598/js/search.js?1698264294" defer></script>
+      </div>
+      <div id="content-wrapper" class="highlightable">
+        <ul class="topics enlarge morespace collapsible-menu">
+          <li data-nav-id="/0-introduction/index.html" class=""><input type="checkbox" id="section-557b3da0a1d0f1ff1fb74796f7a0ccf3" aria-controls="subsections-557b3da0a1d0f1ff1fb74796f7a0ccf3"><label for="section-557b3da0a1d0f1ff1fb74796f7a0ccf3"><i class="fas fa-chevron-down"></i><i class="fas fa-chevron-right"></i><span class="a11y-only">Submenu Introduction</span></label><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/index.html"><b>0. </b>Introduction</a><ul id="subsections-557b3da0a1d0f1ff1fb74796f7a0ccf3" class="morespace collapsible-menu">
+          <li data-nav-id="/0-introduction/01-syllabus/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/index.html">1. Fall 2023 Syllabus</a></li>
+          <li data-nav-id="/0-introduction/02-getting-started/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-getting-started/index.html">2. Getting Started</a></li>
+          <li data-nav-id="/0-introduction/02-weekly-work/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-weekly-work/index.html">2.A Weekly Work</a></li>
+          <li data-nav-id="/0-introduction/03-presentation-1/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/03-presentation-1/index.html">3. Presentation 1</a></li>
+          <li data-nav-id="/0-introduction/04-presentation-2/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/04-presentation-2/index.html">4. Presentation 2</a></li>
+          <li data-nav-id="/0-introduction/05-final-presentation/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/05-final-presentation/index.html">5. Final Presentation</a></li>
+          <li data-nav-id="/0-introduction/06-artifacts/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/06-artifacts/index.html">6. Final Artifacts</a></li>
+          <li data-nav-id="/0-introduction/07-research/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/07-research/index.html">7. Research Project</a></li></ul></li>
+          <li data-nav-id="/a-resources/index.html" class=""><input type="checkbox" id="section-1e55903b900b9b42bc3735b2503df799" aria-controls="subsections-1e55903b900b9b42bc3735b2503df799"><label for="section-1e55903b900b9b42bc3735b2503df799"><i class="fas fa-chevron-down"></i><i class="fas fa-chevron-right"></i><span class="a11y-only">Submenu Resources</span></label><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/a-resources/index.html"><b>A. </b>Resources</a><ul id="subsections-1e55903b900b9b42bc3735b2503df799" class="morespace collapsible-menu">
+          <li data-nav-id="/a-resources/01-links/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/a-resources/01-links/index.html">1. Links</a></li>
+          <li data-nav-id="/a-resources/02-cis748-videos/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/index.html">2. CIS 748 Videos</a></li>
+          <li data-nav-id="/a-resources/03-presentation-tips/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/a-resources/03-presentation-tips/index.html">3. Presentation Tips</a></li>
+          <li data-nav-id="/a-resources/04-projects-time/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/a-resources/04-projects-time/index.html">4. Projects &amp; Time Tracking</a></li></ul></li>
+          <li data-nav-id="/b-schedule/index.html" class="parent "><input type="checkbox" id="section-bd2a2037da99fc65ea74a40f36e3b8fd" aria-controls="subsections-bd2a2037da99fc65ea74a40f36e3b8fd" checked><label for="section-bd2a2037da99fc65ea74a40f36e3b8fd"><i class="fas fa-chevron-down"></i><i class="fas fa-chevron-right"></i><span class="a11y-only">Submenu Schedule</span></label><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/index.html"><b>B. </b>Schedule</a><ul id="subsections-bd2a2037da99fc65ea74a40f36e3b8fd" class="morespace collapsible-menu">
+          <li data-nav-id="/b-schedule/01-fall2022/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/01-fall2022/index.html">Fall 2022</a></li>
+          <li data-nav-id="/b-schedule/02-spring2023/index.html" class=""><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/index.html">Spring 2023</a></li>
+          <li data-nav-id="/b-schedule/03-fall2023/index.html" class="active"><a class="padding" href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/03-fall2023/index.html">Fall 2023</a></li></ul></li>
+        </ul>
+        <div class="padding footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showFooter"></div>
+        <hr class="padding default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showFooter">
+        <div id="prefooter" class="footerLangSwitch footerVariantSwitch footerVisitedLinks showVariantSwitch">
+          <ul>
+            <li id="select-language-container" class="footerLangSwitch">
+              <div class="padding menu-control">
+                <i class="fas fa-language fa-fw"></i>
+                <span>&nbsp;</span>
+                <div class="control-style">
+                  <label class="a11y-only" for="select-language">Language</label>
+                  <select id="select-language" onchange="location = baseUri + this.value;">
+                  </select>
+                </div>
+                <div class="clear"></div>
+              </div>
+            </li>
+            <li id="select-variant-container" class="footerVariantSwitch showVariantSwitch">
+              <div class="padding menu-control">
+                <i class="fas fa-paint-brush fa-fw"></i>
+                <span>&nbsp;</span>
+                <div class="control-style">
+                  <label class="a11y-only" for="select-variant">Theme</label>
+                  <select id="select-variant" onchange="window.variants && variants.changeVariant( this.value );">
+                    <option id="auto" value="auto" selected>Auto</option>
+                    <option id="light-theme" value="light-theme">Light Theme</option>
+                    <option id="dark-theme" value="dark-theme">Dark Theme</option>
+                  </select>
+                </div>
+                <div class="clear"></div>
+              </div>
+              <script>window.variants && variants.markSelectedVariant();</script>
+            </li>
+            <li class="footerVisitedLinks">
+              <div class="padding menu-control">
+                <i class="fas fa-history fa-fw"></i>
+                <span>&nbsp;</span>
+                <div class="control-style">
+                  <button onclick="clearHistory();">Clear History</button>
+                </div>
+                <div class="clear"></div>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div id="footer" class="footerFooter showFooter"><style>
+  #footer {
+      font-size: 13px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 2rem 1rem;
+      min-width: 230px;
+      max-width: 300px;
+  }
+  #footer p {
+      margin: 0;
+  }
+</style>
+  
+<p>Built using <a href="http://gohugo.io/">Hugo</a> and <a href="https://github.com/K-State-Computational-Core/hugo-theme-relearn/tree/main">Hugo Relearn Theme</a>.</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; margin: .5rem auto" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a></p>
+
+        </div>
+      </div>
+    </aside>
+    <script src="https://ksu-cs-textbooks.github.io/cis598/js/clipboard.min.js?1698264294" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cis598/js/perfect-scrollbar.min.js?1698264294" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cis598/js/theme.js?1698264294" defer></script>
+  </body>
+</html>
