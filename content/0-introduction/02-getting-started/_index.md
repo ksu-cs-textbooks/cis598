@@ -96,7 +96,7 @@ At the very beginning of your project, you should create a few initial artifacts
   * **Minimum Viable Product (MVP)** or _must haves_: these are features that must be present in the project for it to function in the basic sense. It usually doesn't include much in the way of user interface beyond the basic interactions, and it may be missing some additional items to make it more useable. A project that has these features could be considered a Minimum Viable Product. Typically you want to have these features completed in the first 8 weeks of development.
   * **Version 1.0** or _should haves_: these are features that should be present in the project for it to be considered complete. This would involve additional usability features or links to other APIs as needed. A project with these features would be considered a 1.0 product, and could be used by others. Typically these features are completed in the second 8 weeks of development.
   * **Version 2.0** or _would like to haves_: these are cool features that would be useful to have in a finalized project, but they may be outside the scope of what is achievable in a single semester. The lack of these features should not impact the useability or functionality of the project. Typically these features are simply listed on the "Future Work" portion of the final presentation, but if you complete the project ahead of schedule you may consider adding one or more of these features to the project.
-* **Time Managemnet Plan:** prepare a detailed time management plan for each week of the semester. This helps ensure that you are able to devote 9 hours each week to this class, and also ensures that you save enough time for other classes and activities. 
+* **Time Management Plan:** prepare a detailed time management plan for each week of the semester. This helps ensure that you are able to devote 9 hours each week to this class, and also ensures that you save enough time for other classes and activities. 
 
 These artifacts are not "set in stone" and can be easily adjusted throughout the project. For example, you may find that a feature previously on the Version 2.0 list is not critical, and it moves to an earlier list. 
 
@@ -122,9 +122,3 @@ One area that many students struggle with is finding a project that has the appr
 ## Next Steps
 
 At this point, you should be well into development on your project. The next page discusses the weekly work to be performed as part of this project.
-
-<!-- TODO 
-
-* Time Management Plan
-
--->
