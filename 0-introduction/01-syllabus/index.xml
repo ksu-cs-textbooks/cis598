@@ -33,6 +33,11 @@
 	
 		
 		
+
+	
+	
+		
+		
 		
 		
 
@@ -123,9 +128,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fall 2023 Syllabus on CIS 598 Textbook</title>
+    <title>Spring 2024 Syllabus on CIS 598 Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/index.html</link>
-    <description>Recent content in Fall 2023 Syllabus on CIS 598 Textbook</description>
+    <description>Recent content in Spring 2024 Syllabus on CIS 598 Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -134,7 +139,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cis598/0-introduction/01-syllabus/old/index.html</guid>
       <description>Previous Versions of this page:
-Older PDF Syllabi Fall 2022 Syllabus Spring 2023 Syllabus </description>
+Older PDF Syllabi Fall 2022 Syllabus Spring 2023 Syllabus Fall 2023 Syllabus </description>
     </item>
   </channel>
 </rss>
