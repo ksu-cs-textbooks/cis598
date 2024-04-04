@@ -125,6 +125,11 @@
 	
 		
 		
+
+	
+	
+		
+		
 var relearn_search_index = [
   {
     "content": "Welcome to CIS 598!\n",
