@@ -106,6 +106,18 @@ The next step in creating a successful project is getting to the "Hello World" s
 
 Once you are at the "Hello World" stage, you are at the point where you can start adding features to your project from the feature lists described above. A great way to think of those feature lists is like the [Product Backlog](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog) in the agile software methodology - it is a list of project requirements to be completed.
 
+{{% notice warning %}}
+
+## OneDrive is NOT good for code - use git!
+
+One common issue that students run into in this class is storing their code repository folders in a folder synched with OneDrive causes issues - especially if you use OneDrive to sync your work between multiple systems. This can cause all sorts of headaches since OneDrive wasn't designed to work well with code, and large projects can result in thousands of text files that need to be constantly synched and updated as you make changes. It is further exacerbated by putting a `git` repository inside of a OneDrive folder - that is a recipe for your `git` repository to become corrupted and potentially unrecoverable if a sync error occurs. 
+
+Instead, you should always store your code repository folders outside of anything synched to OneDrive (I like to just make a `projects` folder inside of my profile folder on my system, so the path would be `C:\users\russfeld\projects` or `/home/russfeld/projects`) and work from there. Inside of that folder, you should clone your GitHub Classroom repository that has already been set up for you and start working from there. If you've already created a project, you'll need to manually copy the code into that folder and commit it - you can't push an existing repository to GitHub Classroom without causing major issues.
+
+Also, if you haven't created a `.gitignore` file for your project, now is a great time to do so. You should **never** commit binary files, build artifacts, or external libraries to your GitHub repository - that just causes unnecessary repository bloat and makes things much harder to deal with down the road. There is a GitHub repository full of sample `.gitignore` files for just about every IDE and framework imaginable - see [https://github.com/github/gitignore](https://github.com/github/gitignore). 
+
+{{% /notice %}}
+
 {{% notice tip %}}
 
 ## Project Scale and Scope
