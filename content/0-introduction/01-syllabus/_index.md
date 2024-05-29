@@ -7,7 +7,7 @@ pre: "1. "
 ## CIS 596 - Entrepreneurial Computer Science Project - Spring 2024 
 ## CIS 598 - Computer Science Project - Spring 2024 
 
-[Previous Versions]({{<relref "./old">}})
+[Previous Versions]({{% relref "old" %}})
 
 ### Instructor Contact Information
 

@@ -4,6 +4,6 @@ weight = 1
 pre = "0. " 
 +++
 
-{{% attachments title="Previous PDF Syllabi" %}}
+{{% resources title="Previous PDF Syllabi" %}}
 
-{{% /attachments %}}
+{{% /resources %}}

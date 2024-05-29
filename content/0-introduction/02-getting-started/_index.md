@@ -4,13 +4,13 @@ weight: 20
 pre: "2. "
 ---
 
-<a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+<a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 The major outcome for this course is a project that demonstrates your skills in computer science, software development, and other areas relevant to your chosen degree program. This page provides an overview that will help you get started on your project.
 
 {{% notice tip "Research Topic" %}}
 
-Starting in Spring 2023, we now have a special track for topics that fall generally under the heading of "research" instead of a software development project. This includes projects that may have a significant experimental component where the focus is less on developing a software project and more about creating software to support a research task. If you feel that your project fits this description, you should skip to the [Research Topic]({{% relref "07-research" %}}) page.
+Starting in Spring 2023, we now have a special track for topics that fall generally under the heading of "research" instead of a software development project. This includes projects that may have a significant experimental component where the focus is less on developing a software project and more about creating software to support a research task. If you feel that your project fits this description, you should skip to the [Research Topic]({{% relref "../07-research" %}}) page.
 
 {{% /notice %}}
 
