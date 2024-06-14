@@ -3,140 +3,141 @@
 
 
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
 		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CIS 748 Videos on CIS 598 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/index.html</link>
-    <description>Recent content in CIS 748 Videos on CIS 598 Textbook</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/index.xml" rel="self" type="application/rss+xml" />
+    <title>CIS 748 Videos :: CIS 598 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/</link>
+    <description>This page contains links to videos and some comments from the CIS 748: Advanced Software Management course taught by Dr. DeLoach.&#xA;YouTube Channel - contains all videos.&#xA;Video Topics Below is a quick guide to the various videos and their relevance to CIS 598 projects. Feel free to use this to help you find a particular video or topic.&#xA;Chapter 1: Videos 1a and 1b talk mostly about project teams. 1a also covers work products.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://ksu-cs-textbooks.github.io/cis598/a-resources/02-cis748-videos/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

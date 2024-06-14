@@ -3,140 +3,141 @@
 
 
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
 		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Weekly Work on CIS 598 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-weekly-work/index.html</link>
-    <description>Recent content in Weekly Work on CIS 598 Textbook</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-weekly-work/index.xml" rel="self" type="application/rss+xml" />
+    <title>Weekly Work :: CIS 598 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-weekly-work/</link>
+    <description>Every two weeks throughout the semester, you are expected to do the following:&#xA;Meet with your project advisor, either in person or via Zoom, to provide them with a clear update on your project. Ideally, you should be showing them code or working prototypes, not just a quick verbal update. They are here to provide help but need to know exactly what is going on in your project. Discuss issues, questions, and next steps with your advisor during the meeting.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/02-weekly-work/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

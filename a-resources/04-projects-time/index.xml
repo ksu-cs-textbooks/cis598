@@ -3,140 +3,141 @@
 
 
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
 		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects &amp; Time Tracking on CIS 598 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/04-projects-time/index.html</link>
-    <description>Recent content in Projects &amp; Time Tracking on CIS 598 Textbook</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/a-resources/04-projects-time/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects &amp; Time Tracking :: CIS 598 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis598/a-resources/04-projects-time/</link>
+    <description>This is a video exploring GitHub Projects &amp; Clockify Time Tracking for Spring 2023&#xA;Edited Transcript Hello, in this video, I’m going to talk through a bit of the process of doing time tracking in CIS 598, as well as doing some project management using GitHub, through the GitHub projects interface. First and foremost, what I’ve pulled up is Clockify, I’ve invited everybody in the class to Clockify this semester for our time tracking.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://ksu-cs-textbooks.github.io/cis598/a-resources/04-projects-time/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

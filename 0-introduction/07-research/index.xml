@@ -3,140 +3,141 @@
 
 
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
 		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research Project on CIS 598 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/07-research/index.html</link>
-    <description>Recent content in Research Project on CIS 598 Textbook</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/07-research/index.xml" rel="self" type="application/rss+xml" />
+    <title>Research Project :: CIS 598 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/07-research/</link>
+    <description>This course includes a special project track for projects that are considered more “research” than purely software development. Some examples:&#xA;Exploring how to use artificial intelligence to play a simulated game or recognize images Developing a software tool to interface with lab equipment that requires a large amount of trial and error Writing a tool that uses data science techniques to analyze data and answer a question or hypothesis Developing a new educational software tool, where the major focus of the project is collecting user feedback and analyzing results to continuously improve the software.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/07-research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

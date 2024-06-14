@@ -3,140 +3,141 @@
 
 
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
 		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Final Artifacts on CIS 598 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/06-artifacts/index.html</link>
-    <description>Recent content in Final Artifacts on CIS 598 Textbook</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/06-artifacts/index.xml" rel="self" type="application/rss+xml" />
+    <title>Final Artifacts :: CIS 598 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/06-artifacts/</link>
+    <description>At the end of the semester, you’ll need to submit all of your project artifacts and information for grading. Here is a helpful checklist of everything that should be submitted:&#xA;Initial Writeup &amp; Feature List (collected via Canvas early in the semester) First Presentation (collected via Canvas when it was presented) Second Presentation (collected via Canvas when it was presented) Advertisement Materials (collected via Canvas before final presentation) All Code &amp; Related Resources Pushed to GitHub Classroom Repository Repository should include a README.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/06-artifacts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

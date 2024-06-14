@@ -3,140 +3,141 @@
 
 
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
 		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Final Presentation on CIS 598 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/05-final-presentation/index.html</link>
-    <description>Recent content in Final Presentation on CIS 598 Textbook</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/05-final-presentation/index.xml" rel="self" type="application/rss+xml" />
+    <title>Final Presentation :: CIS 598 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis598/0-introduction/05-final-presentation/</link>
+    <description>At the end of the semester, each student will give a public Final Presentation that presents all aspects of the completed project.&#xA;Overview The presentation should be roughly 30-45 minutes in length, and cover all aspects of the project. A recommended outline is below:&#xA;Introduction Background &amp; Related Work Project Requirements Design Documents Project Implementation (Languages, Frameworks, Code Structure) Testing &amp; Evaluation Packaging &amp; Deployment (if applicable) Live Demo Future Work Conclusion Q&amp;A Scheduling Final presentations are typically scheduled during the last week of the semester (sometimes referred to as “dead week”) or finals week.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://ksu-cs-textbooks.github.io/cis598/0-introduction/05-final-presentation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

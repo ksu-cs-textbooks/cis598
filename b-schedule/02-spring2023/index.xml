@@ -3,140 +3,141 @@
 
 
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
 		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spring 2023 on CIS 598 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/index.html</link>
-    <description>Recent content in Spring 2023 on CIS 598 Textbook</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/index.xml" rel="self" type="application/rss+xml" />
+    <title>Spring 2023 :: CIS 598 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/</link>
+    <description>All presentations will be streamed on Zoom at https://bit.ly/cis598s23&#xA;Project Student Advisor Date Time Location Where to Look - Cyber Sensor Placement and Calibration Chase Barber&#xA;Kale DeYoung&#xA;Kaleb Ernst&#xA;Nathan Fleming&#xA;Nathan Wells Vasserman Mon., May 1, 2023 1:00 - 2:00 DUE 2168 Hydroponics Management System Cashel FitzGibbons Neilsen Tues., May 9, 2023 8:00 - 8:45 DUE 2168 Day to Remember Eve Steinle Bean Tues., May 9, 2023 8:45 - 9:30 DUE 2168 SharePoint Resource Management Tool John Velasco Feldhausen Tues.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://ksu-cs-textbooks.github.io/cis598/b-schedule/02-spring2023/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
