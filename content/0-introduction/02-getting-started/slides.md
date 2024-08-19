@@ -18,10 +18,19 @@ hidden: true
 	</p>
 </section>
 <section>
+	<h3>Dr. Scott DeLoach</h3>
+	<p>
+		(785) 532-6350<br>
+		2184 Engineering Hall<br>
+		<br>
+		<b>sdeloach AT ksu DOT edu</b><br>
+		https://people.cs.ksu.edu/~sdeloach/<br>
+	</p>
+</section>
+<section>
 	<h3>Other Faculty</h3>
 	<ul>
-		<li>CIS 598/596: Dr. Scott DeLoach</li>
-    <li>CIS 599: Dr. George Amariucai</li>
+    <li>CIS 599: Dr. Eugene Vasserman</li>
 	</ul>
 </section>
 <section>
@@ -43,8 +52,8 @@ hidden: true
     <li>Something professional</li>
     <li>Something peculiar</li>
   </ul>
-  <p>Pick 1 AMA question for instructor</p>
-  <p>Nominate speaker to introduce & ask</p>
+  <p>Pick 1 - 2 AMA questions<br>for instructors</p>
+  <p>Nominate speaker</p>
 </section>
 <section>
   <h3>Course Overview</h3>
@@ -70,23 +79,23 @@ hidden: true
 <section>
   <h3>Deliverables</h3>
   <ul>
-    <li>1/22: GitHub Classroom</li>
-    <li>1/28: Initial Writeup & Requirements</li>
-    <li>1/29 - 3/6: Requirements Presentations</li>
-    <li>3-18 - 4/24: Design Presentations</li>
-    <li>4/22: Presentation Advertisements</li>
-    <li>5/6 - 5/10: Final Presentations</li>
-    <li>5/10: Code & Documentation</li>
+    <li>8/26 GitHub Classroom</li>
+    <li>9/1: Initial Writeup & Requirements</li>
+    <li>9/4 - 10/7: Requirements Presentations</li>
+    <li>10/14 - 11/22: Design Presentations</li>
+    <li>11/22: Presentation Advertisements</li>
+    <li>12/9 - 12/13: Final Presentations</li>
+    <li>12/13: Code & Documentation</li>
   </ul>
 </section>
 <section>
   <h3>Schedule</h3>
   <ul>
-    <li><b>Mon & Wed - 3:30 PM DUE 0093</b><ul>
-      <li><b>Exception: No Meeting Wed 1/24</b></li>
+    <li><b>Mon - 3:30 PM DUR 1066</b><ul>
+      <li><b>Exception: Wed Sept. 4</b></li>
       <li><b>Attendance Expected!</b></li>
     </ul></li>
-    <li>Fri - 3:30 PM via Zoom<ul>
+    <li>Wed & Fri - 3:30 PM via Zoom<ul>
       <li>Office Hours Q & A</li>
       <li>Work & Collab. Time</li>
       <li>Attendance Optional</li>
@@ -170,11 +179,11 @@ hidden: true
 <section>
   <h3>What's Next</h3>
   <ul>
-    <li>GitHub Classroom (1/22)</li>
+    <li>GitHub Classroom (8/26)</li>
     <li>Project Topic & Advisor</li>
     <li>First Advisor Meeting</li>
     <li>Initial Writeup & Requirements</li>
-    <li>Due 1/28 (Sunday)</li>
+    <li>Due 9/1 (Sunday)</li>
   </ul>
 </section>
 <section>
