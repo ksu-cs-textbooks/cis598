@@ -9,8 +9,8 @@ weight: 50
 | [Project Title]({{% ref "05-fall2024#e1"  %}}) | Student Name | Advisor | Tue, Dec. 10 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e2"  %}}) | Student Name | Advisor | Tue, Dec. 10 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e3"  %}}) | Zachary Wilson | Valenzuela | Tue, Dec. 10 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Project Title]({{% ref "05-fall2024#e4"  %}}) | Student Name | Advisor | Tue, Dec. 10 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Project Title]({{% ref "05-fall2024#e5"  %}}) | Student Name | Advisor | Tue, Dec. 10 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Project Title]({{% ref "05-fall2024#e4"  %}}) | Alexander Valler | DeLoach | Tue, Dec. 10 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Project Title]({{% ref "05-fall2024#e5"  %}}) | Ryan Stueve | Bean | Tue, Dec. 10 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e6"  %}}) | Matthew Cunningham | Bean | Tue, Dec. 10 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e7"  %}}) | Mason Vick | Feldhausen | Tue, Dec. 10 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e8"  %}}) | Wyatt Stella | Bean | Tue, Dec. 10 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -19,11 +19,11 @@ weight: 50
 | [Project Title]({{% ref "05-fall2024#e11"  %}}) | Ethan Coleman | Weese | Tue, Dec. 10 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e12"  %}}) | Student Name | Advisor | Wed, Dec. 11 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e13"  %}}) | Student Name | Advisor | Wed, Dec. 11 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Project Title]({{% ref "05-fall2024#e14"  %}}) | Student Name | Advisor | Wed, Dec. 11 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Project Title]({{% ref "05-fall2024#e14"  %}}) | Sicheng Chen | Bean | Wed, Dec. 11 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e15"  %}}) | Naomi Harrison | Thornton | Wed, Dec. 11 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Project Title]({{% ref "05-fall2024#e16"  %}}) | Student Name | Advisor | Wed, Dec. 11 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Project Title]({{% ref "05-fall2024#e17"  %}}) | Student Name | Advisor | Wed, Dec. 11 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Project Title]({{% ref "05-fall2024#e18"  %}}) | Student Name | Advisor | Wed, Dec. 11 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Project Title]({{% ref "05-fall2024#e16"  %}}) | Darius Tyson | Bean | Wed, Dec. 11 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Project Title]({{% ref "05-fall2024#e17"  %}}) | Andrew Mejia | Shamir | Wed, Dec. 11 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Project Title]({{% ref "05-fall2024#e18"  %}}) | Jacob Prather | Weese | Wed, Dec. 11 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e19"  %}}) | Lucas Boice | Malallah | Wed, Dec. 11 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e20"  %}}) | Garrett Jones | Bean | Wed, Dec. 11 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e21"  %}}) | Aidan Beesley | Thornton | Wed, Dec. 11 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -64,7 +64,7 @@ Abstract
 
 ## Project Title {#e4}
 
-Student
+Alexander Valler
 
 ![Image](images/placeholder.png)
 
@@ -72,7 +72,7 @@ Abstract
 
 ## Project Title {#e5}
 
-Student
+Ryan Stueve
 
 ![Image](images/placeholder.png)
 
@@ -144,7 +144,7 @@ Abstract
 
 ## Project Title {#e14}
 
-Student
+Sicheng Chen
 
 ![Image](images/placeholder.png)
 
@@ -160,7 +160,7 @@ Abstract
 
 ## Project Title {#e16}
 
-Student
+Darius Tyson
 
 ![Image](images/placeholder.png)
 
@@ -168,7 +168,7 @@ Abstract
 
 ## Project Title {#e17}
 
-Student
+Andrew Mejia
 
 ![Image](images/placeholder.png)
 
@@ -176,7 +176,7 @@ Abstract
 
 ## Project Title {#e18}
 
-Student
+Jacob Prather
 
 ![Image](images/placeholder.png)
 
