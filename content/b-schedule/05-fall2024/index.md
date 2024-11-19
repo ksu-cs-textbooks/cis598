@@ -7,7 +7,7 @@ weight: 50
 |:-------:|:-------:|:-------:|:----:|:----:|:--------:|:----:|
 | [Project Title]({{% ref "05-fall2024#e0"  %}}) | Brian Carlos | Feldhausen | Mon, Dec. 9 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e1"  %}}) | Student Name | Advisor | Tue, Dec. 10 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Project Title]({{% ref "05-fall2024#e2"  %}}) | Student Name | Advisor | Tue, Dec. 10 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Project Title]({{% ref "05-fall2024#e2"  %}}) | Sean Hackenberg | Feldhausen | Tue, Dec. 10 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e3"  %}}) | Zachary Wilson | Valenzuela | Tue, Dec. 10 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e4"  %}}) | Alexander Valler | DeLoach | Tue, Dec. 10 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e5"  %}}) | Ryan Stueve | Bean | Tue, Dec. 10 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -18,7 +18,7 @@ weight: 50
 | [Project Title]({{% ref "05-fall2024#e10"  %}}) | Jackie Sadrakula | Bean | Tue, Dec. 10 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e11"  %}}) | Ethan Coleman | Weese | Tue, Dec. 10 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e12"  %}}) | Student Name | Advisor | Wed, Dec. 11 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Project Title]({{% ref "05-fall2024#e13"  %}}) | Student Name | Advisor | Wed, Dec. 11 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Project Title]({{% ref "05-fall2024#e13"  %}}) | Grant Eastman | Feldhausen | Wed, Dec. 11 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e14"  %}}) | Sicheng Chen | Bean | Wed, Dec. 11 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e15"  %}}) | Naomi Harrison | Thornton | Wed, Dec. 11 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e16"  %}}) | Darius Tyson | Bean | Wed, Dec. 11 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -48,7 +48,7 @@ Abstract
 
 ## Project Title {#e2}
 
-Student
+Sean Hackenberg
 
 ![Image](images/placeholder.png)
 
@@ -136,7 +136,7 @@ Abstract
 
 ## Project Title {#e13}
 
-Student
+Grant Eastman
 
 ![Image](images/placeholder.png)
 
