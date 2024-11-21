@@ -5,7 +5,7 @@ weight: 50
 
 | Project | Student | Advisor | Date | Time | Location | Zoom |
 |:-------:|:-------:|:-------:|:----:|:----:|:--------:|:----:|
-| [Project Title]({{% ref "05-fall2024#e0"  %}}) | Brian Carlos | Feldhausen | Mon, Dec. 9 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Project Title]({{% ref "05-fall2024#e0"  %}}) | Brian Carlos | Feldhausen | Mon, Dec. 9 | 9:30 AM | ONLINE | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e1"  %}}) | Student Name | Advisor | Tue, Dec. 10 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e2"  %}}) | Sean Hackenberg | Feldhausen | Tue, Dec. 10 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e3"  %}}) | Zachary Wilson | Valenzuela | Tue, Dec. 10 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -17,6 +17,7 @@ weight: 50
 | [Project Title]({{% ref "05-fall2024#e9"  %}}) | Dennis Meyer | Thornton | Tue, Dec. 10 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e10"  %}}) | Jackie Sadrakula | Bean | Tue, Dec. 10 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e11"  %}}) | Ethan Coleman | Weese | Tue, Dec. 10 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Project Title]({{% ref "05-fall2024#e24"  %}}) | Jadin O'Reillly | Feldhausen | Tue, Dec. 10 | 5:00 PM | ONLINE | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e12"  %}}) | Student Name | Advisor | Wed, Dec. 11 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e13"  %}}) | Grant Eastman | Feldhausen | Wed, Dec. 11 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Title]({{% ref "05-fall2024#e14"  %}}) | Sicheng Chen | Bean | Wed, Dec. 11 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -121,6 +122,14 @@ Abstract
 ## Project Title {#e11}
 
 Ethan Coleman
+
+![Image](images/placeholder.png)
+
+Abstract
+
+## Project Title {#e24}
+
+Jadin O'Reilly
 
 ![Image](images/placeholder.png)
 
