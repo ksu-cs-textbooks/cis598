@@ -228,7 +228,7 @@ Matthew Hall
 
 ![Image](images/hall.jpg)
 
-Abstract
+My name is Matthew Hall, and my project is titled Fair Entry App. Fair Entry App is an application designed to streamline the process of adding exhibitors and entries to any County Fair while providing real-time updates on their status. The project focuses on improving efficiency and user experience for fair organizers and participants. Built using Visual Studio, the app employs C# for backend processing and a relational database in SQL for managing user and entry data, ensuring scalability and reliability. This project highlights practical application development and the integration of diverse technologies to meet real-world needs. Presentation: DUE 2168 @ 4:15 PM. bit.ly/cis598s24a
 
 ## Wildcat Watershed {#e23}
 
