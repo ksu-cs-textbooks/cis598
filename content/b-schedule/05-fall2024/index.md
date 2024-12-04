@@ -5,7 +5,6 @@ weight: 50
 
 | Project | Student | Advisor | Date | Time | Location | Zoom |
 |:-------:|:-------:|:-------:|:----:|:----:|:--------:|:----:|
-| [LibFlow]({{% ref "05-fall2024#e0"  %}}) | Brian Carlos | Feldhausen | Mon, Dec. 9 | 9:30 AM | ONLINE | [Zoom](https://bit.ly/cis598s24a) |
 | [Wildcat Offroad]({{% ref "05-fall2024#e1"  %}}) | John Nettles | Neilsen | Tue, Dec. 10 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [GrooveMapper]({{% ref "05-fall2024#e2"  %}}) | Sean Hackenberg | Feldhausen | Tue, Dec. 10 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [The Z-MAN Workout App]({{% ref "05-fall2024#e3"  %}}) | Zachary Wilson | Valenzuela | Tue, Dec. 10 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -30,14 +29,7 @@ weight: 50
 | [Smith House Managerial System]({{% ref "05-fall2024#e21"  %}}) | Aidan Beesley | Thornton | Wed, Dec. 11 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [4-H Fair Entry App]({{% ref "05-fall2024#e22"  %}}) | Matthew Hall | Feldhausen | Wed, Dec. 11 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Wildcat Watershed]({{% ref "05-fall2024#e23"  %}}) | Logan Smith | Shamir | Wed, Dec. 11 | 5:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-
-## LibFlow {#e0}
-
-Brian Carlos
-
-![Image](images/carlos.png)
-
-LibFlow is a web-based library management system designed to simplify catalog management and enhance user experience. The application allows users to search for books, check their availability, and check out or return them through an intuitive interface. Librarians can manage the library's catalog by adding, editing, or removing books and overseeing user activity. Built with Vue.js, Node.js/Express, and MySQL, LibFlow offers a secure, reliable solution for libraries, delivering an intuitive experience for both patrons and staff.
+| [LibFlow]({{% ref "05-fall2024#e0"  %}}) | Brian Carlos | Feldhausen | Fri, Dec. 13 | 9:30 AM | ONLINE | [Zoom](https://bit.ly/cis598s24a) |
 
 ## Wildcat Offroad {#e1}
 
@@ -146,7 +138,6 @@ Kael Pavlik
 
 Equivalency Form Tracker is a Web Application that organizes course transfer requests and course evaluations for the Computer Science department. On the app, students are able to submit all necessary paperwork and communicate directly to staff for information rather than by email. To turn this idea into a reality, a crud app pattern is used with Vue.js for the front end, and NodeJS and MySQL on the backend. The presentation is December 11, 8 AM in DUE 2168 or online through zoom (bit.ly/cis598s24a).
 
-
 ## Project Title {#e13}
 
 Grant Eastman
@@ -178,7 +169,6 @@ Darius Tyson
 ![Image](images/tyson.png)
 
 Hacker’s Day Out is a video game made in C# using the MonoGame API designed to teach the basics of various computer science languages and concepts to people new to the field. You play as a nameless student, hacking his way to the yearbook editing room to replace an embarrassing photo taken. You must explore the school, collect notebooks, and test your knowledge against the computer systems in order to get into the yearbook editing room. Will you be able to fix your photo, or will you have a bad time at graduation?
-
 
 ## Parrot {#e17}
 
@@ -238,3 +228,10 @@ Logan Smith
 
 This project is purposed to assist a multi-disciplinary, multi-institutional research team in the furtherance of the knowledge and stewardship of fresh water by implementing a dashboard web application granting local residents in particular, public access to information regarding the health and status of their “backyard” watershed i.e., Wildcat Creek. The Wildcat Creek watershed is to serve as an experimental test-site at which an environmental monitoring system is to be deployed. My specific role in this is to deploy its corresponding public dashboard. This public-facing dashboard coupled with resident surveys and interviews will allow the research team to better understand the influence of enhanced native habitat visibility. The overarching aim of the group is to engage the public in the implementation of a network of “living laboratories” in various watersheds in the US Great Plains region. Due to the requirements of the research team—that the Wildcat Creek site be experimental and its dashboard public- facing—I chose to implement this application using Plotly’s Dash framework, which allows programmers to code analytic data apps and interactive dashboards. Because it can be used for almost all phases of the data analysis process it seemed to be especially well-suited for these requirements. Dash uses Flask for the backend, Plotly for producing plots, and React to handle all components. It provides HTML elements as Python classes (converting Python to HTML) in addition to providing a few other packages (Dash Core Components, Dash Bootstrap Components) that enhance its functionality while keeping the language constant.
 
+## LibFlow {#e0}
+
+Brian Carlos
+
+![Image](images/carlos.png)
+
+LibFlow is a web-based library management system designed to simplify catalog management and enhance user experience. The application allows users to search for books, check their availability, and check out or return them through an intuitive interface. Librarians can manage the library's catalog by adding, editing, or removing books and overseeing user activity. Built with Vue.js, Node.js/Express, and MySQL, LibFlow offers a secure, reliable solution for libraries, delivering an intuitive experience for both patrons and staff.
