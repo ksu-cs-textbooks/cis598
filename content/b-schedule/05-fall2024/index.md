@@ -18,7 +18,7 @@ weight: 50
 | [Cirrene]({{% ref "05-fall2024#e11"  %}}) | Ethan Coleman | Weese | Tue, Dec. 10 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Productivity App]({{% ref "05-fall2024#e24"  %}}) | Jadin O'Reillly | Feldhausen | Tue, Dec. 10 | 5:00 PM | ONLINE | [Zoom](https://bit.ly/cis598s24a) |
 | [Equivalency Form Tracker]({{% ref "05-fall2024#e12"  %}}) | Kael Pavlik | Weese | Wed, Dec. 11 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Project Title]({{% ref "05-fall2024#e13"  %}}) | Grant Eastman | Feldhausen | Wed, Dec. 11 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Avalon Hobbies]({{% ref "05-fall2024#e13"  %}}) | Grant Eastman | Feldhausen | Wed, Dec. 11 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Hidden Archive]({{% ref "05-fall2024#e14"  %}}) | Sicheng Chen | Bean | Wed, Dec. 11 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Relevare]({{% ref "05-fall2024#e15"  %}}) | Naomi Harrison | Thornton | Wed, Dec. 11 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Hacker's Day Out]({{% ref "05-fall2024#e16"  %}}) | Darius Tyson | Bean | Wed, Dec. 11 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -142,9 +142,9 @@ Equivalency Form Tracker is a Web Application that organizes course transfer req
 
 Grant Eastman
 
-![Image](images/placeholder.png)
+![Image](images/eastman.jpg)
 
-Abstract
+Avalon Hobbies is my TCGPlayer Storefront, and I have created a html homepage for it. This homepage is more than just a landing page, it has an API powered home for Magic the Gathering cards, that not only tell you how much a card is, but gives you recommendations on which cards should go with said card for various formats. This project was coded using VS Code, using HTML, Javascript, and most importantly the Scryfall API.
 
 ## Hidden Archive {#e14}
 
