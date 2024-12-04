@@ -87,7 +87,7 @@ Mason Vick
 
 ![Image](images/vick.png)
 
-Abstract
+DuelGames is a website where users are able to play simple but fun browser games against one another. Users are matched up randomly with others, but they can also play in a ranked format as well as against friends. This website is built with the intent to add and support many more games in the future and features a leaderboard system where users can compare their stats against the field!
 
 ## K-12 CS Lesson Planning {#e8}
 
