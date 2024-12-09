@@ -5,7 +5,6 @@ weight: 50
 
 | Project | Student | Advisor | Date | Time | Location | Zoom |
 |:-------:|:-------:|:-------:|:----:|:----:|:--------:|:----:|
-| [Wildcat Offroad]({{% ref "05-fall2024#e1"  %}}) | John Nettles | Neilsen | Tue, Dec. 10 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [GrooveMapper]({{% ref "05-fall2024#e2"  %}}) | Sean Hackenberg | Feldhausen | Tue, Dec. 10 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [The Z-MAN Workout App]({{% ref "05-fall2024#e3"  %}}) | Zachary Wilson | Valenzuela | Tue, Dec. 10 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [BlockOut: Employee Scheduling Simplified]({{% ref "05-fall2024#e4"  %}}) | Alexander Valler | DeLoach | Tue, Dec. 10 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -30,15 +29,6 @@ weight: 50
 | [4-H Fair Entry App]({{% ref "05-fall2024#e22"  %}}) | Matthew Hall | Feldhausen | Wed, Dec. 11 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Wildcat Watershed]({{% ref "05-fall2024#e23"  %}}) | Logan Smith | Shamir | Wed, Dec. 11 | 5:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [LibFlow]({{% ref "05-fall2024#e0"  %}}) | Brian Carlos | Feldhausen | Fri, Dec. 13 | 9:30 AM | ONLINE | [Zoom](https://bit.ly/cis598s24a) |
-
-## Wildcat Offroad {#e1}
-
-John Nettles
-
-![Image](images/nettles.jpg)
-
-The K State Baja SAE team, also known as Wildcat Offroad, needs a new dashboard for their car. Their current dashboard, while functional, is somewhat limited in its capabilities. Using a Teensyduino 4.1, it displays dashboard data like a car is expected to do as well as records data when prompted to do so, but the team has expressed desire for something better. Using a Raspberry Pi 3B, a new design should allow the Baja team to expand the capabilities of their car and how they interact with it. The project will be presented by John Nettles at 8 AM on Tuesday, December 10th in DUE 2168 or on Zoom at https://bit.ly/cis598s24a
-
 
 ## GrooveMapper {#e2}
 
