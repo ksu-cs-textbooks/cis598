@@ -16,8 +16,6 @@ weight: 50
 | [Tabletop Role-Playing Game Character Sheet Creator]({{% ref "05-fall2024#e10"  %}}) | Jackie Sadrakula | Bean | Tue, Dec. 10 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Cirrene]({{% ref "05-fall2024#e11"  %}}) | Ethan Coleman | Weese | Tue, Dec. 10 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Productivity App]({{% ref "05-fall2024#e24"  %}}) | Jadin O'Reillly | Feldhausen | Tue, Dec. 10 | 5:00 PM | ONLINE | [Zoom](https://bit.ly/cis598s24a) |
-| [Equivalency Form Tracker]({{% ref "05-fall2024#e12"  %}}) | Kael Pavlik | Weese | Wed, Dec. 11 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Avalon Hobbies]({{% ref "05-fall2024#e13"  %}}) | Grant Eastman | Feldhausen | Wed, Dec. 11 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Hidden Archive]({{% ref "05-fall2024#e14"  %}}) | Sicheng Chen | Bean | Wed, Dec. 11 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Relevare]({{% ref "05-fall2024#e15"  %}}) | Naomi Harrison | Thornton | Wed, Dec. 11 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Hacker's Day Out]({{% ref "05-fall2024#e16"  %}}) | Darius Tyson | Bean | Wed, Dec. 11 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -120,21 +118,13 @@ Jadin O'Reilly
 
 I want to be more productive and stay off my phone. My goal is to make a mobile application that I can use to track habits and daily tasks. Users are able to create tasks and edit them to reoccur over different days and weeks. You go to the next page and can track your task history and on the next page you'll have a profile page for you to edit.I created a mobile application using Java Script and React Native. Firebase is doing a lot of the backend work. All the data is stored in Firebase’s Firestone. The authentication is done by Firebase Authentication. Mobile app notifications are done by Firebase Cloud Messaging. I have been testing this application out by using Expo’s mobile phone simulator and Jest, a JavaScript testing library.
 
-## Equivalency Form Tracker {#e12}
+<!-- ## Equivalency Form Tracker {#e12}
 
 Kael Pavlik
 
 ![Image](images/pavlik.png)
 
-Equivalency Form Tracker is a Web Application that organizes course transfer requests and course evaluations for the Computer Science department. On the app, students are able to submit all necessary paperwork and communicate directly to staff for information rather than by email. To turn this idea into a reality, a crud app pattern is used with Vue.js for the front end, and NodeJS and MySQL on the backend. The presentation is December 11, 8 AM in DUE 2168 or online through zoom (bit.ly/cis598s24a).
-
-## Project Title {#e13}
-
-Grant Eastman
-
-![Image](images/eastman.jpg)
-
-Avalon Hobbies is my TCGPlayer Storefront, and I have created a html homepage for it. This homepage is more than just a landing page, it has an API powered home for Magic the Gathering cards, that not only tell you how much a card is, but gives you recommendations on which cards should go with said card for various formats. This project was coded using VS Code, using HTML, Javascript, and most importantly the Scryfall API.
+Equivalency Form Tracker is a Web Application that organizes course transfer requests and course evaluations for the Computer Science department. On the app, students are able to submit all necessary paperwork and communicate directly to staff for information rather than by email. To turn this idea into a reality, a crud app pattern is used with Vue.js for the front end, and NodeJS and MySQL on the backend. The presentation is December 11, 8 AM in DUE 2168 or online through zoom (bit.ly/cis598s24a). -->
 
 ## Hidden Archive {#e14}
 
@@ -225,3 +215,11 @@ Brian Carlos
 ![Image](images/carlos.png)
 
 LibFlow is a web-based library management system designed to simplify catalog management and enhance user experience. The application allows users to search for books, check their availability, and check out or return them through an intuitive interface. Librarians can manage the library's catalog by adding, editing, or removing books and overseeing user activity. Built with Vue.js, Node.js/Express, and MySQL, LibFlow offers a secure, reliable solution for libraries, delivering an intuitive experience for both patrons and staff.
+
+## Avalon Hobbies {#e13}
+
+Grant Eastman
+
+![Image](images/eastman.jpg)
+
+Avalon Hobbies is my TCGPlayer Storefront, and I have created a html homepage for it. This homepage is more than just a landing page, it has an API powered home for Magic the Gathering cards, that not only tell you how much a card is, but gives you recommendations on which cards should go with said card for various formats. This project was coded using VS Code, using HTML, Javascript, and most importantly the Scryfall API.
