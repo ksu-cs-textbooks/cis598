@@ -13,3 +13,5 @@ This page is a collection of general links that may be useful. Email the instruc
 * [How to Write a Good Readme](https://www.appsmith.com/blog/write-a-great-readme) - Some good tips and information about writing a GitHub README file, as well as links to some notable examples. 
 
 * [Foursquare Data](https://location.foursquare.com/resources/blog/products/foursquare-open-source-places-a-new-foundational-dataset-for-the-geospatial-community/) - An awesome dataset of locations and POIs from Foursquare.
+
+* [Node Vue Devcontainer](https://github.com/russfeld/node-vue-devcontainer) - A devcontainer I developed for writing web applications using Node and Vue. 

@@ -1,11 +1,11 @@
 ---
-title: "Spring 2024 Syllabus"
+title: "Spring 2025 Syllabus"
 weight: 10
 pre: "1. "
 ---
 
-## CIS 596 - Entrepreneurial Computer Science Project - Spring 2024 
-## CIS 598 - Computer Science Project - Spring 2024 
+## CIS 596 - Entrepreneurial Computer Science Project - Spring 2025
+## CIS 598 - Computer Science Project - Spring 2025
 
 [Previous Versions]({{% relref "old" %}})
 
@@ -63,7 +63,7 @@ After completing this course, a successful student will be able to:
 
 ###  Course Structure
 
-The course meets in person **Mondays from 3:30 - 4:20 PM in DUE 0093**. At the beginning of the semester, students will be assigned to one of those two days as their official course session. Students should attend all in-person course sessions to which they are assigned. In-person sessions will primarily be used for student presentations throughout the semester. There may also be one or two **Wednesdsay or Friday** in-person class periods for presentations. These dates will be clearly announced in advance. 
+The course meets in person **Mondays from 3:30 - 4:20 PM in DUE 0093**. Students should attend all in-person course sessions to which they are assigned. In-person sessions will primarily be used for student presentations throughout the semester. There may also be one or two **Wednesday or Friday** in-person class periods for presentations. These dates will be clearly announced in advance. 
 
 On weeks where **Monday** falls on a university holiday, such as Labor Day or President's Day, the course will instead meet in person on **Wednesdays** of the same week. 
 
