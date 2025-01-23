@@ -79,20 +79,20 @@ hidden: true
 <section>
   <h3>Deliverables</h3>
   <ul>
-    <li>8/26 GitHub Classroom</li>
-    <li>9/1: Initial Writeup & Requirements</li>
-    <li>9/4 - 10/7: Requirements Presentations</li>
-    <li>10/14 - 11/22: Design Presentations</li>
-    <li>11/22: Presentation Advertisements</li>
-    <li>12/9 - 12/13: Final Presentations</li>
-    <li>12/13: Code & Documentation</li>
+    <li>Wk 1: GitHub Classroom</li>
+    <li>Wk 2: Initial Writeup & Requirements</li>
+    <li>Wk 3-8: Requirements Presentations</li>
+    <li>Wk 9-14: Design Presentations</li>
+    <li>Wk 14: Presentation Advertisements</li>
+    <li>Wk 16: Final Presentations</li>
+    <li>Wk 16: Code & Documentation</li>
   </ul>
 </section>
 <section>
   <h3>Schedule</h3>
   <ul>
-    <li><b>Mon - 3:30 PM DUR 1066</b><ul>
-      <li><b>Exception: Wed Sept. 4</b></li>
+    <li><b>Mon - 3:30 PM DUR 0093</b><ul>
+      <li><b>Exception: Wed Jan 29</b></li>
       <li><b>Attendance Expected!</b></li>
     </ul></li>
     <li>Wed & Fri - 3:30 PM via Zoom<ul>
@@ -179,11 +179,11 @@ hidden: true
 <section>
   <h3>What's Next</h3>
   <ul>
-    <li>GitHub Classroom (8/26)</li>
+    <li>GitHub Classroom</li>
     <li>Project Topic & Advisor</li>
     <li>First Advisor Meeting</li>
     <li>Initial Writeup & Requirements</li>
-    <li>Due 9/1 (Sunday)</li>
+    <li>Due Before Wk. 3 (Sunday)</li>
   </ul>
 </section>
 <section>
