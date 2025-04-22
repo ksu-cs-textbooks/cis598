@@ -24,7 +24,7 @@ weight: 55
 | [Title]({{% ref "06-spring2025#e17" %}}) | Kyle Kohman | Thornton | Wed, May 14 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e18" %}}) | Lukas Hurtig | Feldhausen | Wed, May 14 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e19" %}}) | Isaac Steiner | Valenzuela | Wed, May 14 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e20" %}}) | Student Name | Advisor | Wed, May 14 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e20" %}}) | Bryan Gross | Bean | Wed, May 14 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e21" %}}) | John Woods | Hsu | Wed, May 14 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e22" %}}) | Student Name | Advisor | Wed, May 14 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e23" %}}) | Student Name | Advisor | Thur, May 15 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -192,7 +192,7 @@ Abstract
 
 ## Project Name {#e20}
 
-Student Name
+Bryan Gross
 
 ![Image](images/placeholder.png)
 
