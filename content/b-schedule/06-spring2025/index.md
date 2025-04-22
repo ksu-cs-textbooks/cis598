@@ -5,42 +5,42 @@ weight: 55
 
 | Project | Student | Advisor | Date | Time | Location | Zoom |
 |:-------:|:-------:|:-------:|:----:|:----:|:--------:|:----:|
-| [Title]({{% ref "06-spring2025#e1" %}}) | Student Name | Advisor | Tue, May 13 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e2" %}}) | Student Name | Advisor | Tue, May 13 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e3" %}}) | Student Name | Advisor | Tue, May 13 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e4" %}}) | Student Name | Advisor | Tue, May 13 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e5" %}}) | Student Name | Advisor | Tue, May 13 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e1" %}}) | Sam Wilson | Weese | Tue, May 13 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e2" %}}) | Kyle Zeller | Feldhausen | Tue, May 13 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e3" %}}) | Dawson Stutzman | Bean | Tue, May 13 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e4" %}}) | Cameron Pilchard | Feldhausen | Tue, May 13 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e5" %}}) | Sage Cauley | Feldhausen | Tue, May 13 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e6" %}}) | Student Name | Advisor | Tue, May 13 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e7" %}}) | Student Name | Advisor | Tue, May 13 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e8" %}}) | Student Name | Advisor | Tue, May 13 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e9" %}}) | Student Name | Advisor | Tue, May 13 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e10" %}}) | Student Name | Advisor | Tue, May 13 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e11" %}}) | Student Name | Advisor | Tue, May 13 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e7" %}}) | Keenan Melton | Bean | Tue, May 13 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e8" %}}) | Samuel Allred | Bean | Tue, May 13 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e9" %}}) | Camden Green | Bean | Tue, May 13 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e10" %}}) | Gabriel McReynolds | Valenzuela | Tue, May 13 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e11" %}}) | Caleb Chan | Thornton | Tue, May 13 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e12" %}}) | Student Name | Advisor | Wed, May 14 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e13" %}}) | Student Name | Advisor | Wed, May 14 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e14" %}}) | Student Name | Advisor | Wed, May 14 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e15" %}}) | Student Name | Advisor | Wed, May 14 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e15" %}}) | Maxwell Shafer | Bean | Wed, May 14 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e16" %}}) | Student Name | Advisor | Wed, May 14 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e17" %}}) | Student Name | Advisor | Wed, May 14 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e18" %}}) | Student Name | Advisor | Wed, May 14 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e19" %}}) | Student Name | Advisor | Wed, May 14 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e17" %}}) | Kyle Kohman | Thornton | Wed, May 14 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e18" %}}) | Lukas Hurtig | Feldhausen | Wed, May 14 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e19" %}}) | Isaac Steiner | Valenzuela | Wed, May 14 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e20" %}}) | Student Name | Advisor | Wed, May 14 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e21" %}}) | Student Name | Advisor | Wed, May 14 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e21" %}}) | John Woods | Hsu | Wed, May 14 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e22" %}}) | Student Name | Advisor | Wed, May 14 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e23" %}}) | Student Name | Advisor | Thur, May 15 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e24" %}}) | Student Name | Advisor | Thur, May 15 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e25" %}}) | Student Name | Advisor | Thur, May 15 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e26" %}}) | Student Name | Advisor | Thur, May 15 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e27" %}}) | Student Name | Advisor | Thur, May 15 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e28" %}}) | Student Name | Advisor | Thur, May 15 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e29" %}}) | Student Name | Advisor | Thur, May 15 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e30" %}}) | Student Name | Advisor | Thur, May 15 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e31" %}}) | Student Name | Advisor | Thur, May 15 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e25" %}}) | Moises Villegas | Valenzuela | Thur, May 15 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e26" %}}) | Tatenda Sekabanja | Malallah | Thur, May 15 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e27" %}}) | Clint McKenzie & Logan Arnold | Feldhausen | Thur, May 15 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e29" %}}) | Pedro Mendez-Alcantar | Feldhausen | Thur, May 15 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e30" %}}) | Matthew Lund | Feldhausen | Thur, May 15 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e31" %}}) | Aaron McKain | Thornton | Thur, May 15 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e32" %}}) | Student Name | Advisor | Thur, May 15 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e33" %}}) | Student Name | Advisor | Thur, May 15 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+
 ## Project Name {#e1}
 
-Student Name
+Sam Wilson
 
 ![Image](images/placeholder.png)
 
@@ -48,7 +48,7 @@ Abstract
 
 ## Project Name {#e2}
 
-Student Name
+Kyle Zeller
 
 ![Image](images/placeholder.png)
 
@@ -56,7 +56,7 @@ Abstract
 
 ## Project Name {#e3}
 
-Student Name
+Dawson Stutzman
 
 ![Image](images/placeholder.png)
 
@@ -64,7 +64,7 @@ Abstract
 
 ## Project Name {#e4}
 
-Student Name
+Cameron Pilchard
 
 ![Image](images/placeholder.png)
 
@@ -72,7 +72,7 @@ Abstract
 
 ## Project Name {#e5}
 
-Student Name
+Sage Cauley
 
 ![Image](images/placeholder.png)
 
@@ -88,7 +88,7 @@ Abstract
 
 ## Project Name {#e7}
 
-Student Name
+Keenan Melton
 
 ![Image](images/placeholder.png)
 
@@ -96,7 +96,7 @@ Abstract
 
 ## Project Name {#e8}
 
-Student Name
+Samuel Allred
 
 ![Image](images/placeholder.png)
 
@@ -104,7 +104,7 @@ Abstract
 
 ## Project Name {#e9}
 
-Student Name
+Camden Green
 
 ![Image](images/placeholder.png)
 
@@ -112,7 +112,7 @@ Abstract
 
 ## Project Name {#e10}
 
-Student Name
+Gabriel McReynolds
 
 ![Image](images/placeholder.png)
 
@@ -120,7 +120,7 @@ Abstract
 
 ## Project Name {#e11}
 
-Student Name
+Caleb Chan
 
 ![Image](images/placeholder.png)
 
@@ -152,7 +152,7 @@ Abstract
 
 ## Project Name {#e15}
 
-Student Name
+Maxwell Shafer
 
 ![Image](images/placeholder.png)
 
@@ -168,7 +168,7 @@ Abstract
 
 ## Project Name {#e17}
 
-Student Name
+Kyle Kohman
 
 ![Image](images/placeholder.png)
 
@@ -176,7 +176,7 @@ Abstract
 
 ## Project Name {#e18}
 
-Student Name
+Lukas Hurtig
 
 ![Image](images/placeholder.png)
 
@@ -184,7 +184,7 @@ Abstract
 
 ## Project Name {#e19}
 
-Student Name
+Isaac Steiner
 
 ![Image](images/placeholder.png)
 
@@ -200,7 +200,7 @@ Abstract
 
 ## Project Name {#e21}
 
-Student Name
+John Woods
 
 ![Image](images/placeholder.png)
 
@@ -232,7 +232,7 @@ Abstract
 
 ## Project Name {#e25}
 
-Student Name
+Moises Villegas
 
 ![Image](images/placeholder.png)
 
@@ -240,7 +240,7 @@ Abstract
 
 ## Project Name {#e26}
 
-Student Name
+Tatenda Sekabanja
 
 ![Image](images/placeholder.png)
 
@@ -248,15 +248,7 @@ Abstract
 
 ## Project Name {#e27}
 
-Student Name
-
-![Image](images/placeholder.png)
-
-Abstract
-
-## Project Name {#e28}
-
-Student Name
+Clint McKenzie & Logan Arnold
 
 ![Image](images/placeholder.png)
 
@@ -264,7 +256,7 @@ Abstract
 
 ## Project Name {#e29}
 
-Student Name
+Pedro Mendez-Alcantar
 
 ![Image](images/placeholder.png)
 
@@ -272,7 +264,7 @@ Abstract
 
 ## Project Name {#e30}
 
-Student Name
+Matthew Lund
 
 ![Image](images/placeholder.png)
 
@@ -280,7 +272,7 @@ Abstract
 
 ## Project Name {#e31}
 
-Student Name
+Aaron McKain
 
 ![Image](images/placeholder.png)
 
