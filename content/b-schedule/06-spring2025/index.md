@@ -10,7 +10,7 @@ weight: 55
 | [Title]({{% ref "06-spring2025#e3" %}}) | Dawson Stutzman | Bean | Tue, May 13 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e4" %}}) | Cameron Pilchard | Feldhausen | Tue, May 13 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e5" %}}) | Sage Cauley | Feldhausen | Tue, May 13 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e6" %}}) | Student Name | Advisor | Tue, May 13 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e6" %}}) | Jiwoo Jung | DeLoach | Tue, May 13 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e7" %}}) | Keenan Melton | Bean | Tue, May 13 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e8" %}}) | Samuel Allred | Bean | Tue, May 13 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e9" %}}) | Camden Green | Bean | Tue, May 13 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -26,7 +26,7 @@ weight: 55
 | [Title]({{% ref "06-spring2025#e19" %}}) | Isaac Steiner | Valenzuela | Wed, May 14 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e20" %}}) | Bryan Gross | Bean | Wed, May 14 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e21" %}}) | John Woods | Hsu | Wed, May 14 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e22" %}}) | Jiwoo Jung | DeLoach | Wed, May 14 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e22" %}}) | Student Name | Advisor | Wed, May 14 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e23" %}}) | Student Name | Advisor | Thur, May 15 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e24" %}}) | Student Name | Advisor | Thur, May 15 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e25" %}}) | Moises Villegas | Valenzuela | Thur, May 15 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -80,7 +80,7 @@ Abstract
 
 ## Project Name {#e6}
 
-Student Name
+Jiwoo Jung
 
 ![Image](images/placeholder.png)
 
@@ -208,7 +208,7 @@ Abstract
 
 ## Project Name {#e22}
 
-Jiwoo Jung
+Student Name
 
 ![Image](images/placeholder.png)
 
