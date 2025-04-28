@@ -18,15 +18,15 @@ weight: 55
 | [Title]({{% ref "06-spring2025#e11" %}}) | Caleb Chan | Thornton | Tue, May 13 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e12" %}}) | Student Name | Advisor | Wed, May 14 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e13" %}}) | Student Name | Advisor | Wed, May 14 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e14" %}}) | Student Name | Advisor | Wed, May 14 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e14" %}}) | Vinny Sun | Weese | Wed, May 14 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e15" %}}) | Maxwell Shafer | Bean | Wed, May 14 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e16" %}}) | Student Name | Advisor | Wed, May 14 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e16" %}}) | Sak Lee | Neilsen | Wed, May 14 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e17" %}}) | Kyle Kohman | Thornton | Wed, May 14 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e18" %}}) | Lukas Hurtig | Feldhausen | Wed, May 14 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e19" %}}) | Isaac Steiner | Valenzuela | Wed, May 14 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e20" %}}) | Bryan Gross | Bean | Wed, May 14 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e21" %}}) | John Woods | Hsu | Wed, May 14 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e22" %}}) | Student Name | Advisor | Wed, May 14 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e22" %}}) | Alex Harper | Feldhausen | Wed, May 14 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e23" %}}) | Student Name | Advisor | Thur, May 15 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e24" %}}) | Student Name | Advisor | Thur, May 15 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e25" %}}) | Moises Villegas | Valenzuela | Thur, May 15 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -35,8 +35,8 @@ weight: 55
 | [Title]({{% ref "06-spring2025#e29" %}}) | Pedro Mendez-Alcantar | Feldhausen | Thur, May 15 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e30" %}}) | Matthew Lund | Feldhausen | Thur, May 15 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e31" %}}) | Aaron McKain | Thornton | Thur, May 15 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e32" %}}) | Student Name | Advisor | Thur, May 15 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e33" %}}) | Student Name | Advisor | Thur, May 15 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e32" %}}) | Thomas Rosebrook | Bean | Thur, May 15 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e33" %}}) | Dylan Rosquist | Valenzuela | Thur, May 15 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 
 ## Project Name {#e1}
 
@@ -144,7 +144,7 @@ Abstract
 
 ## Project Name {#e14}
 
-Student Name
+Vinny Sun
 
 ![Image](images/placeholder.png)
 
@@ -160,7 +160,7 @@ Abstract
 
 ## Project Name {#e16}
 
-Student Name
+Sak Lee
 
 ![Image](images/placeholder.png)
 
@@ -208,7 +208,7 @@ Abstract
 
 ## Project Name {#e22}
 
-Student Name
+Alex Harper
 
 ![Image](images/placeholder.png)
 
@@ -280,7 +280,7 @@ Abstract
 
 ## Project Name {#e32}
 
-Student Name
+Thomas Rosebrook
 
 ![Image](images/placeholder.png)
 
@@ -288,7 +288,7 @@ Abstract
 
 ## Project Name {#e33}
 
-Student Name
+Dylan Rosquist
 
 ![Image](images/placeholder.png)
 
