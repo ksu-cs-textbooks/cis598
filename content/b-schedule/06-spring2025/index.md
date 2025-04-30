@@ -27,8 +27,8 @@ weight: 55
 | [Title]({{% ref "06-spring2025#e20" %}}) | Bryan Gross | Bean | Wed, May 14 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e21" %}}) | John Woods | Hsu | Wed, May 14 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e22" %}}) | Alex Harper | Feldhausen | Wed, May 14 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e23" %}}) | Student Name | Advisor | Thur, May 15 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e24" %}}) | Student Name | Advisor | Thur, May 15 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e23" %}}) | Dylan Rosquist | Valenzuela | Thur, May 15 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e24" %}}) | Kael Pavlik | DeLoach | Thur, May 15 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e25" %}}) | Moises Villegas | Valenzuela | Thur, May 15 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e26" %}}) | Tatenda Sekabanja | Malallah | Thur, May 15 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e27" %}}) | Clint McKenzie & Logan Arnold | Feldhausen | Thur, May 15 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -36,7 +36,7 @@ weight: 55
 | [Title]({{% ref "06-spring2025#e30" %}}) | Matthew Lund | Feldhausen | Thur, May 15 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e31" %}}) | Aaron McKain | Thornton | Thur, May 15 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e32" %}}) | Thomas Rosebrook | Bean | Thur, May 15 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e33" %}}) | Dylan Rosquist | Valenzuela | Thur, May 15 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e33" %}}) | Student Name | Advisor | Thur, May 15 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 
 ## Project Name {#e1}
 
@@ -216,7 +216,7 @@ Abstract
 
 ## Project Name {#e23}
 
-Student Name
+Dylan Rosquist
 
 ![Image](images/placeholder.png)
 
@@ -224,7 +224,7 @@ Abstract
 
 ## Project Name {#e24}
 
-Student Name
+Kael Pavlik
 
 ![Image](images/placeholder.png)
 
@@ -288,7 +288,7 @@ Abstract
 
 ## Project Name {#e33}
 
-Dylan Rosquist
+Student Name
 
 ![Image](images/placeholder.png)
 
