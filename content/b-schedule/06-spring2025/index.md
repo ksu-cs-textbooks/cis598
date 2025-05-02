@@ -16,7 +16,7 @@ weight: 55
 | [Title]({{% ref "06-spring2025#e9" %}}) | Camden Green | Bean | Tue, May 13 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e10" %}}) | Gabriel McReynolds | Valenzuela | Tue, May 13 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e11" %}}) | Caleb Chan | Thornton | Tue, May 13 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e12" %}}) | Student Name | Advisor | Wed, May 14 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Title]({{% ref "06-spring2025#e12" %}}) | Wyatt Smith | DeLoach | Wed, May 14 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e13" %}}) | Tushar Lanka | Neilsen | Wed, May 14 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e14" %}}) | Vinny Sun | Weese | Wed, May 14 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "06-spring2025#e15" %}}) | Maxwell Shafer | Bean | Wed, May 14 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -128,7 +128,7 @@ Abstract
 
 ## Project Name {#e12}
 
-Student Name
+Wyatt Smith
 
 ![Image](images/placeholder.png)
 
