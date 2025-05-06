@@ -82,7 +82,7 @@ PeakTri is a training focused mobile application developed using react-native, e
 
 Jiwoo Jung
 
-![Image](images/placeholder.png)
+![Image](images/jung.png)
 
 Superorganism is a 2D colony management platformer that blends survival mechanics with ecological simulation, inspired by games like SimAnt and Terraria. Designed as both a gameplay experience and a biology-informed simulation, the project explores population genetics and adaptive behaviors in ant colonies. Built with the MonoGame framework, it features AI-driven worker behavior, procedural terrain, real-time resource dynamics, and a responsive environment. Key technologies include A* pathfinding, flocking AI, tile-based collision detection, and a dynamic workforce allocation system that evolves based on colony needs. This project aims to demonstrate the complex interplay between environmental challenges and emergent behaviors in simulated ecosystems.
 
@@ -116,7 +116,7 @@ Me and my friends created a custom set of rules to "cost" Magic: The Gathering c
 
 Gabriel McReynolds
 
-![Image](images/placeholder.png)
+![Image](images/mcreynolds.png)
 
 SSIM (SightSeer Interactive Mapping) is a desktop application project built with Flutter to automate the creation of interactive maps for the SightSeer Tour app. This tool will take geographic data, visualize it for graphic designers on a map, and then georeference the resulting image for use in the SightSeer Tour app. SSIM will automate the current manual process of uploading GeoJSON data, manually georeferencing images, and uploading raster tiles and MBTiles databases to Google Cloud. Key algorithmic functionalities include converting PostGIS data into a visual representation and preparing data for the GDAL command line tool for Google Cloud upload. Features include the ability to upload an image for georeferencing, generate raster tiles and MBTiles databases, visualize business geo-data, set map boundaries, display coordinates, displaying artifacts, upload generated files to Google Cloud, and allow user login via the SightSeer API.
 
@@ -132,7 +132,7 @@ With the goal to help users handle and reply to emails more effectively, this pr
 
 Wyatt Smith
 
-![Image](images/placeholder.png)
+![Image](images/smith.png)
 
 My project takes structures built in the game Minecraft and converts them into a 3D model in the STL format, allowing for tasks such as 3D printing of objects made in- game. The key challenges in this project involve eliminating impossible geometry features and optimizing the output file size, while also scaling efficiently to large inputs. The project is made in Java and the UI in javafx.
 
@@ -148,7 +148,7 @@ Abstract
 
 Vinny Sun
 
-![Image](images/placeholder.png)
+![Image](images/sun.png)
 
 SimTrade is a full-stack web-based stock trading and algorithm backtesting application. Users are given virtual capital to trade over 150 stocks both in real time and with over 10 years of historical data. The application also supports running automatic backtests of well-known trading algorithms. This application is helpful for both novice traders wanting a risk-free introduction to the market and experienced traders wanting to test personal trading strategies. The application is built with PostgreSQL, Django + Django REST Framework, and Vue + PrimeVue. The project will be presented on Wednesday, May 14 at 9:30 in DUE 2168 or at https://ksu.zoom.us/j/97743340894?pwd=MEVrZHVxN25vcGhoaXh0Tzg4YzlSZz09.
 
@@ -156,9 +156,9 @@ SimTrade is a full-stack web-based stock trading and algorithm backtesting appli
 
 Caleb Kmiecik
 
-![Image](images/placeholder.png)
+![Image](images/kmiecik.png)
 
-Caleb Kmiecik presents Screen Savior, an Android application designed to help users regain control over their digital habits. The app observes smartphone usage patterns using Android's UsageStatsManager and employs a custom rule engine to identify potentially problematic habits. Based on these insights, it prescribes targeted, customizable intervention strategies (such as timed greyscale filtering or application timers) to reduce unwanted screen time while preserving essential functionality. Built natively using Kotlin and Jetpack Compose for the UI, Screen Savior utilizes Android Room for local data persistence, WorkManager for reliable background data aggregation, and leverages Kotlin Coroutines with StateFlow for managing asynchronous operations and UI state. Suggested strategies are thoughtfully designed, customizable, and monitored for efficacy over time, offering users powerful usage overview tools and progress tracking. The final presentation will be held on Thursday, May 15th, 2025, at 10:00 AM in Room 2183. Join via Zoom: https://bit.ly/cis598s24b
+Caleb Kmiecik presents Screen Savior, an Android application designed to help users regain control over their digital habits. The app observes smartphone usage patterns using Android's UsageStatsManager and employs a custom rule engine to identify potentially problematic habits. Based on these insights, it prescribes targeted, customizable intervention strategies (such as timed greyscale filtering or application timers) to reduce unwanted screen time while preserving essential functionality. Built natively using Kotlin and Jetpack Compose for the UI, Screen Savior utilizes Android Room for local data persistence, WorkManager for reliable background data aggregation, and leverages Kotlin Coroutines with StateFlow for managing asynchronous operations and UI state. Suggested strategies are thoughtfully designed, customizable, and monitored for efficacy over time, offering users powerful usage overview tools and progress tracking. The final presentation will be held on Wednesday, May 14th, 2025, at 9:30 AM in DUE 2183. Join via Zoom: https://bit.ly/cis598s24b
 
 ## Potion Match {#e15}
 
@@ -191,7 +191,7 @@ Lukas Hurtig
 
 ![Image](images/hurtig.png)
 
-Abstract
+RecallFlow is a minimalist productivity app designed to help users build consistency, maintain momentum, and pursue meaningful goals through the combined power of spaced repetition and positive reinforcement. Unlike traditional to-do lists that often lead to overwhelm or stagnation, RecallFlow delivers smart, dynamic task recommendations tailored to each user’s preferred challenge level and goal structure. By integrating intuitive customization options, such as setting the number of active goals or limiting the number of daily tasks shown, the app supports a balanced and sustainable approach to productivity. The clean interface emphasizes clarity and progress without clutter, while features like a streak tracker offer motivational feedback. This project was created by Lukas Hurtig and is going to be presented Wednesday, May 14 at 1:15PM DUE 2168. You can watch this presentation through zoom using the following link: https://bit.ly/cis598s24a.
 
 ## DataDunk {#e19}
 
@@ -224,7 +224,7 @@ The MicroMouse Competition is a robotics competition where fully autonomous robo
 
 Alex Harper
 
-![Image](images/placeholder.png)
+![Image](images/harper.jpg)
 
 My name is Alex Harper, and the project I did is called The Fridge. This project is a Django web application used to keep track of food items in your household. It will notify the user if any of their food items are about to expire, and has some functionality based on that such as suggesting shopping lists and notifying users of food that is about to expire. This application will help users keep track of what is in their fridge without having to go through every single item, saving them time and effort. This presentation will be happening on Wednesday, May 14 at 4:15 PM in DUE 2168.
 
@@ -232,7 +232,7 @@ My name is Alex Harper, and the project I did is called The Fridge. This project
 
 Dylan Rosquist
 
-![Image](images/placeholder.png)
+![Image](images/rosquist.png)
 
 The Pickleball Planner is a web-based application designed to streamline the organization and management of local pickleball events. Traditionally, managing local tournaments and events has relied heavily on paper and the monitoring of a single individual which could lead to gaps in data or errors in scoring. The Pickleball Planner addresses these challenges by providing a single platform for tracking player, team, and league stats and records, while also offering an automated game scheduling algorithm that provides an easy way to get tournament games scheduled without having to do any complex math. By bringing this process online, the Pickleball Planner ensures that all information is easily accessible, stored securely, and organized efficiently, making planning tournaments faster, more reliable and scales with size. The presentation will be on May 15, 8:00 a.m. Location DUE 2168 and Zoom link: bit.ly/cis598s24a.
 
@@ -240,7 +240,7 @@ The Pickleball Planner is a web-based application designed to streamline the org
 
 Kael Pavlik
 
-![Image](images/placeholder.png)
+![Image](images/pavlik.png)
 
 This project is designed to aid developers with developing large mathematical formulas with code by cloning a graphing website desmos.com with extra features that are useful for software development. With this project, developers are able to write formulas in a readable format, and study a visual graph to verify a formula. Then, by applying an algorithm that can translate math formulas into various coding languages, developers may use verified and documented code seamlessly into their projects. By allowing this software to take mathematical formulas and display the context of the formulas, the burden of learning math while coding may be less daunting.
 
@@ -256,7 +256,7 @@ DiscMate is a web-based disc golf app that helps players track performance, visu
 
 Tatenda Sekabanja
 
-![Image](images/placeholder.png)
+![Image](images/sekabanja.png)
 
 Local Concert helps independent and hobbyist musicians who often lack the time and resources to promote their live performances. The platform is a CRUD- based web application that helps local artists publicize their events with minimal effort. Once they register, they can integrate with Stripe to process ticket sales and payments. The app uses a React front-end, Redux Toolkit for state management, and a Node.js/Express backend connected to a SQLServer database. It also makes use of the Stripe API, AWS sdk, and google maps API.
 
