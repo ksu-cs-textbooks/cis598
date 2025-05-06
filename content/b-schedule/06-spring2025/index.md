@@ -272,7 +272,7 @@ When people think of dangerous jobs, they often think of professions such as a p
 
 Pedro Mendez-Alcantar
 
-![Image](images/placeholder.png)
+![Image](images/mendez.png)
 
 Abstract
 
