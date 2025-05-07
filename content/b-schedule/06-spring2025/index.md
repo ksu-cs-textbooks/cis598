@@ -274,7 +274,7 @@ Pedro Mendez-Alcantar
 
 ![Image](images/mendez.png)
 
-Abstract
+Webcipe is an interactive knowledge graph website application
 
 ## Macro Motive {#e30}
 
