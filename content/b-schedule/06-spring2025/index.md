@@ -274,7 +274,7 @@ Pedro Mendez-Alcantar
 
 ![Image](images/mendez.png)
 
-Webcipe is an interactive knowledge graph website application
+Webcipe is a sleek web browser application made for friends, families, and food enthusiasts with an urge to cook. Inspired by Obsidian Notes, this interactive knowledge graph application features a fun way to explore and discover new recipes within its main menú. Webcipe's  utilizes a simple, yet intuitive design that makes it easy to search and save new recipes onto your cookbook . The main course of technologies to make this project include MSSQL database, .NET Framework, and React. On the side, tools such as SIGMA.js and Graphology help render recipes efficiently. Webcipe will be presented on Thursday, May 16th in DUE 2168 @ 1:15pm. https://bit.ly/cis598s24a
 
 ## Macro Motive {#e30}
 
