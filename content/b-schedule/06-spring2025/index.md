@@ -17,7 +17,7 @@ weight: 55
 | [SightSeer Interactive Mapping]({{% ref "06-spring2025#e10" %}}) | Gabriel McReynolds | Valenzuela | Tue, May 13 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [SwiftMail]({{% ref "06-spring2025#e11" %}}) | Caleb Chan | Thornton | Tue, May 13 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [McToStl]({{% ref "06-spring2025#e12" %}}) | Wyatt Smith | DeLoach | Wed, May 14 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e13" %}}) | Tushar Lanka | Neilsen | Wed, May 14 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Pokedex]({{% ref "06-spring2025#e13" %}}) | Tushar Lanka | Neilsen | Wed, May 14 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [SimTrade]({{% ref "06-spring2025#e14" %}}) | Vinny Sun | Weese | Wed, May 14 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Screen Savior]({{% ref "06-spring2025#e33" %}}) | Caleb Kmiecik | Shamir | Wed, May 14 | 9:30 AM | **DUE 2183** | **[Zoom](https://bit.ly/cis598s24b)** |
 | [Potion Match]({{% ref "06-spring2025#e15" %}}) | Maxwell Shafer | Bean | Wed, May 14 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -33,9 +33,9 @@ weight: 55
 | [DiscMate]({{% ref "06-spring2025#e25" %}}) | Moises Villegas | Valenzuela | Thur, May 15 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Local Concert]({{% ref "06-spring2025#e26" %}}) | Tatenda Sekabanja | Malallah | Thur, May 15 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [WorkAlert]({{% ref "06-spring2025#e27" %}}) | Clint McKenzie & Logan Arnold | Feldhausen | Thur, May 15 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "06-spring2025#e29" %}}) | Pedro Mendez-Alcantar | Feldhausen | Thur, May 15 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Webcipe]({{% ref "06-spring2025#e29" %}}) | Pedro Mendez-Alcantar | Feldhausen | Thur, May 15 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Macro Motive]({{% ref "06-spring2025#e30" %}}) | Matthew Lund | Feldhausen | Thur, May 15 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [McKain]({{% ref "06-spring2025#e31" %}}) | Aaron McKain | Thornton | Thur, May 15 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Hearth]({{% ref "06-spring2025#e31" %}}) | Aaron McKain | Thornton | Thur, May 15 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Penguin Physics]({{% ref "06-spring2025#e32" %}}) | Thomas Rosebrook | Bean | Thur, May 15 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 
 ## GarageMate {#e1}
@@ -283,7 +283,6 @@ Matthew Lund
 ![Image](images/lund.png)
 
 Macro Motive is a fitness and nutrition tracking application developed using TypeScript with React and Expo Go. Designed to streamline the process of monitoring meals and workouts, the app features a user-friendly interface where individuals can log daily activities and track their progress. A standout feature of Macro Motive is its integration of a natural language processing API that translates everyday English descriptions of meals into detailed nutritional data. Users can save frequently consumed meals to a personal library for quick reuse. Additionally, the app offers a workout library that enables users to store and repeat their favorite exercise routines. Overall, the app focuses on streamlining progress-tracking and taking as much effort off the user as possible while keeping them on track towards their fitness goals.
-
 
 ## Hearth {#e31}
 
