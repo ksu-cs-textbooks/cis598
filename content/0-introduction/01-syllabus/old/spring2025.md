@@ -1,23 +1,21 @@
 ---
-title: "Fall 2025 Syllabus"
+title: "Spring 2025 Syllabus"
 weight: 10
 pre: "1. "
 ---
 
-## CIS 596 - Entrepreneurial Computer Science Project - Fall 2025
-## CIS 598 - Computer Science Project - Fall 2025
-
-[Previous Versions]({{% relref "old" %}})
+## CIS 596 - Entrepreneurial Computer Science Project - Spring 2025
+## CIS 598 - Computer Science Project - Spring 2025
 
 ### Instructor Contact Information
 
-* **Instructor:** Dr. Dan Andresen (dan AT ksu DOT edu)
+* **Instructor:** Dr. Scott DeLoach (sdeloach AT ksu DOT edu)
 * **Office:** DUE 2184
 * **Phone:** (785) 532-6350
-* **Website:** https://people.cs.ksu.edu/~dan/
+* **Website:** https://people.cs.ksu.edu/~sdeloach/
 * **Office Hours:** TBA  
 <br>
-* **Instructor:** Russell Feldhausen (russfeld AT ksu DOT edu)
+* **Instructor:** Russell Feldhausen (russfeld AT ksu DOT edu)<br> _I use **he/him** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
 * **Office:** DUE 2213, but I mostly work remotely from Kansas City, MO
 * **Phone:** (785) 292-3121 (Call/Text)
 * **Website:** https://russfeld.me
