@@ -6,9 +6,8 @@ hidden: true
 	<h2>Welcome to CIS 598/596/599</h2>
 </section>
 <section>
-	<h3>Russell Feldhausen</h3>
+	<h3>Mr. Russell Feldhausen</h3>
 	<p>
-		<i>Pronouns: he/him</i><br>
 		(785) 292-3121 (Call/Text)<br>
 		2213 Engineering Hall<br>
 		<i>(working remotely)</i><br>
@@ -18,13 +17,13 @@ hidden: true
 	</p>
 </section>
 <section>
-	<h3>Dr. Scott DeLoach</h3>
+	<h3>Dr. Dan DeLoach</h3>
 	<p>
 		(785) 532-6350<br>
 		2184 Engineering Hall<br>
 		<br>
-		<b>sdeloach AT ksu DOT edu</b><br>
-		https://people.cs.ksu.edu/~sdeloach/<br>
+		<b>dan AT ksu DOT edu</b><br>
+		https://people.cs.ksu.edu/~dan/<br>
 	</p>
 </section>
 <section>
@@ -92,7 +91,7 @@ hidden: true
   <h3>Schedule</h3>
   <ul>
     <li><b>Mon - 3:30 PM DUR 0093</b><ul>
-      <li><b>Exception: Wed Jan 29</b></li>
+      <li><b>Exception: Wed Sept 3</b></li>
       <li><b>Attendance Expected!</b></li>
     </ul></li>
     <li>Wed & Fri - 3:30 PM via Zoom<ul>
