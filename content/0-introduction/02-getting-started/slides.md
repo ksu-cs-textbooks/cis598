@@ -17,7 +17,7 @@ hidden: true
 	</p>
 </section>
 <section>
-	<h3>Dr. Dan DeLoach</h3>
+	<h3>Dr. Dan Andresen</h3>
 	<p>
 		(785) 532-6350<br>
 		2184 Engineering Hall<br>
