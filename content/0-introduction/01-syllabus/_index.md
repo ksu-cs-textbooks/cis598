@@ -135,7 +135,8 @@ If you are unable to complete the course in a timely manner, please contact the 
 Unless otherwise noted in writing on a signed [Incomplete Agreement Form](https://www.k-state.edu/registrar/forms/credits_grade_reporting/Incomplete%20agreement%20form.pdf), the following stipulations apply to any incomplete grades given in this course:
 
 1. **Students who request an incomplete will have their final grade capped at a C**.
-1. Students will be given a maximum of 8 calendar weeks from the end of the enrolled semester to complete the course. It is expected that students have completed at least half of the course in order to qualify for an incomplete. 
+2. Students will be given a maximum of 8 calendar weeks from the end of the enrolled semester to complete the course. It is expected that students have completed at least half of the course in order to qualify for an incomplete. 
+3. Students understand that access to instructor and TA assistance may be limited after the end of an academic semester due to holidays and other obligations.
 
 ### Recommended Texts & Supplies
 
