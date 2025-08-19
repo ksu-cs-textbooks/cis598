@@ -17,11 +17,11 @@ pre: "1. "
 * **Website:** https://people.cs.ksu.edu/~dan/
 * **Office Hours:** TBA  
 <br>
-* **Instructor:** Russell Feldhausen (russfeld AT ksu DOT edu)
+* **Instructor:** Mr. Russell Feldhausen (russfeld AT ksu DOT edu)
 * **Office:** DUE 2213, but I mostly work remotely from Kansas City, MO
 * **Phone:** (785) 292-3121 (Call/Text)
 * **Website:** https://russfeld.me
-* **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us/). Schedule a meeting at [https://calendly.com/russfeld](https://calendly.com/russfeld)
+* **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us/). [Book time to meet with me](https://outlook.office.com/bookwithme/user/352f01b060fd4854b105dd9afc625e8b@ksu.edu?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature)
 
 #### Preferred Methods of Communication:
 
@@ -63,7 +63,7 @@ After completing this course, a successful student will be able to:
 
 ###  Course Structure
 
-The course meets in person **Mondays from 3:30 - 4:20 PM in DUE 0093**. Students should attend all in-person course sessions to which they are assigned. In-person sessions will primarily be used for student presentations throughout the semester. There may also be one or two **Wednesday or Friday** in-person class periods for presentations. These dates will be clearly announced in advance. 
+The course meets in person **Mondays from 3:30 - 4:20 PM in DUR 1066**. Students should attend all in-person course sessions to which they are assigned. In-person sessions will primarily be used for student presentations throughout the semester. There may also be one or two **Wednesday or Friday** in-person class periods for presentations. These dates will be clearly announced in advance. 
 
 On weeks where **Monday** falls on a university holiday, such as Labor Day or President's Day, the course will instead meet in person on **Wednesdays** of the same week. 
 
@@ -130,9 +130,9 @@ If you have extenuating circumstances, please discuss them with the instructor a
 
 Students should strive to complete this course in its entirety before the end of the semester in which they are enrolled. However, since retaking the course would be costly and repetitive for students, we would like to give students a chance to succeed with a little help rather than immediately fail students who are struggling.
 
-If you are unable to complete the course in a timely manner, please contact the instructor to discuss an incomplete grade. Incomplete grades are given solely at the instructor's discretion. See the official [K-State Grading Policy](https://www.k-state.edu/registrar/students/academicpolicy/#GRADING) for more information. In general, _poor time management alone is not a sufficient reason for an incomplete grade_.
+If you are unable to complete the course in a timely manner, please contact the instructor to discuss an incomplete grade. Incomplete grades are given solely at the instructor's discretion. See the official [K-State Grading Policy](https://www.k-state.edu/provost/policies-resources/university-handbook/fhsecf.html#F80) for more information. In general, _poor time management alone is not a sufficient reason for an incomplete grade_.
 
-Unless otherwise noted in writing on a signed [Incomplete Agreement Form](https://www.k-state.edu/registrar/faculty-staff/forms/Incomplete%20agreement%20form.docx), the following stipulations apply to any incomplete grades given in this course:
+Unless otherwise noted in writing on a signed [Incomplete Agreement Form](https://www.k-state.edu/registrar/forms/credits_grade_reporting/Incomplete%20agreement%20form.pdf), the following stipulations apply to any incomplete grades given in this course:
 
 1. **Students who request an incomplete will have their final grade capped at a C**.
 1. Students will be given a maximum of 8 calendar weeks from the end of the enrolled semester to complete the course. It is expected that students have completed at least half of the course in order to qualify for an incomplete. 
