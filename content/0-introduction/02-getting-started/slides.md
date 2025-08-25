@@ -38,7 +38,6 @@ hidden: true
     <li>russfeld AT ksu DOT edu</li>
     <li>Please add "CIS 598" to subject</li>
     <br>
-    <li>Ed Discussion</li>
     <li>@russfeld on Discord/Teams</li>
     <li>DMs Welcome</li>
   </ul>
@@ -80,8 +79,8 @@ hidden: true
   <ul>
     <li>Wk 1: GitHub Classroom</li>
     <li>Wk 2: Initial Writeup & Requirements</li>
-    <li>Wk 3-8: Requirements Presentations</li>
-    <li>Wk 9-14: Design Presentations</li>
+    <li>Wk 4-7: Requirements Presentations</li>
+    <li>Wk 8-11: Design Presentations</li>
     <li>Wk 14: Presentation Advertisements</li>
     <li>Wk 16: Final Presentations</li>
     <li>Wk 16: Code & Documentation</li>
@@ -91,7 +90,7 @@ hidden: true
   <h3>Schedule</h3>
   <ul>
     <li><b>Mon - 3:30 PM DUR 0093</b><ul>
-      <li><b>Exception: Wed Sept 3</b></li>
+      <li><b>Exception: Fri Sept 5</b></li>
       <li><b>Attendance Expected!</b></li>
     </ul></li>
     <li>Wed & Fri - 3:30 PM via Zoom<ul>
