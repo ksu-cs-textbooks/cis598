@@ -5,63 +5,74 @@ weight: 60
 
 | Project | Student | Advisor | Date | Time | Location | Zoom |
 |:-------:|:-------:|:-------:|:----:|:----:|:--------:|:----:|
-| [Title]({{% ref "07-fall2025#e1" %}}) | Student Name | Advisor | Wed, Dec 17 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e2" %}}) | Student Name | Advisor | Wed, Dec 17 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e3" %}}) | Student Name | Advisor | Wed, Dec 17 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e4" %}}) | Student Name | Advisor | Wed, Dec 17 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e5" %}}) | Student Name | Advisor | Wed, Dec 17 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [ServicSync]({{% ref "07-fall2025#e0" %}}) | Nate Carter | Thornton | Fri, Dec 12 | 1:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Verba]({{% ref "07-fall2025#e1" %}}) | Wyatt Morris | Weese | Wed, Dec 17 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [CourseLogiCS]({{% ref "07-fall2025#e2" %}}) | Jackson Cannell | Malallah | Wed, Dec 17 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [EduVista]({{% ref "07-fall2025#e3" %}}) | Taj Ikhlaas | Malallah | Wed, Dec 17 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Bizzi]({{% ref "07-fall2025#e4" %}}) | Ayden Wyer | Bean | Wed, Dec 17 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Pharma In Review]({{% ref "07-fall2025#e5" %}}) | Daniel Robertson | McGinty | Wed, Dec 17 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "07-fall2025#e6" %}}) | Student Name | Advisor | Wed, Dec 17 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e7" %}}) | Student Name | Advisor | Wed, Dec 17 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e8" %}}) | Student Name | Advisor | Wed, Dec 17 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e9" %}}) | Student Name | Advisor | Wed, Dec 17 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e10" %}}) | Student Name | Advisor | Wed, Dec 17 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e11" %}}) | Student Name | Advisor | Wed, Dec 17 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Cattle Database]({{% ref "07-fall2025#e7" %}}) | Carson Toews | Weese | Wed, Dec 17 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Board Claimed]({{% ref "07-fall2025#e8" %}}) | Matthew Gwaltney | Bean | Wed, Dec 17 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [TrailBlazer]({{% ref "07-fall2025#e9" %}}) | Jack Schaeffer | James | Wed, Dec 17 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Deep Learning for Chemical Property Prediction of Candidates for PTSD Therapies]({{% ref "07-fall2025#e10" %}}) | Greyson Walker | McGinty | Wed, Dec 17 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Disc Golf Panaoramic Navigator]({{% ref "07-fall2025#e11" %}}) | Daniel Chang | Valenzuela | Wed, Dec 17 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "07-fall2025#e12" %}}) | Student Name | Advisor | Thur, Dec 18 | 8:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e13" %}}) | Student Name | Advisor | Thur, Dec 18 | 9:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e14" %}}) | Student Name | Advisor | Thur, Dec 18 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Project Manager]({{% ref "07-fall2025#e13" %}}) | Charlie Bergdall | Feldhausen | Thur, Dec 18 | 9:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Iron Rank]({{% ref "07-fall2025#e14" %}}) | Cayden Hoffman | Bean | Thur, Dec 18 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "07-fall2025#e15" %}}) | Student Name | Advisor | Thur, Dec 18 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e16" %}}) | Student Name | Advisor | Thur, Dec 18 | 12:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Fragrance Alert Application]({{% ref "07-fall2025#e16" %}}) | Chipo Sekabanja | Shamir | Thur, Dec 18 | 12:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "07-fall2025#e17" %}}) | Student Name | Advisor | Thur, Dec 18 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e18" %}}) | Student Name | Advisor | Thur, Dec 18 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e19" %}}) | Student Name | Advisor | Thur, Dec 18 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [TA Monitoring & Management System]({{% ref "07-fall2025#e18" %}}) | Hiep Nguyen | Malallah | Thur, Dec 18 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Gig Manager]({{% ref "07-fall2025#e19" %}}) | Carson Bollinger | Thornton | Thur, Dec 18 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "07-fall2025#e20" %}}) | Student Name | Advisor | Thur, Dec 18 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "07-fall2025#e21" %}}) | Student Name | Advisor | Thur, Dec 18 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [CIS 642 A]({{% ref "07-fall2025#e22" %}}) | Student Names | Bean | Fri, Dec 19 | 11:50 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [CIS 642 B]({{% ref "07-fall2025#e23" %}}) | Student Names | Bean | Fri, Dec 19 | 12:50 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 
-## Project Name {#e1}
+## ServicSync {#e0}
 
-Student Name
-
-![Image](images/placeholder.png)
-
-Abstract
-
-## Project Name {#e2}
-
-Student Name
+Nate Carter
 
 ![Image](images/placeholder.png)
 
 Abstract
 
-## Project Name {#e3}
+## Verba {#e1}
 
-Student Name
-
-![Image](images/placeholder.png)
-
-Abstract
-
-## Project Name {#e4}
-
-Student Name
+Wyatt Morris
 
 ![Image](images/placeholder.png)
 
 Abstract
 
-## Project Name {#e5}
+## CourseLogiCS {#e2}
 
-Student Name
+Jackson Cannell
+
+![Image](images/placeholder.png)
+
+Abstract
+
+## EduVista {#e3}
+
+Taj Ikhlaas
+
+![Image](images/placeholder.png)
+
+Abstract
+
+## Bizzi {#e4}
+
+Ayden Wyer
+
+![Image](images/placeholder.png)
+
+Abstract
+
+## Pharma In Review {#e5}
+
+Daniel Robertson
 
 ![Image](images/placeholder.png)
 
@@ -75,41 +86,41 @@ Student Name
 
 Abstract
 
-## Project Name {#e7}
+## Cattle Database {#e7}
 
-Student Name
-
-![Image](images/placeholder.png)
-
-Abstract
-
-## Project Name {#e8}
-
-Student Name
+Carson Toews
 
 ![Image](images/placeholder.png)
 
 Abstract
 
-## Project Name {#e9}
+## Board Claimed {#e8}
 
-Student Name
-
-![Image](images/placeholder.png)
-
-Abstract
-
-## Project Name {#e10}
-
-Student Name
+Matthwe Gwaltney
 
 ![Image](images/placeholder.png)
 
 Abstract
 
-## Project Name {#e11}
+## TrailBlazer {#e9}
 
-Student Name
+Jack Schaeffer
+
+![Image](images/placeholder.png)
+
+Abstract
+
+## Deep Learning for Chemical Property Prediction of Candidates for PTSD Therapies {#e10}
+
+Greyson Walker
+
+![Image](images/placeholder.png)
+
+Abstract
+
+## Disc Golf Panaoramic Navigator {#e11}
+
+Daniel Chang
 
 ![Image](images/placeholder.png)
 
@@ -123,17 +134,17 @@ Student Name
 
 Abstract
 
-## Project Name {#e13}
+## Project Manager {#e13}
 
-Student Name
+Charlie Bergdall
 
 ![Image](images/placeholder.png)
 
 Abstract
 
-## Project Name {#e14}
+## Iron Rank {#e14}
 
-Student Name
+Cayden Hoffman
 
 ![Image](images/placeholder.png)
 
@@ -147,9 +158,9 @@ Student Name
 
 Abstract
 
-## Project Name {#e16}
+## Fragrance Alert Application {#e16}
 
-Student Name
+Chipo Sekabanja
 
 ![Image](images/placeholder.png)
 
@@ -163,17 +174,17 @@ Student Name
 
 Abstract
 
-## Project Name {#e18}
+## TA Monitoring & Management System {#e18}
 
-Student Name
+Hiep Nguyen
 
 ![Image](images/placeholder.png)
 
 Abstract
 
-## Project Name {#e19}
+## Gig Manager {#e19}
 
-Student Name
+Carson Bollinger
 
 ![Image](images/placeholder.png)
 
@@ -195,4 +206,19 @@ Student Name
 
 Abstract
 
+## CIS 642 A {#e22}
+
+Student Names
+
+![Image](images/placeholder.png)
+
+Abstract
+
+## CIS 642 B {#e23}
+
+Student Names
+
+![Image](images/placeholder.png)
+
+Abstract
 
