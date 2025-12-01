@@ -5,13 +5,13 @@ weight: 60
 
 | Project | Student | Advisor | Date | Time | Location | Zoom |
 |:-------:|:-------:|:-------:|:----:|:----:|:--------:|:----:|
-| [ServicSync]({{% ref "07-fall2025#e0" %}}) | Nate Carter | Thornton | Fri, Dec 12 | 1:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [ServiceSync]({{% ref "07-fall2025#e0" %}}) | Nate Carter | Thornton | Fri, Dec 12 | 1:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Verba]({{% ref "07-fall2025#e1" %}}) | Wyatt Morris | Weese | Wed, Dec 17 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [CourseLogiCS]({{% ref "07-fall2025#e2" %}}) | Jackson Cannell | Malallah | Wed, Dec 17 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [EduVista]({{% ref "07-fall2025#e3" %}}) | Taj Ikhlaas | Malallah | Wed, Dec 17 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Bizzi]({{% ref "07-fall2025#e4" %}}) | Ayden Wyer | Bean | Wed, Dec 17 | 10:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Pharma In Review]({{% ref "07-fall2025#e5" %}}) | Daniel Robertson | McGinty | Wed, Dec 17 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e6" %}}) | Student Name | Advisor | Wed, Dec 17 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Draw Fight]({{% ref "07-fall2025#e6" %}}) | Kit Hawkins | Andresen | Wed, Dec 17 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Cattle Database]({{% ref "07-fall2025#e7" %}}) | Carson Toews | Weese | Wed, Dec 17 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Board Claimed]({{% ref "07-fall2025#e8" %}}) | Matthew Gwaltney | Bean | Wed, Dec 17 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [TrailBlazer]({{% ref "07-fall2025#e9" %}}) | Jack Schaeffer | James | Wed, Dec 17 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -30,13 +30,13 @@ weight: 60
 | [CIS 642 A]({{% ref "07-fall2025#e22" %}}) | Student Names | Bean | Fri, Dec 19 | 11:50 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [CIS 642 B]({{% ref "07-fall2025#e23" %}}) | Student Names | Bean | Fri, Dec 19 | 12:50 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 
-## ServicSync {#e0}
+## ServiceSync {#e0}
 
 Nate Carter
 
-![Image](images/placeholder.png)
+![Image](images/carter.png)
 
-Abstract
+ServiceSync is a web application designed to increase the workflow of how small maintenance companies manage their daily operations. Maintenance work often becomes scattered across paper notes, texts, and spreadsheets, making it difficult to track assignments, deadlines, and inventory. ServiceSync solves this by bringing work orders, technician scheduling, inventory tracking, invoice generation and preventive maintenance into one organized platform. With automated scheduling for preventive maintenance, real-time updates, and clear role-based access, the system helps companies stay efficient, reduce confusion, and keep their work running smoothly. 
 
 ## Verba {#e1}
 
@@ -78,9 +78,9 @@ Daniel Robertson
 
 Abstract
 
-## Project Name {#e6}
+## Draw Fight {#e6}
 
-Student Name
+Kit Hawkins
 
 ![Image](images/placeholder.png)
 
