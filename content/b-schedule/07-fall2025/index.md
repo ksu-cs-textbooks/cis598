@@ -20,7 +20,7 @@ weight: 60
 | [Title]({{% ref "07-fall2025#e12" %}}) | Student Name | Advisor | Thur, Dec 18 | 8:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Project Manager]({{% ref "07-fall2025#e13" %}}) | Charlie Bergdall | Feldhausen | Thur, Dec 18 | 9:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Iron Rank]({{% ref "07-fall2025#e14" %}}) | Cayden Hoffman | Bean | Thur, Dec 18 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Title]({{% ref "07-fall2025#e15" %}}) | Student Name | Advisor | Thur, Dec 18 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Car Hide-And-Seek Tag]({{% ref "07-fall2025#e15" %}}) | Madeleine Smith-Chandler | Andresen | Thur, Dec 18 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Fragrance Alert Application]({{% ref "07-fall2025#e16" %}}) | Chipo Sekabanja | Shamir | Thur, Dec 18 | 12:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Title]({{% ref "07-fall2025#e17" %}}) | Student Name | Advisor | Thur, Dec 18 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [TA Monitoring & Management System]({{% ref "07-fall2025#e18" %}}) | Hiep Nguyen | Malallah | Thur, Dec 18 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -150,9 +150,9 @@ Cayden Hoffman
 
 Abstract
 
-## Project Name {#e15}
+## Car Hide-and-Seek Tag {#e15}
 
-Student Name
+Madeleine Smith-Chandler
 
 ![Image](images/placeholder.png)
 
