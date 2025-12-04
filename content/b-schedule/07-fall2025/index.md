@@ -29,6 +29,8 @@ weight: 60
 | [Title]({{% ref "07-fall2025#e21" %}}) | Student Name | Advisor | Thur, Dec 18 | 4:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [CIS 642 A]({{% ref "07-fall2025#e22" %}}) | Student Names | Bean | Fri, Dec 19 | 11:50 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [CIS 642 B]({{% ref "07-fall2025#e23" %}}) | Student Names | Bean | Fri, Dec 19 | 12:50 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Certification and Compliance Tracker]({{% ref "07-fall2025#e24" %}}) | Ella Carlson | Feldhausen | Fri, Dec 19 | 10:30 AM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
+| [Threadfolio]({{% ref "07-fall2025#e25" %}}) | Megchan Buchanan | Feldhausen | Fri, Dec 19 | 4:00 PM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
 
 ## ServiceSync {#e0}
 
@@ -222,3 +224,18 @@ Student Names
 
 Abstract
 
+## Certification and Compliance Tracker {#e24}
+
+Ella Carlson
+
+![Image](images/placeholder.png)
+
+Abstract
+
+## Threadfolio {#e25}
+
+Meghan Buchanan
+
+![Image](images/placeholder.png)
+
+Abstract
