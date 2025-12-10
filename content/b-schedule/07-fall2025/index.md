@@ -20,7 +20,7 @@ weight: 60
 | [Project Manager]({{% ref "07-fall2025#e13" %}}) | Charlie Bergdall | Feldhausen | Thur, Dec 18 | 9:15 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Iron Rank]({{% ref "07-fall2025#e14" %}}) | Cayden Hoffman | Bean | Thur, Dec 18 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Hide and Seek Cars]({{% ref "07-fall2025#e15" %}}) | Madeleine Smith | Andresen | Thur, Dec 18 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Fragrance Alert Application]({{% ref "07-fall2025#e16" %}}) | Chipo Sekabanja | Shamir | Thur, Dec 18 | 12:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Fragrance Genie]({{% ref "07-fall2025#e16" %}}) | Chipo Sekabanja | Shamir | Thur, Dec 18 | 12:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Kansas Population Trends Visualization]({{% ref "07-fall2025#e17" %}}) | Amala John, Evan Harris, & Josh Zubrek | Bean | Thur, Dec 18 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [DashTA]({{% ref "07-fall2025#e18" %}}) | Hiep Nguyen | Malallah | Thur, Dec 18 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Gig Manager]({{% ref "07-fall2025#e19" %}}) | Carson Bollinger | Thornton | Thur, Dec 18 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -153,9 +153,9 @@ Hide and seek cars is a scalable interactive demonstration for the computer scie
 
 Chipo Sekabanja
 
-![Image](images/placeholder.png)
+![Image](images/sekabanja.png)
 
-Abstract
+My project is called Fragrance Genie, and what it is a full-stack web application that enables users to track and manage and interact with the fragrance product data. . So oftentimes, retailers could have the lowest price for a particular fragrance in one scenario, but not in another. So one has to check out many options before finding the cheapest one. What this project does is it enables students to find the lowest across the board. In addition, because users are not always fully aware of what a product is like before buying it, the application incorporates sentiment analysis to give them a more comprehensive understanding of the fragrance they’re considering. We're using React front-end and Node.js/ Express back-end, MongoDB, sentiment analysis and website scraping.
 
 ## Kansas Population Trends Visualization {#e17}
 
