@@ -27,7 +27,7 @@ weight: 60
 | [How Random is Pseudorandom?]({{% ref "07-fall2025#e20" %}}) | Ryan Welch & Dillon McGinn | Amariucai | Thur, Dec 18 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Agricultural Microworld]({{% ref "07-fall2025#e22" %}}) | Max Casey, Daniel Cortez, Dakota Denton, & Jackson Saim | Bean | Fri, Dec 19 | 11:50 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Aerosuite]({{% ref "07-fall2025#e24" %}}) | Ella Carlson | Feldhausen | Fri, Dec 19 | 10:30 AM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
-| [Threadfolio]({{% ref "07-fall2025#e25" %}}) | Megchan Buchanan | Feldhausen | Fri, Dec 19 | 4:00 PM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
+| [Threadfolio]({{% ref "07-fall2025#e25" %}}) | Meghan Buchanan | Feldhausen | Fri, Dec 19 | 4:00 PM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
 
 ## ServiceSync {#e0}
 
