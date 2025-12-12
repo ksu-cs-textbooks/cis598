@@ -6,6 +6,7 @@ weight: 60
 | Project | Student | Advisor | Date | Time | Location | Zoom |
 |:-------:|:-------:|:-------:|:----:|:----:|:--------:|:----:|
 | [ServiceSync]({{% ref "07-fall2025#e0" %}}) | Nate Carter | Thornton | Fri, Dec 12 | 1:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [How Random is Pseudorandom?]({{% ref "07-fall2025#e20" %}}) | Ryan Welch & Dillon McGinn | Amariucai | Tue, Dec 16 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Verba]({{% ref "07-fall2025#e1" %}}) | Wyatt Morris | Weese | Wed, Dec 17 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [CourseLogiCS]({{% ref "07-fall2025#e2" %}}) | Jackson Cannell | Malallah | Wed, Dec 17 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [EduVista]({{% ref "07-fall2025#e3" %}}) | Taj Ikhlaas | Malallah | Wed, Dec 17 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
@@ -24,7 +25,6 @@ weight: 60
 | [Kansas Population Trends Visualization]({{% ref "07-fall2025#e17" %}}) | Amala John, Evan Harris, & Josh Zubrek | Bean | Thur, Dec 18 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [DashTA]({{% ref "07-fall2025#e18" %}}) | Hiep Nguyen | Malallah | Thur, Dec 18 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Gig Manager]({{% ref "07-fall2025#e19" %}}) | Carson Bollinger | Thornton | Thur, Dec 18 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [How Random is Pseudorandom?]({{% ref "07-fall2025#e20" %}}) | Ryan Welch & Dillon McGinn | Amariucai | Thur, Dec 18 | 3:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Agricultural Microworld]({{% ref "07-fall2025#e22" %}}) | Max Casey, Daniel Cortez, Dakota Denton, & Jackson Saim | Bean | Fri, Dec 19 | 11:50 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Aerosuite]({{% ref "07-fall2025#e24" %}}) | Ella Carlson | Feldhausen | Fri, Dec 19 | 10:30 AM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
 | [Threadfolio]({{% ref "07-fall2025#e25" %}}) | Meghan Buchanan | Feldhausen | Fri, Dec 19 | 4:00 PM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
@@ -36,6 +36,14 @@ Nate Carter
 ![Image](images/carter.png)
 
 ServiceSync is a web application designed to increase the workflow of how small maintenance companies manage their daily operations. Maintenance work often becomes scattered across paper notes, texts, and spreadsheets, making it difficult to track assignments, deadlines, and inventory. ServiceSync solves this by bringing work orders, technician scheduling, inventory tracking, invoice generation and preventive maintenance into one organized platform. With automated scheduling for preventive maintenance, real-time updates, and clear role-based access, the system helps companies stay efficient, reduce confusion, and keep their work running smoothly. 
+
+## How Random is Pseudorandom? {#e20}
+
+Ryan Welch & Dillon McGinn
+
+![Image](images/cis599.png)
+
+Computers are (by design) completely deterministic - this is great for many situations, but detrimental to one important situation: randomness. Randomness is inherently not deterministic, so computers must improvise in order to generate/collect this random entropy. Are these pseudorandom creation and collection methods employed by moderns OS's (and ChatGPT for a bonus) adequate for use in cryptographic security that we depend on every day?
 
 ## Verba {#e1}
 
@@ -180,14 +188,6 @@ Carson Bollinger
 ![Image](images/bollinger.png)
 
 Gig Manager is a musician-focused web application that helps users discover, schedule, and manage upcoming gigs. Built with Blazor, C#, SQLServer, and ASP.NET Core Identity, it lets users create accounts, book and manage upcoming gigs, and explore user profiles/upcoming gigs. Musicians can also define preferences and be recommended gigs to try to book. This will be presented by Carson Bollinger in DUE 2168 on December 18 at 2:45PM and can be viewed virtually via zoom here: https://bit.ly/cis598s24a
-
-## How Random is Pseudorandom? {#e20}
-
-Ryan Welch & Dillon McGinn
-
-![Image](images/cis599.png)
-
-Computers are (by design) completely deterministic - this is great for many situations, but detrimental to one important situation: randomness. Randomness is inherently not deterministic, so computers must improvise in order to generate/collect this random entropy. Are these pseudorandom creation and collection methods employed by moderns OS's (and ChatGPT for a bonus) adequate for use in cryptographic security that we depend on every day?
 
 ## Agricultural Microworld {#e22}
 
