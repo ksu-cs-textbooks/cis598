@@ -28,6 +28,8 @@ weight: 60
 | [Agricultural Microworld]({{% ref "07-fall2025#e22" %}}) | Max Casey, Daniel Cortez, Dakota Denton, & Jackson Saim | Bean | Fri, Dec 19 | 11:50 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Aerosuite]({{% ref "07-fall2025#e24" %}}) | Ella Carlson | Feldhausen | Fri, Dec 19 | 10:30 AM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
 | [Threadfolio]({{% ref "07-fall2025#e25" %}}) | Meghan Buchanan | Feldhausen | Fri, Dec 19 | 4:00 PM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
+| [BirthOrder]({{% ref "07-fall2025#e26" %}}) | Cole Hayden | Andresen | Tue, Dec 23 | 3:30 PM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
+| [3D Shop]({{% ref "07-fall2025#e27" %}}) | Josef Aranjo | Feldhausen | Mon, Jan 5 | 11:00 AM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
 
 ## ServiceSync {#e0}
 
@@ -213,3 +215,18 @@ Meghan Buchanan
 
 Attention cross-stitchers! Do you have all of your floss in a plastic bag like I do? Store your current projects in a grocery store bag? Then Threadfolio might be for you! Threadfolio is for the unorganized cross-stitchers, or the organized ones that want to go digital. In this app, you can keep track of your projects and materials. Starting a new project? Upload the pattern’s PDF and Threadfolio will tell you what you need to buy to do the project. Never again will you have to go to the craft store multiple times for a single project.
 
+## Birth Order {#e26}
+
+Cole Hayden
+
+![Image](images/hayden.png)
+
+BirthOrder is a native desktop application, with potential extension to mobile platforms, developed using .NET MAUI with C# and XAML to provide an interactive tool for couples and individuals exploring home birth as an alternative to traditional hospital labor. The application collects user-defined factors—such as maternal stress levels—and generates an estimated labor duration in hours. To enhance flexibility, BirthOrder supports customization through user-added factors and templates, enabling tailored simulations of the labor estimation process. Beyond prediction, the system delivers actionable recommendations to help optimize conditions for home birth, offering a sandbox-style environment where users can experiment with different scenarios and gain insights into how various choices may influence outcomes. BirthOrder aims to empower users with a dynamic, interactive, and customizable experience to aid in preparation for home birth.
+
+## 3D Shop {#e27}
+
+Josef Aranjo
+
+![Image](images/placeholder.png)
+
+Abstract
