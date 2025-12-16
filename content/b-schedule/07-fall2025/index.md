@@ -6,7 +6,7 @@ weight: 60
 | Project | Student | Advisor | Date | Time | Location | Zoom |
 |:-------:|:-------:|:-------:|:----:|:----:|:--------:|:----:|
 | [ServiceSync]({{% ref "07-fall2025#e0" %}}) | Nate Carter | Thornton | Fri, Dec 12 | 1:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [How Random is Pseudorandom?]({{% ref "07-fall2025#e20" %}}) | Ryan Welch & Dillon McGinn | Amariucai | Tue, Dec 16 | 4:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [How Random is Pseudorandom?]({{% ref "07-fall2025#e20" %}}) | Ryan Welch & Dillon McGinn | Amariucai | Tue, Dec 16 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Verba]({{% ref "07-fall2025#e1" %}}) | Wyatt Morris | Weese | Wed, Dec 17 | 8:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [CourseLogiCS]({{% ref "07-fall2025#e2" %}}) | Jackson Cannell | Malallah | Wed, Dec 17 | 8:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [EduVista]({{% ref "07-fall2025#e3" %}}) | Taj Ikhlaas | Malallah | Wed, Dec 17 | 9:30 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
