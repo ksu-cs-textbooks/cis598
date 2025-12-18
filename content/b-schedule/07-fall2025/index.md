@@ -25,8 +25,8 @@ weight: 60
 | [Kansas Population Trends Visualization]({{% ref "07-fall2025#e17" %}}) | Amala John, Evan Harris, & Josh Zubrek | Bean | Thur, Dec 18 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [DashTA]({{% ref "07-fall2025#e18" %}}) | Hiep Nguyen | Malallah | Thur, Dec 18 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Gig Manager]({{% ref "07-fall2025#e19" %}}) | Carson Bollinger | Thornton | Thur, Dec 18 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Agricultural Microworld]({{% ref "07-fall2025#e22" %}}) | Max Casey, Daniel Cortez, Dakota Denton, & Jackson Saim | Bean | Fri, Dec 19 | 11:50 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Aerosuite]({{% ref "07-fall2025#e24" %}}) | Ella Carlson | Feldhausen | Fri, Dec 19 | 10:30 AM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
+| [Agricultural Microworld]({{% ref "07-fall2025#e22" %}}) | Max Casey, Daniel Cortez, Dakota Denton, & Jackson Saim | Bean | Fri, Dec 19 | 11:50 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Threadfolio]({{% ref "07-fall2025#e25" %}}) | Meghan Buchanan | Feldhausen | Fri, Dec 19 | 4:00 PM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
 | [BirthOrder]({{% ref "07-fall2025#e26" %}}) | Cole Hayden | Andresen | Tue, Dec 23 | 3:30 PM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
 | [3D Shop]({{% ref "07-fall2025#e27" %}}) | Josef Aranjo | Feldhausen | Mon, Jan 5 | 11:00 AM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
@@ -191,14 +191,6 @@ Carson Bollinger
 
 Gig Manager is a musician-focused web application that helps users discover, schedule, and manage upcoming gigs. Built with Blazor, C#, SQLServer, and ASP.NET Core Identity, it lets users create accounts, book and manage upcoming gigs, and explore user profiles/upcoming gigs. Musicians can also define preferences and be recommended gigs to try to book. This will be presented by Carson Bollinger in DUE 2168 on December 18 at 2:45PM and can be viewed virtually via zoom here: https://bit.ly/cis598s24a
 
-## Agricultural Microworld {#e22}
-
-Max Casey, Daniel Cortez, Dakota Denton, & Jackson Saim
-
-![Image](images/cis642b.png)
-
-Agricultural Microworld is an application designed to teach both basic programming, and details of how modern agriculture works. Using Blockly to provide components for running a program, we will introduce concepts that can apply to a large range of students of all grades K-12. With our application, we hope to educate students on all the details of today’s agricultural systems, including autonomous driving, navigation pathing, factors affecting soil, and more. This presentation will focus on the structure we have created and fine-tuned, and how we plan to take it going forwards. You can join us at 11:50 AM on December 19th, in room DUE 2168, or via Zoom at the link: https://bit.ly/cis598s24a.
-
 ## Aerosuite {#e24}
 
 Ella Carlson
@@ -206,6 +198,14 @@ Ella Carlson
 ![Image](images/carlson.jpg)
 
 Aviation is renowned for being slow and tedious when developing new products for consumers. Due to Aviation certification is high stakes, long cycle, and documentation heavy. End to end traceability is often tracked across multiple platforms (email, one drive, spreadsheets, etc) which makes evidence towards progress difficult to quantify. Aerosuite is an aviation certification and compliance web application, centralizing certification evidence and simplifying progress tracking for aviation programs managing multiple OEM partners. This program takes verification artifacts (requirements, tests, reviews, OEM requests) and provides live dashboards of compliance status. In addition, assistance is provided through document auto tagging, gap flagging, and schedule risk prediction to shorten verification cycles and reduce audit findings.
+
+## Agricultural Microworld {#e22}
+
+Max Casey, Daniel Cortez, Dakota Denton, & Jackson Saim
+
+![Image](images/cis642b.png)
+
+Agricultural Microworld is an application designed to teach both basic programming, and details of how modern agriculture works. Using Blockly to provide components for running a program, we will introduce concepts that can apply to a large range of students of all grades K-12. With our application, we hope to educate students on all the details of today’s agricultural systems, including autonomous driving, navigation pathing, factors affecting soil, and more. This presentation will focus on the structure we have created and fine-tuned, and how we plan to take it going forwards. You can join us at 11:50 AM on December 19th, in room DUE 2168, or via Zoom at the link: https://bit.ly/cis598s24a.
 
 ## Threadfolio {#e25}
 
