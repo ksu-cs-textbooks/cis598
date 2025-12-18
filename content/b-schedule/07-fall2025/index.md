@@ -22,7 +22,7 @@ weight: 60
 | [Iron Rank]({{% ref "07-fall2025#e14" %}}) | Cayden Hoffman | Bean | Thur, Dec 18 | 11:00 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Hide and Seek Cars]({{% ref "07-fall2025#e15" %}}) | Madeleine Smith | Andresen | Thur, Dec 18 | 11:45 AM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Fragrance Genie]({{% ref "07-fall2025#e16" %}}) | Chipo Sekabanja | Shamir | Thur, Dec 18 | 12:30 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
-| [Kansas Population Trends Visualization]({{% ref "07-fall2025#e17" %}}) | Amala John, Evan Harris, & Josh Zubrek | Bean | Thur, Dec 18 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
+| [Kansas Population Trends Visualization]({{% ref "07-fall2025#e17" %}}) | Amala John, Evan Harris, & Josh Zrubek | Bean | Thur, Dec 18 | 1:15 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [DashTA]({{% ref "07-fall2025#e18" %}}) | Hiep Nguyen | Malallah | Thur, Dec 18 | 2:00 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Gig Manager]({{% ref "07-fall2025#e19" %}}) | Carson Bollinger | Thornton | Thur, Dec 18 | 2:45 PM | DUE 2168 | [Zoom](https://bit.ly/cis598s24a) |
 | [Aerosuite]({{% ref "07-fall2025#e24" %}}) | Ella Carlson | Feldhausen | Fri, Dec 19 | 10:30 AM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
@@ -169,7 +169,7 @@ My project is called Fragrance Genie, and what it is a full-stack web applicatio
 
 ## Kansas Population Trends Visualization {#e17}
 
-Amala John, Evan Harris, & Josh Zubrek
+Amala John, Evan Harris, & Josh Zrubek
 
 ![Image](images/cis642a.png)
 
