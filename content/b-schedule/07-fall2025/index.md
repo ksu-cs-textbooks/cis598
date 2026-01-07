@@ -29,7 +29,7 @@ weight: 60
 | [Aerosuite]({{% ref "07-fall2025#e24" %}}) | Ella Carlson | Feldhausen | Fri, Dec 19 | 10:30 AM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
 | [Threadfolio]({{% ref "07-fall2025#e25" %}}) | Meghan Buchanan | Feldhausen | Fri, Dec 19 | 4:00 PM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
 | [BirthOrder]({{% ref "07-fall2025#e26" %}}) | Cole Hayden | Andresen | Tue, Dec 23 | 3:30 PM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
-| [3D Shop]({{% ref "07-fall2025#e27" %}}) | Josef Aranjo | Feldhausen | Mon, Jan 5 | 11:00 AM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
+| [3D Shop]({{% ref "07-fall2025#e27" %}}) | Josef Aranjo | Feldhausen | Wed, Jan 7 | 10:00 AM | Virtual | [Zoom](https://bit.ly/cis598s24a) |
 
 ## ServiceSync {#e0}
 
@@ -227,6 +227,6 @@ BirthOrder is a native desktop application, with potential extension to mobile p
 
 Josef Aranjo
 
-![Image](images/placeholder.png)
+![Image](images/aranjo.png)
 
-Abstract
+3Dshop is a replacement for clunky and unclear shop manuals. Rather than trying to understand how the words in a shop manual translate to actual tasks, watch shop procedures being played back at your pace! Users can create their own procedures for existing engine models and record video annotations for procedures. You can also search for product recommendations based on active procedures. 3Dshop is built using C++ and Qt/Qt3D.
