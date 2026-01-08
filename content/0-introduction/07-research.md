@@ -20,6 +20,27 @@ To be truly considered research, your project generally must conform to these re
 
 If you feel that your project fits these requirements, you may choose to follow the project guideline adaptations listed below instead of the usual CIS 598 guidelines. Please clearly inform the instructors of the course that you are choosing this pathway early in the semester. 
 
+## Generative Artificial Intelligence Policy
+
+{{% notice color="orange" %}}
+
+<div style="display: block">
+<div style="float: left; padding-right: 10px">
+<img src="/cis598/images/0/stoplight_yellow.png" height="120px">
+</div>
+<div>
+{{% badge style="orange" %}}YELLOW: Limited GenAI Usage Allowed {{% /badge %}} For research projects, especially those that are in development for publication in professional research journals or conferences, the use of GenAI may or may not be allowed depending on the project and publication venue. Consult with your project advisor about allowable use of GenAI for these projects.
+</div>
+</div>
+<div style="clear: both"></div>
+
+* **Citations Required:** Any usage of GenAI must be noted and cited directly in the work. 
+* **No Direct AI Results:** For this assignment, you **may not** include the GenAI results directly in your submission, with the exception of slide design, graphics or layouts. 
+* **Understand Your Work:** You may be asked to explain your work in detail as part of this project. Failure to do so may be considered a violation of this policy.
+* **Policy Violations:** Violations may result in a grade of 0 for the assignment and other sanctions approved through the K-State Honor Council.
+
+{{% /notice %}}
+
 ## Initial Artifacts
 
 You are still required to submit the initial writeup and feature lists. However, your outline may be modified to the following:

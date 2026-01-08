@@ -82,6 +82,27 @@ Each advisor approaches senior projects differently, but in general your advisor
 
 {{% /notice %}}
 
+## Generative Artificial Intelligence Policy
+
+{{% notice color="green" %}}
+
+<div style="display: block">
+<div style="float: left; padding-right: 10px">
+<img src="/cis598/images/0/stoplight_green.png" height="120px">
+</div>
+<div>
+{{% badge style="green" %}}GREEN: GenAI Encouraged {{% /badge %}} You may make use of GenAI for this project. However, you are expected to produce a project that goes above and beyond what a GenAI agent can accomplish on its own. This project expects significant time and effort on your part to produce a quality project, and GenAI is just one tool you can use to make this possible. You are <b>solely</b> responsible for any artifacts produced for this project and are <b>expected</b> to review any GenAI results to ensure you understand them and that they are accurate. All GenAI usage must be disclosed and cited in your code and presentations.
+</div>
+</div>
+<div style="clear: both"></div>
+
+* **Citations Required:** Any usage of GenAI must be noted and cited directly in the work. 
+* **Direct AI Results Allowed:** For this assignment, you **may** include the GenAI results directly in your submission.
+* **Understand Your Work:** You may be asked to explain your code in detail as part of this project. Failure to do so may be considered a violation of this policy.
+* **Policy Violations:** Violations may result in a grade of 0 for the assignment and other sanctions approved through the K-State Honor Council.
+
+{{% /notice %}}
+
 ## Initial Artifacts
 
 At the very beginning of your project, you should create a few initial artifacts to start the development process:

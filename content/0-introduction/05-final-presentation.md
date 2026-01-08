@@ -42,6 +42,27 @@ Once you've scheduled a time and location for your presentation, you'll need to 
 
 Both artifacts should clearly include your name; the title of your project; and the date, time and location of your presentation. **These artifacts are due at least one week before your presentation, and no later than two weeks before the end of finals week.**
 
+## Generative Artificial Intelligence Policy
+
+{{% notice color="orange" %}}
+
+<div style="display: block">
+<div style="float: left; padding-right: 10px">
+<img src="/cis598/images/0/stoplight_yellow.png" height="120px">
+</div>
+<div>
+{{% badge style="orange" %}}YELLOW: Limited GenAI Usage Allowed {{% /badge %}} For your presentations, you may make limited use of GenAI tools to help with slide design and graphics. You <b>may not</b> use GenAI tools to produce your actual design diagrams - these should be your own work! Your in-class presentation must be your own work in your own words. You may use GenAI to create graphics used in your advertisement image.
+</div>
+</div>
+<div style="clear: both"></div>
+
+* **Citations Required:** Any usage of GenAI must be noted and cited directly in the work. 
+* **No Direct AI Results:** For this assignment, you **may not** include the GenAI results directly in your submission, with the exception of slide design, graphics or layouts. 
+* **Understand Your Work:** You may be asked to explain your work in detail as part of this project. Failure to do so may be considered a violation of this policy.
+* **Policy Violations:** Violations may result in a grade of 0 for the assignment and other sanctions approved through the K-State Honor Council.
+
+{{% /notice %}}
+
 ## Sample Presentations
 
 You can find several previous presentations and completed projects under the Files section on Canvas. Bear in mind that these may or may not be example of _good_ presentations, they are simply ones that have been collected for sharing.
