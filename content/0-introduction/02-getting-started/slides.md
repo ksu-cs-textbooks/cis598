@@ -89,11 +89,11 @@ hidden: true
 <section>
   <h3>Schedule</h3>
   <ul>
-    <li><b>Mon - 3:30 PM DUR 0093</b><ul>
-      <li><b>Exception: Fri Sept 5</b></li>
+    <li><b>Tue - 2:30 BURT 114</b><ul>
+      <li><b>Exceptions TBA</b></li>
       <li><b>Attendance Expected!</b></li>
     </ul></li>
-    <li>Wed & Fri - 3:30 PM via Zoom<ul>
+    <li>Thur - 2:30 PM via Zoom<ul>
       <li>Office Hours Q & A</li>
       <li>Work & Collab. Time</li>
       <li>Attendance Optional</li>
