@@ -14,4 +14,8 @@ This page is a collection of general links that may be useful. Email the instruc
 
 * [Foursquare Data](https://location.foursquare.com/resources/blog/products/foursquare-open-source-places-a-new-foundational-dataset-for-the-geospatial-community/) - An awesome dataset of locations and POIs from Foursquare.
 
-* [Node Vue Devcontainer](https://github.com/russfeld/node-vue-devcontainer) - A devcontainer I developed for writing web applications using Node and Vue. 
+* [Node Vue Devcontainer](https://github.com/russfeld/node-vue-devcontainer) - A devcontainer I developed for writing web applications using Node and Vue.
+
+* [Kaggle](https://www.kaggle.com/) - Another great source of datasets and information for data science projects or recommender systems
+
+* [Example Web Project](https://textbooks.cs.ksu.edu/cis526/x-examples/index.html) - A long form example project integrating Node/Express RESTful backend API with a Vue/PrimeVue frontend and a SQLite database. This makes a great shell for building web applications and is a more modern version of the Node Vue Devcontainer project linked above. 
