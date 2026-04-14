@@ -28,11 +28,11 @@ weight: 65
 | [Title]({{% ref "08-spring2026#e21" %}}) | Mark Preston | Valenzuela | Wed, May 13 | 11:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% ref "08-spring2026#e22" %}}) | Max Casey, Daniel Cortez, Dakota Denton, Jackson Seim | Bean | Wed, May 13 | 1:00 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% ref "08-spring2026#e23" %}}) | Cooper Tammen | Thornton | Wed, May 13 | 1:45 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
-| [Title]({{% ref "08-spring2026#e24" %}}) | Student Name | Advisor | Wed, May 13 | 2:00 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
+| [Title]({{% ref "08-spring2026#e24" %}}) | Julie Dinhphan | Neilsen | Wed, May 13 | 2:00 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% ref "08-spring2026#e25" %}}) | Student Name | Advisor | Wed, May 13 | 2:30 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% ref "08-spring2026#e26" %}}) | John Spexarth | Thornton | Wed, May 13 | 2:45 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% ref "08-spring2026#e27" %}}) | Student Name | Advisor | Wed, May 13 | 3:15 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
-| [Title]({{% ref "08-spring2026#e28" %}}) | Student Name | Advisor | Wed, May 13 | 3:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
+| [Title]({{% ref "08-spring2026#e28" %}}) | Owen Pearsall | Amtoft | Wed, May 13 | 3:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% ref "08-spring2026#e29" %}}) | Student Name | Advisor | Wed, May 13 | 4:00 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% ref "08-spring2026#e30" %}}) | Student Name | Advisor | Wed, May 13 | 4:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% ref "08-spring2026#e31" %}}) | Takumi Hendricks | Keller | Thur, May 14 | 8:15 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
@@ -235,7 +235,7 @@ Abstract
 
 ## Project Name {#e24}
 
-Student Name
+Julie Dinhphan
 
 ![Image](images/placeholder.png)
 
@@ -267,7 +267,7 @@ Abstract
 
 ## Project Name {#e28}
 
-Student Name
+Owen Pearsall
 
 ![Image](images/placeholder.png)
 
