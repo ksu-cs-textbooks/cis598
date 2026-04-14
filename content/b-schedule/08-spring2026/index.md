@@ -31,12 +31,12 @@ weight: 65
 | [Title]({{% relref "08-spring2026#e24" %}}) | Julie Dinhphan | Neilsen | Wed, May 13 | 2:00 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e25" %}}) | Student Name | Advisor | Wed, May 13 | 2:30 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e26" %}}) | John Spexarth | Thornton | Wed, May 13 | 2:45 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e27" %}}) | Student Name | Advisor | Wed, May 13 | 3:15 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e27" %}}) | Trenton Chrisco<br>Beny Christian<br>Garrett Greathouse<br>Easton Hain<br>Gavin Kellam | Vasserman | Wed, May 13 | 3:15 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e28" %}}) | Owen Pearsall | Amtoft | Wed, May 13 | 3:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e29" %}}) | Student Name | Advisor | Wed, May 13 | 4:00 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e30" %}}) | Student Name | Advisor | Wed, May 13 | 4:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e29" %}}) | Robby Clausel | Andresen | Wed, May 13 | 4:00 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e30" %}}) | Dean Blinkenstaff | Feldhausen | Wed, May 13 | 4:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e31" %}}) | Takumi Hendricks | Keller | Thur, May 14 | 8:15 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e32" %}}) | Student Name | Advisor | Thur, May 14 | 8:30 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e32" %}}) | Patrick Kehoe<br>Timothy Larson<br>Creighton Moes<br>Nicholas Slinker<br>Connor Wiedenmann | Amariucai | Thur, May 14 | 8:30 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e33" %}}) | Student Name | Advisor | Thur, May 14 | 9:00 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e34" %}}) | Braden Adams | Feldhausen | Thur, May 14 | 9:15 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e35" %}}) | Student Name | Advisor | Thur, May 14 | 9:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
@@ -44,7 +44,7 @@ weight: 65
 | [Title]({{% relref "08-spring2026#e37" %}}) | Griffin Miller | Shamir | Thur, May 14 | 10:30 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e38" %}}) | Riley Reynolds | Lang | Thur, May 14 | 10:45 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e39" %}}) | Tate Alfred | Bean | Thur, May 14 | 11:30 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e40" %}}) | Student Name | Advisor | Thur, May 14 | 12:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e40" %}}) | Kasen Fudge | Feldhausen | Thur, May 14 | 12:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e41" %}}) | Nalen Rangarajan | Malallah | Thur, May 14 | 2:00 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e42" %}}) | Hasan Hanafieh | Weese | Thur, May 14 | 2:45 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e43" %}}) | Sebastian Alturck-Carlos<br>Calvin Beechner<br>Jesus Castro-Garcia<br>Noe Rosales<br>Jose Varela | Chen | Thur, May 14 | 3:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
@@ -259,7 +259,7 @@ Abstract
 
 ## Project Name {#e27}
 
-Student Name
+Trenton Chrisco, Beny Christian, >Garrett Greathouse, Easton Hain, Gavin Kellam
 
 ![Image](images/placeholder.png)
 
@@ -275,7 +275,7 @@ Abstract
 
 ## Project Name {#e29}
 
-Student Name
+Robby Clausel
 
 ![Image](images/placeholder.png)
 
@@ -283,7 +283,7 @@ Abstract
 
 ## Project Name {#e30}
 
-Student Name
+Dean Blinkenstaff
 
 ![Image](images/placeholder.png)
 
@@ -299,7 +299,7 @@ Abstract
 
 ## Project Name {#e32}
 
-Student Name
+Patrick Kehoe, Timothy Larson, Creighton Moes, Nicholas Slinker, Connor Wiedenmann
 
 ![Image](images/placeholder.png)
 
@@ -363,7 +363,7 @@ Abstract
 
 ## Project Name {#e40}
 
-Student Name
+Kasen Fudge
 
 ![Image](images/placeholder.png)
 
