@@ -29,7 +29,7 @@ weight: 65
 | [Title]({{% relref "08-spring2026#e22" %}}) | Max Casey<br>Daniel Cortez<br>Dakota Denton<br>Jackson Seim | Bean | Wed, May 13 | 1:00 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e23" %}}) | Cooper Tammen | Thornton | Wed, May 13 | 1:45 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e24" %}}) | Julie Dinhphan | Neilsen | Wed, May 13 | 2:00 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e25" %}}) | Student Name | Advisor | Wed, May 13 | 2:30 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e25" %}}) | Jack Jara | Feldhausen | Wed, May 13 | 2:30 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e26" %}}) | John Spexarth | Thornton | Wed, May 13 | 2:45 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e27" %}}) | Trenton Chrisco<br>Beny Christian<br>Garrett Greathouse<br>Easton Hain<br>Gavin Kellam | Vasserman | Wed, May 13 | 3:15 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e28" %}}) | Owen Pearsall | Amtoft | Wed, May 13 | 3:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
@@ -48,7 +48,7 @@ weight: 65
 | [Title]({{% relref "08-spring2026#e41" %}}) | Nalen Rangarajan | Malallah | Thur, May 14 | 2:00 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e42" %}}) | Hasan Hanafieh | Weese | Thur, May 14 | 2:45 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e43" %}}) | Sebastian Alturck-Carlos<br>Calvin Beechner<br>Jesus Castro-Garcia<br>Noe Rosales<br>Jose Varela | Chen | Thur, May 14 | 3:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e44" %}}) | Student Name | Advisor | Thur, May 14 | 4:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e44" %}}) | Logan Hayward | Neilsen | Thur, May 14 | 4:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 ## Project Name {#e1}
 
 Student Name
@@ -243,7 +243,7 @@ Abstract
 
 ## Project Name {#e25}
 
-Student Name
+Jack Jara
 
 ![Image](images/placeholder.png)
 
@@ -395,7 +395,7 @@ Abstract
 
 ## Project Name {#e44}
 
-Student Name
+Logan Hayward
 
 ![Image](images/placeholder.png)
 
