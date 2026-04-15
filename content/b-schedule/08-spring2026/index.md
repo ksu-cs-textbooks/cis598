@@ -22,8 +22,8 @@ weight: 65
 | [Title]({{% relref "08-spring2026#e15" %}}) | Zac Atchison | Thornton | Tue, May 12 | 4:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e16" %}}) | Student Name | Advisor | Wed, May 13 | 8:00 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e17" %}}) | Student Name | Advisor | Wed, May 13 | 8:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e18" %}}) | Student Name | Advisor | Wed, May 13 | 9:30 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e19" %}}) | Student Name | Advisor | Wed, May 13 | 10:15 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e18" %}}) | Jake May | Weese | Wed, May 13 | 9:30 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e19" %}}) | Caden Swanson | Weese | Wed, May 13 | 10:15 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e20" %}}) | Evan Harris<br>Amala John<br>Joshua Zrubek | Bean | Wed, May 13 | 11:00 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e21" %}}) | Mark Preston | Valenzuela | Wed, May 13 | 11:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e22" %}}) | Max Casey<br>Daniel Cortez<br>Dakota Denton<br>Jackson Seim | Bean | Wed, May 13 | 1:00 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
@@ -187,7 +187,7 @@ Abstract
 
 ## Project Name {#e18}
 
-Student Name
+Jake May
 
 ![Image](images/placeholder.png)
 
@@ -195,7 +195,7 @@ Abstract
 
 ## Project Name {#e19}
 
-Student Name
+Caden Swanson
 
 ![Image](images/placeholder.png)
 
