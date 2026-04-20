@@ -66,6 +66,7 @@ i = 1
 
 first = []
 second = []
+third = []
 
 for adate in dates:
   date = adate['title']
@@ -80,5 +81,9 @@ for adate in dates:
     second.append(f'## Project Name {{#e{ i }}}\n\nStudent Name\n\n![Image](images/placeholder.png)\n\nAbstract')
     i += 1
 
+print("# Daily Schedule\n")
+print('\n'.join(third))
+print("# Full Schedule\n")
 print('\n'.join(first))
+print("# Project Details\n")
 print('\n\n'.join(second))
