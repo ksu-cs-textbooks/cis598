@@ -39,7 +39,7 @@ weight: 65
 | [Title]({{% relref "08-spring2026#e32" %}}) | Patrick Kehoe<br>Timothy Larson<br>Creighton Moes<br>Nicholas Slinker<br>Connor Wiedenmann | Amariucai | Thur, May 14 | 8:30 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e33" %}}) | Kylie Phommasack | Malallah | Thur, May 14 | 9:00 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e34" %}}) | Braden Adams | Feldhausen | Thur, May 14 | 9:15 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e35" %}}) | - | - | Thur, May 14 | 9:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e35" %}}) | Corbin Hoppas | Weese | Thur, May 14 | 9:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e36" %}}) | Cole James | Feldhausen | Thur, May 14 | 10:00 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e37" %}}) | Griffin Miller | Shamir | Thur, May 14 | 10:30 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e38" %}}) | Riley Reynolds | Lang | Thur, May 14 | 10:45 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
@@ -324,7 +324,7 @@ Abstract
 
 ## Project Name {#e35}
 
-Student Name
+Corbin Hoppas
 
 ![Image](images/placeholder.png)
 
