@@ -21,7 +21,7 @@ weight: 65
 | [Title]({{% relref "08-spring2026#e14" %}}) | Josh Caldwell | Keller | Tue, May 12 | 3:45 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e15" %}}) | Zac Atchison | Thornton | Tue, May 12 | 4:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e16" %}}) | - | - | Wed, May 13 | 8:00 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e17" %}}) | - | - | Wed, May 13 | 8:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e17" %}}) | Colin Harrison | Andresen | Wed, May 13 | 8:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e18" %}}) | Jake May | Weese | Wed, May 13 | 9:30 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e19" %}}) | Caden Swanson | Weese | Wed, May 13 | 10:15 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e20" %}}) | Evan Harris<br>Amala John<br>Joshua Zrubek | Bean | Wed, May 13 | 11:00 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
@@ -180,7 +180,7 @@ Abstract
 
 ## Project Name {#e17}
 
-Student Name
+Colin Harrison
 
 ![Image](images/placeholder.png)
 
