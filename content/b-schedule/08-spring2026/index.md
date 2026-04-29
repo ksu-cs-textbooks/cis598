@@ -5,6 +5,7 @@ weight: 65
 
 | Project | Student | Advisor | Date | Time | Location | Zoom |
 |:-------:|:-------:|:-------:|:----:|:----:|:--------:|:----:|
+| [Title]({{% relref "08-spring2026#e0" %}}) | Aayush Rai | Vasserman | Wed, May 6 | 11:30 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e1" %}}) | - | - | Tue, May 12 | 8:00 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e2" %}}) | - | - | Tue, May 12 | 8:15 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e3" %}}) | - | - | Tue, May 12 | 8:45 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
@@ -49,6 +50,14 @@ weight: 65
 | [Title]({{% relref "08-spring2026#e42" %}}) | Hasan Hanafieh | Weese | Thur, May 14 | 2:45 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e43" %}}) | Sebastian Alturck-Carlos<br>Calvin Beechner<br>Jesus Castro-Garcia<br>Noe Rosales<br>Jose Varela | Chen | Thur, May 14 | 3:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e44" %}}) | Logan Hayward | Neilsen | Thur, May 14 | 4:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
+
+## Project Name {#e0}
+
+Aayush Rai
+
+![Image](images/placeholder.png)
+
+Abstract
 
 ## Project Name {#e1}
 
