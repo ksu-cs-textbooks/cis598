@@ -8,7 +8,7 @@ weight: 65
 | [Title]({{% relref "08-spring2026#e0" %}}) | Aayush Rai | Vasserman | Wed, May 6 | 11:30 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e1" %}}) | - | - | Tue, May 12 | 8:00 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e2" %}}) | - | - | Tue, May 12 | 8:15 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e3" %}}) | - | - | Tue, May 12 | 8:45 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
+| [Title]({{% relref "08-spring2026#e3" %}}) | Johnny Hug | Weese | Tue, May 12 | 8:45 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e4" %}}) | Kevin Roy | Shamir | Tue, May 12 | 9:00 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e5" %}}) | Andrew Osterhaus | Feldhausen | Tue, May 12 | 9:30 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% relref "08-spring2026#e6" %}}) | Henry Hornung | Shamir | Tue, May 12 | 9:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
@@ -77,7 +77,7 @@ Abstract
 
 ## Project Name {#e3}
 
-Student Name
+Johnny Hug
 
 ![Image](images/placeholder.png)
 
