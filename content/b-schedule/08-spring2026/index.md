@@ -36,7 +36,7 @@ weight: 65
 | [Interdisciplinary Techniques<br>for Entropy Evaluation]({{% relref "08-spring2026#e32" %}}) | Patrick Kehoe<br>Timothy Larson<br>Creighton Moes<br>Nicholas Slinker<br>Connor Wiedenmann | Amariucai | Thur, May 14 | 8:30 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [When Water Isn't Safe]({{% relref "08-spring2026#e33" %}}) | Kylie Phommasack | Malallah | Thur, May 14 | 9:00 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [PathFlow]({{% relref "08-spring2026#e34" %}}) | Braden Adams | Feldhausen | Thur, May 14 | 9:15 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e35" %}}) | Corbin Hoppas | Weese | Thur, May 14 | 9:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
+| [WeedNav]({{% relref "08-spring2026#e35" %}}) | Corbin Hoppas | Weese | Thur, May 14 | 9:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Type Learner]({{% relref "08-spring2026#e36" %}}) | Cole James | Feldhausen | Thur, May 14 | 10:00 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [SecureDial]({{% relref "08-spring2026#e37" %}}) | Griffin Miller | Shamir | Thur, May 14 | 10:30 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Simulating Ethics]({{% relref "08-spring2026#e38" %}}) | Riley Reynolds | Lang | Thur, May 14 | 10:45 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
@@ -310,13 +310,13 @@ Braden Adams
 
 PathFlow is an iOS application consisting of a suite of features for fast-paced, backpack traveling like an itinerary builder, a stop recommendation engine, and a service allowing users to forward their booking confirmation emails to be automatically added to their itinerary. Countries travelling to, stops in each country, as well as transportation and accommodation can all be tracked with ease. Additionally, users can keep up with their travel spending in one spot and view their trip on a map. It is developed using SwiftUI framework, and utilizes both the Firestore and Functions features of Firebase for database storage and hosted services.
 
-## Project Name {#e35}
+## WeedNav {#e35}
 
 Corbin Hoppas
 
-![Image](images/placeholder.png)
+![Image](images/hoppas.png)
 
-Abstract
+Adapted from a Mechanical Engineering Senior Design project, WeedNav is an autonomous robot built to protect your yard from weeds. This project integrates software and hardware into a functional system that uses path planning to map out the best plan of attack, then travels around your yard, targeting and spraying weedkiller.
 
 ## Type Learner {#e36}
 
