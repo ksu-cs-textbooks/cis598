@@ -257,7 +257,7 @@ Signal is a messaging application that uses complex cryptographic protocols to p
 
 Owen Pearsall
 
-![Image](images/placeholder.png)
+![Image](images/pearsall.png)
 
 Verbum is an EBNF-to-C parser generator. The goal of Verbum is to generate fast, simple, and readable code that can be easily integrated within the user's own projects (i.e. interpreter, compiler, etc.). The generated code will allow the user to bypass writing code for lexical analysis and abstract syntax tree construction. Verbum is written entirely in C and utilizes various open-source libraries and programs.
 
