@@ -43,7 +43,7 @@ weight: 65
 | [Shooting Guys TD]({{% relref "08-spring2026#e39" %}}) | Tate Alfred | Bean | Thur, May 14 | 11:30 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [CIS 598 Dashboard]({{% relref "08-spring2026#e40" %}}) | Kasen Fudge | Feldhausen | Thur, May 14 | 12:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Dataying Block Programming]({{% relref "08-spring2026#e41" %}}) | Nalen Rangarajan | Malallah | Thur, May 14 | 2:00 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e42" %}}) | Hasan Hanafieh | Weese | Thur, May 14 | 2:45 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
+| [AiFitnessTracker]({{% relref "08-spring2026#e42" %}}) | Hasan Hanafieh | Weese | Thur, May 14 | 2:45 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Analyzing the Security Model<br>of MCP for<br>Satellite Communications]({{% relref "08-spring2026#e43" %}}) | Sebastian Alturck-Carlos<br>Calvin Beechner<br>Jesus Castro-Garcia<br>Noe Rosales<br>Jose Varela | Chen | Thur, May 14 | 3:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [H.O.U.S.E.K.E.E.P.E.R]({{% relref "08-spring2026#e44" %}}) | Logan Hayward | Neilsen | Thur, May 14 | 4:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 
@@ -366,13 +366,13 @@ Nalen Rangarajan
 
 Dataying Block Programming is a web application designed to help introduce young students (ages 4-6) to data science concepts. Students interact with teacher created lessons using drag-and-drop programming styles and teachers can develop in-depth lessons for their students. The platform supports a dynamic lesson creation and interaction system for a variety of lesson possibilities. The web application was developed using Vue, C#, and SQL Server. Dataying Block Programming will be presented by Nalen Rangarajan on Thursday, May 14th at 2:00 PM in DUE 2168, or online at https://bit.ly/cis598s26a.
 
-## Project Name {#e42}
+## AiFitnessTracker {#e42}
 
 Hasan Hanafieh
 
-![Image](images/placeholder.png)
+![Image](images/hanafieh.png)
 
-Abstract
+AiFitnessTracker is a web-based fitness tracking system that allows users to create profiles and manually log meals, workouts, and fitness goals. The system organizes this data into a dashboard, tracks exercise volume and nutrition, and generates a weekly fitness score to help users evaluate their progress. Users can also interact with an AI Personal Trainer to ask questions and receive feedback based on their logged data. The platform includes social features that allow users to share selected workouts and view activity from others. The project is built using Python with Django for the backend, SQLite for data storage, and HTML, CSS, and JavaScript for the frontend. It also integrates OpenAI tools for AI generated fitness guidance and the USDA FoodData API for nutrition search and food information.
 
 ## Analyzing the Security of the Model Context Protocol for Satellite Communications {#e43}
 
