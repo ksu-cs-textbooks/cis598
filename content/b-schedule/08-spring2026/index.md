@@ -22,9 +22,9 @@ weight: 65
 | [Jetski Maintenance Tracker]({{% relref "08-spring2026#e17" %}}) | Colin Harrison | Andresen | Wed, May 13 | 8:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [RideCircle]({{% relref "08-spring2026#e18" %}}) | Jake May | Weese | Wed, May 13 | 9:30 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [Recip-EZ]({{% relref "08-spring2026#e19" %}}) | Caden Swanson | Weese | Wed, May 13 | 10:15 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e20" %}}) | Evan Harris<br>Amala John<br>Joshua Zrubek | Bean | Wed, May 13 | 11:00 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
+| [Where Did They Go?]({{% relref "08-spring2026#e20" %}}) | Evan Harris<br>Amala John<br>Joshua Zrubek | Bean | Wed, May 13 | 11:00 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [LibraryLive]({{% relref "08-spring2026#e21" %}}) | Mark Preston | Valenzuela | Wed, May 13 | 11:45 AM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
-| [Title]({{% relref "08-spring2026#e22" %}}) | Max Casey<br>Daniel Cortez<br>Dakota Denton<br>Jackson Seim | Bean | Wed, May 13 | 1:00 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
+| [Agricultural Microworlds]({{% relref "08-spring2026#e22" %}}) | Max Casey<br>Daniel Cortez<br>Dakota Denton<br>Jackson Seim | Bean | Wed, May 13 | 1:00 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [LiftLog]({{% relref "08-spring2026#e23" %}}) | Cooper Tammen | Thornton | Wed, May 13 | 1:45 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
 | [VimDoc]({{% relref "08-spring2026#e24" %}}) | Julie Dinhphan | Neilsen | Wed, May 13 | 2:00 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Cats N Dogs]({{% relref "08-spring2026#e25" %}}) | Jack Jara | Feldhausen | Wed, May 13 | 2:30 PM | {{% badge style="grey" title="DUE" %}}2183{{% /badge %}} | {{% button href="https://bit.ly/cis598s26b" style="grey" %}}Zoom B{{% /button %}} |
@@ -197,13 +197,13 @@ Caden Swanson
 
 It’s difficult to keep track of your kitchen’s inventory when dealing with the hustle and bustle of adult life. What’s even harder is figuring out what to do with leftover ingredients taking up space in your kitchen. On Wednesday, May 13th, at 10:15 AM at DUE 2183, Caden Swanson will talk about what he created to help quell this chaos. Recip-EZ is the one-stop web application that gives you the tools to keep track of your kitchen’s inventory in one place. Using a React front-end, C# DOTNET back-end, and SQL database, this application tracks user inventory items and curates potential recipes based on those tracked ingredients. From these inventory items, Recip-EZ will be able to determine whether a recipe is “ready to cook”, “almost ready”, or “not really possible” with your current items 
 
-## Project Name {#e20}
+## Where Did They Go? {#e20}
 
 Evan Harris, Amala John, Joshua Zrubek
 
-![Image](images/placeholder.png)
+![Image](images/cis643a.png)
 
-Abstract
+The purpose of our project, Where Did They Go?, is to demonstrate population trends in Kansas communities over time through data visualization. Our program allows the user to select which data sets the map will display, the decade the map will display (with data relative to that decade), and to zoom in and out of a specific county to see more data context. The data that our project uses ranges from Census data to data that we obtained manually through our own research. Our program can be used in schools across Kansas to help students understand population changes over time in different communities.
 
 ## LibraryLive {#e21}
 
@@ -213,7 +213,7 @@ Mark Preston
 
 One of the most common problems faced by avid readers is finding what to read next. LibraryLive is a Java-powered web app designed to connect you with books you will actually love. With an expansive database powered by MySQL you are almost guaranteed to find something to read. Write reviews for the books you love and rate the books you have read to develop a taste profile that will inform future recommendations. LibraryLive learns your preferences through your previously read books, ratings, and reviews to tailor its recommendations to suit your taste, as well as recommending books from other users with similar tastes to help you discover those hidden gems you might otherwise miss. LibraryLive also affords users the flexibility to change parameters for recommending books allowing users to find results that align more closely with favorite books or authors. With LibraryLive you’ll spend less time searching for books and more time reading. Presentation and demonstration of the project will be by Mark Preston on Wednesday May 13th at 11:45am in DUE 2183 come in person or via zoom (bit.ly/cis598s26b). 
 
-## Project Name {#e22}
+## Agricultural Microworlds {#e22}
 
 Max Casey, Daniel Cortez, Dakota Denton, Jackson Seim
 
