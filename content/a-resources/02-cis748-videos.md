@@ -2,9 +2,16 @@
 title: "CIS 748 Videos"
 weight: 20
 pre: "2. "
+hidden: true
 ---
 
-This page contains links to videos and some comments from the **CIS 748: Advanced Software Management** course taught by Dr. DeLoach. 
+This page contains links to videos and some comments from the **CIS 748: Advanced Software Management** course taught by Dr. DeLoach.
+
+{{% notice note %}}
+
+These videos may no longer be available on YouTube.
+
+{{% /notice %}}
 
 [YouTube Channel](https://www.youtube.com/channel/UCqFJo8AdUa5oMZ4bjjHaSdw) - contains all videos.
 
