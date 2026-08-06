@@ -47,7 +47,7 @@ In addition to the basic outline listed above, here is a list of some other topi
 <img src="/cis598/images/0/stoplight_yellow.png" height="120px">
 </div>
 <div>
-{{% badge style="orange" %}}YELLOW: Limited GenAI Usage Allowed {{% /badge %}} For your presentations, you may make limited use of GenAI tools to help with slide design and graphics. You <b>may not</b> use GenAI tools to produce your actual design diagrams - these should be your own work! Your in-class presentation must be your own work in your own words.
+{{% badge style="orange" %}}YELLOW: Limited GenAI Usage Allowed {{% /badge %}} For your presentations, you may make limited use of GenAI tools to help with slide design and graphics. You <b>may</b> use GenAI tools to produce your design diagrams, but you are responsible for reviewing them for accuracy (they may be separately reviewed by your advisor or instructors for accuracy)! Your in-class presentation must be your own work in your own words.
 </div>
 </div>
 <div style="clear: both"></div>

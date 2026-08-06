@@ -1,8 +1,16 @@
 ---
 title: "Projects & Time Tracking"
 weight: 40
-pre: "4. "
+pre: "3. "
 ---
+
+{{% notice warning %}}
+
+GitHub Classroom and Clockify are both no longer used in this class as of Fall 2026. This video will be updated to use our new Capstone platform as soon as it is available for use.
+
+Stay tuned!
+
+{{% /notice %}}
 
 This is a video exploring GitHub Projects & Clockify Time Tracking for Spring 2023
 

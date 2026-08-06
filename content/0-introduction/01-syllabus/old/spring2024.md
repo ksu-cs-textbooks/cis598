@@ -1,6 +1,6 @@
 ---
 title: "Spring 2024 Syllabus"
-weight: 13
+weight: 4
 pre: "S24. "
 ---
 

@@ -1,13 +1,21 @@
 ---
-title: "Spring 2026 Syllabus"
+title: "Fall 2026 Syllabus"
 weight: 10
 pre: "1. "
 ---
 
-## CIS 596 - Entrepreneurial Computer Science Project - Spring 2026
-## CIS 598 - Computer Science Project - Spring 2026
+## CIS 596 - Entrepreneurial Computer Science Project - Fall 2026
+## CIS 598 - Computer Science Project - Fall 2026
 
 [Previous Versions]({{% relref "old" %}})
+
+{{% notice warning "Unofficial Syllabus" %}}
+
+Starting with the Fall 2026 semester, official K-State syllabi can be found in [Coursedog](https://www.k-state.edu/curriculum/). 
+
+_This syllabus is no longer the official version, but it may still contain useful information for students._
+
+{{% /notice %}}
 
 ### Instructor Contact Information
 
@@ -63,11 +71,11 @@ After completing this course, a successful student will be able to:
 
 ###  Course Structure
 
-The course meets in person **Tuesdays from 2:30 - 3:45 PM in BT 114**. Students should attend all in-person course sessions to which they are assigned. In-person sessions will primarily be used for student presentations throughout the semester. There may also be one or two **Thursday** in-person class periods for presentations. These dates will be clearly announced in advance. 
+The course meets in person **Mondays from 3:30 - 4:20 PM in DUR 1066**. Students should attend all in-person course sessions to which they are assigned. In-person sessions will primarily be used for student presentations throughout the semester. There may also be one or two **Wednesday** in-person class periods for presentations if needed. These dates will be clearly announced in advance. 
 
-On weeks where **Tuesday** falls on a university holiday, the course will instead meet in person on **Thursday** of the same week. 
+On weeks where **Monday** falls on a university holiday, the course will instead meet in person on **Wednesday** of the same week unless otherwise announced.
 
-Course work hours will be **Thursdays from 2:30 - 3:45 PM online via Zoom**. Attendance at these work hours is optional, but highly recommended. It is a good time to work on your project, ask questions, and get advice. The instructors will be available during these times to answer questions about the class or provide project assistance.
+Course work hours will be **Wednesdays and Fridays from 3:30 - 4:20 PM online via Zoom**. Attendance at these work hours is optional, but highly recommended. It is a good time to work on your project, ask questions, and get advice. The instructors will be available during these times to answer questions about the class or provide project assistance.
 
 ### The Work
 
@@ -190,9 +198,10 @@ Please contact the instructor if you have any questions about this GenAI policy.
 
 In keeping with the expectation for transparency and citation regarding the use of generative artificial intelligence (GenAI), the instructors of this course will clearly denote any usage of GenAI tools in the process of teaching this class. Specific policies for the usage of GenAI by the instructors and TAs of this course are given below:
 
-* {{% badge style="red" %}}RED: GenAI Prohibited {{% /badge %}} **Grading and Feedback** - GenAI will **never** be used to review student submissions or produce grading feedback. All grades and feedback will be provided by the instructors and TAs without any GenAI assistance.
-* {{% badge style="red" %}}RED: GenAI Prohibited {{% /badge %}} **Student Communication** - GenAI will **never** be used to when communicating with students. We believe it is important for students to receive real, authentic communication from instructors and TAs
-* {{% badge style="orange" %}}YELLOW: Limited GenAI Usage Allowed {{% /badge %}} **Lesson & Learning Content** - GenAI may be used in a limited way to construct lessons and learning content, such as homework scenarios or simple graphics. All usage of GenAI will be clearly marked and cited. (As of January 2026, no GenAI content exists in the course).
+* {{% badge style="red" %}}RED: GenAI Prohibited {{% /badge %}} **Student Communication** - GenAI will **never** be used to when communicating with students. We believe it is important for students to receive real, authentic communication from instructors and TAs.
+* {{% badge style="red" %}}RED: GenAI Prohibited {{% /badge %}} **Grading** - GenAI will **never** be used to suggest or assign grades for any student-submitted work. All grading decisions will be done soley by instructors and TAs.
+* {{% badge style="orange" %}}YELLOW: Limited GenAI Usage Allowed {{% /badge %}} **Code Review & Feedback** - Instructors may use GenAI tools to assist with code reviews due to the scope and scale of these projects. However, all feedback given will be "human in the loop" with the final feedback coming directly from the instructors and TAs (see the first point above). 
+* {{% badge style="orange" %}}YELLOW: Limited GenAI Usage Allowed {{% /badge %}} **Lesson & Learning Content** - GenAI may be used in a limited way to construct lessons and learning content, such as homework scenarios or simple graphics. All usage of GenAI will be clearly marked and cited. (As of August 2026, no GenAI content exists in the course).
 
 ### Late Work
 
@@ -214,7 +223,7 @@ Unless otherwise noted in writing on a signed [Incomplete Agreement Form](https:
 
 ### Recommended Texts & Supplies
 
-Students will make use of [GitHub](https://github.com/) or [GitLab](https://about.gitlab.com/) for source code management.
+Students will make use of [GitHub](https://github.com/) for source code management.
 
 Students may use their choice of IDEs and software development platforms. Many of them are available in the Computer Science Department's labs. If a particular software or framework is needed but cannot be acquired, consult with the instructors.
 
@@ -222,4 +231,4 @@ Students may use their choice of IDEs and software development platforms. Many o
 
 The details in this syllabus are not set in stone. Due to the flexible nature of this class, adjustments may need to be made as the semester progresses, though they will be kept to a minimum. If any changes occur, the changes will be posted on the Canvas page for this course and emailed to all students.
 
-{{< syllabus include="honesty disabilities conduct respect netiquette safezone discrimination freedom safety weapons resources creations mentalhealth absences copyright" >}}
+{{< syllabus include="netiquette safezone copyright" >}}

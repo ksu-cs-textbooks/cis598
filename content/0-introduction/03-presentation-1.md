@@ -15,9 +15,10 @@ The presentation should be roughly **8 minutes** in length, and cover the follow
   * These use cases will inform the testing plan in the next presentation.
 * A discussion of the requirements for each phase of the project.
   * These requirements will inform the overall design of the project in the next presentation.
+* **NEW** A discussion of your intended use of GenAI for this project.
 * A proposed timeline for project completion.
 
-The first three items roughly correspond to the two initial artifacts discussed on the previous page. The timeline should give rough estimates on when each feature or group of features should be completed. 
+The first four items roughly correspond to the two initial artifacts discussed on the previous page. The timeline should give rough estimates on when each feature or group of features should be completed. 
 
 ## Additional Content to Include
 

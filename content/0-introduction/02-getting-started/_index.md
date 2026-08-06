@@ -101,6 +101,8 @@ Each advisor approaches senior projects differently, but in general your advisor
 * **Understand Your Work:** You may be asked to explain your code in detail as part of this project. Failure to do so may be considered a violation of this policy.
 * **Policy Violations:** Violations may result in a grade of 0 for the assignment and other sanctions approved through the K-State Honor Council.
 
+A deeper discussion of project expectations with regard to GenAI usage can be found [here]({{% relref "08-genai" %}})
+
 {{% /notice %}}
 
 ## Initial Artifacts
@@ -113,6 +115,10 @@ At the very beginning of your project, you should create a few initial artifacts
   * **Algorithmic Functionality** A clear statement of the intended algorithmic functionality of your project. Your project must include some algorithmic functionality beyond the basics. For example, a web application should provide more than just the basic CRUD database operations. Likewise, a video game should include some complex algorithmic component such as procedurally-generated terrain or a learning AI beyond just simple, hard-coded content.
   * **Student Qualification** A clear statement explaining why you are qualified to take on this project. You must describe your background and experience with the chosen project and related technologies. _If you have no prior experience, consider choosing a different project._
   * **Project Advisor** List your project advisor. **You must have permission from your advisor confirming that they will supervise your project before submitting!**
+  * **AI Usage** State your expected level of GenAI usage. A deeper discussion of project expectations with regard to GenAI usage can be found [here]({{% relref "08-genai" %}}). We generally expect projects to fall into one of three categories:
+    * No GenAI - you do not plan to use GenAI tools at all for coding your project. You plan to write all code yourself without any assistance either in the IDE or externally when it comes to creation of the code itself.
+    * Assistive GenAI - you plan to use GenAI as a coding assistant, but will be responsible for most of the overall structure and code in the project. This covers usages such as GitHub copilot auto-completion in the IDE or getting small code suggestions from ChatGPT or Claude.
+    * Agentic GenAI - you plan to use an agentic GenAI tool such as Claude Code as part of this project. Those tools are capable of creating large amounts of code, content, tests, and documentation independently without direct user intervention. 
 * **Feature Lists:** prepare three sets of feature lists for your project:
   * **Minimum Viable Product (MVP)** or _must haves_: these are features that must be present in the project for it to function in the basic sense. It usually doesn't include much in the way of user interface beyond the basic interactions, and it may be missing some additional items to make it more useable. A project that has these features could be considered a Minimum Viable Product. Typically you want to have these features completed in the first 8 weeks of development.
   * **Version 1.0** or _should haves_: these are features that should be present in the project for it to be considered complete. This would involve additional usability features or links to other APIs as needed. A project with these features would be considered a 1.0 product, and could be used by others. Typically these features are completed in the second 8 weeks of development.

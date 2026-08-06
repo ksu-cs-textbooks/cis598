@@ -1,7 +1,7 @@
 ---
 title: "Presentation Tips"
 weight: 30
-pre: "3. "
+pre: "2. "
 ---
 
 This is a presentation tips video recorded during the Fall 2022 semester.

@@ -15,6 +15,7 @@ The presentation should be roughly **30-45 minutes** in length, and cover all as
 * Project Requirements
 * Design Documents
 * Project Implementation (Languages, Frameworks, Code Structure)
+* GenAI Usage (if applicable)
 * Testing & Evaluation
 * Packaging & Deployment (if applicable)
 * Live Demo
@@ -51,7 +52,7 @@ Both artifacts should clearly include your name; the title of your project; and 
 <img src="/cis598/images/0/stoplight_yellow.png" height="120px">
 </div>
 <div>
-{{% badge style="orange" %}}YELLOW: Limited GenAI Usage Allowed {{% /badge %}} For your presentations, you may make limited use of GenAI tools to help with slide design and graphics. You <b>may not</b> use GenAI tools to produce your actual design diagrams - these should be your own work! Your in-class presentation must be your own work in your own words. You may use GenAI to create graphics used in your advertisement image.
+{{% badge style="orange" %}}YELLOW: Limited GenAI Usage Allowed {{% /badge %}} For your presentations, you may make limited use of GenAI tools to help with slide design and graphics. You <b>may</b> use GenAI tools to produce your design diagrams, but you are responsible for reviewing them for accuracy (they may be separately reviewed by your advisor or instructors for accuracy)! Your in-class presentation must be your own work in your own words. You may use GenAI to create graphics used in your advertisement image.
 </div>
 </div>
 <div style="clear: both"></div>

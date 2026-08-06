@@ -1,6 +1,6 @@
 ---
 title: "Spring 2023 Syllabus"
-weight: 11
+weight: 2
 pre: "S23. "
 ---
 

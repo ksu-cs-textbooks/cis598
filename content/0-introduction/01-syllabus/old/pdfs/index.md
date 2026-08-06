@@ -1,6 +1,6 @@
 +++
 title = "Older PDF Syllabi"
-weight = 1
+weight = 0
 pre = "0. " 
 +++
 

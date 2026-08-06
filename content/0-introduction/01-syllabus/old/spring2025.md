@@ -1,7 +1,7 @@
 ---
 title: "Spring 2025 Syllabus"
-weight: 10
-pre: "1. "
+weight: 6
+pre: "S25. "
 ---
 
 ## CIS 596 - Entrepreneurial Computer Science Project - Spring 2025
