@@ -1,5 +1,5 @@
 ---
-title: "Fall 2026 Syllabus"
+title: "Fall 2026 Info"
 weight: 10
 pre: "1. "
 ---
@@ -9,11 +9,11 @@ pre: "1. "
 
 [Previous Versions]({{% relref "old" %}})
 
-{{% notice warning "Unofficial Syllabus" %}}
+{{% notice warning "Not Authoritative" %}}
 
 Starting with the Fall 2026 semester, official K-State syllabi can be found in [Coursedog](https://www.k-state.edu/curriculum/). 
 
-_This syllabus is no longer the official version, but it may still contain useful information for students._
+_This page is no longer the official syllabus, but it may still contain useful information for students._
 
 {{% /notice %}}
 
