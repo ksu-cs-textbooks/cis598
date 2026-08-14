@@ -24,7 +24,7 @@ _This page is no longer the official syllabus, but it may still contain useful i
 * **Phone:** (785) 532-6350
 * **Website:** https://people.cs.ksu.edu/~dan/
 * **Virtual Office Hours:** By appointment. Schedule on [Calendly](https://calendly.com/andresen-dan)
-<br>
+<br><br>
 * **Instructor:** Mr. Russell Feldhausen (russfeld AT ksu DOT edu)
 * **Office:** DUE 2213, but I mostly work remotely from Kansas City, MO
 * **Phone:** (785) 292-3121 (Call/Text)
