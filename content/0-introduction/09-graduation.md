@@ -1,0 +1,33 @@
+---
+title: "Graduation"
+weight: 90
+pre: "9. "
+---
+
+This course is often one of the last courses taken by students in our department, so it is a natural place to share some information regarding graduation and ensure that everyone is on track for a successful end to their degree program.
+
+## Graduation Checklist
+
+There are a few steps that you should complete before graduation. Refer to these pages for the latest information:
+
+* [K-State Graduation Checklist](https://www.k-state.edu/graduation/checklist/)
+* [Engineering Graduation Checklist](https://engg.k-state.edu/student-success/resources/graduation/)
+* [K-State Career Center](https://www.k-state.edu/careercenter/)
+
+### Before Final Semester
+
+- [ ] - **[Request a Grad Check](https://engg.k-state.edu/student-success/resources/graduation/grad-check/request/)**. This ensures that you are on track to complete all of your required courses and that there aren't any missing items or issues on your DARS report that need to be resolved. _If you are taking this course and haven't had a grad check yet, schedule one ASAP!_
+
+### Final Semester
+
+- [ ] - **[Apply for Graduation](https://support.ksu.edu/TDClient/30/Portal/KB/ArticleDet?ID=61) via KSIS.** This should be done very early your last semester - now is a great time!
+- [ ] - **Review your DARS Report** for any issues that weren't resolved during your grad check. Everything should show as completed or in progress.
+- [ ] - **Check your Diploma Name and Mailing Address** in KSIS. Remember, diplomas are not mailed until 4-6 weeks _after_ graduation, so you may have already moved!
+- [ ] - **Review Holds and To Do Items in KSIS.** Make sure you don't have any unpaid balances or fees - even a simple library fine can delay processing of your diploma!
+- [ ] - **[Visit the Career Center](https://www.k-state.edu/careercenter/)** - you still have full access to the K-State Career center until you graduate, so now is a great time to get a professional photo, cover letter, resume, and LinkedIn profile put together. Even if you have a job offer already, these items are always handy to have available in case things change down the road.
+- [ ] - **[Fill out the Career Center Future Plans Survey](https://kstate.qualtrics.com/jfe/form/SV_2rinT0NMTUVnAkl?Q_JFE=qdg)** - this is how K-State gets all of that useful information about our graduates, including which companies hire them and what their salary is. Help us make sure this data is complete and accurate!
+- [ ] - **[Order Regalia](https://www.k-state.edu/graduation/cap-gown/obtaining/)** - if you plan on attending the graduation ceremony, make sure you order the appropriate academic apparel. _Friendly advice - order a second tassel so you have one for a keepsake in case you lose yours at the ceremony!_
+
+### After you Graduate
+
+- [ ] - **Order a Transcript via KSIS.** You can receive an official transcript for free as a recent graduate, usually within a month after the graduation ceremony. Keep a copy somewhere you'll remember - it is super handy down the road when you decide to go to graduate school or apply for certain jobs.
