@@ -102,7 +102,7 @@ A rough estimate of the relative grading importance of each deliverable is given
 
 #### Specifications Grading
 
-The two in-class presentations will be graded using _specifications grading_. Put simply, the instructors will rate how well the presentation meets the specifications given and the expectations of the instructors.Therefore, students will be given one of the following four ratings:
+The two in-class presentations will be graded using _specifications grading_. Put simply, the instructors will rate how well the presentation meets the specifications given and the expectations of the instructors. Therefore, students will be given one of the following four ratings:
 1. _Exceeds Expectations_
 2. _Meets Expectations_
 3. _Needs Revision_
@@ -199,7 +199,7 @@ Please contact the instructor if you have any questions about this GenAI policy.
 In keeping with the expectation for transparency and citation regarding the use of generative artificial intelligence (GenAI), the instructors of this course will clearly denote any usage of GenAI tools in the process of teaching this class. Specific policies for the usage of GenAI by the instructors and TAs of this course are given below:
 
 * {{% badge style="red" %}}RED: GenAI Prohibited {{% /badge %}} **Student Communication** - GenAI will **never** be used to when communicating with students. We believe it is important for students to receive real, authentic communication from instructors and TAs.
-* {{% badge style="red" %}}RED: GenAI Prohibited {{% /badge %}} **Grading** - GenAI will **never** be used to suggest or assign grades for any student-submitted work. All grading decisions will be done soley by instructors and TAs.
+* {{% badge style="red" %}}RED: GenAI Prohibited {{% /badge %}} **Grading** - GenAI will **never** be used to suggest or assign grades for any student-submitted work. All grading decisions will be done solely by instructors and TAs.
 * {{% badge style="orange" %}}YELLOW: Limited GenAI Usage Allowed {{% /badge %}} **Code Review & Feedback** - Instructors may use GenAI tools to assist with code reviews due to the scope and scale of these projects. However, all feedback given will be "human in the loop" with the final feedback coming directly from the instructors and TAs (see the first point above). 
 * {{% badge style="orange" %}}YELLOW: Limited GenAI Usage Allowed {{% /badge %}} **Lesson & Learning Content** - GenAI may be used in a limited way to construct lessons and learning content, such as homework scenarios or simple graphics. All usage of GenAI will be clearly marked and cited. (As of August 2026, no GenAI content exists in the course).
 
