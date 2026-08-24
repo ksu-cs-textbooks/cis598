@@ -77,7 +77,7 @@ hidden: true
 <section>
   <h3>Deliverables</h3>
   <ul>
-    <li>Wk 1: GitHub Classroom</li>
+    <li>Wk 1: GitHub</li>
     <li>Wk 2: Initial Writeup & Requirements</li>
     <li>Wk 4-7: Requirements Presentations</li>
     <li>Wk 8-11: Design Presentations</li>
@@ -89,11 +89,11 @@ hidden: true
 <section>
   <h3>Schedule</h3>
   <ul>
-    <li><b>Tue 2:30 PM BURT 114</b><ul>
+    <li><b>Mon 3:30 DUR 1066</b><ul>
       <li><b>Exceptions TBA</b></li>
       <li><b>Attendance Expected!</b></li>
     </ul></li>
-    <li>Thur 2:30 PM via Zoom<ul>
+    <li>Wed & Fri 3:30 PM via Zoom<ul>
       <li>Office Hours Q & A</li>
       <li>Work & Collab. Time</li>
       <li>Attendance Optional</li>
@@ -154,7 +154,7 @@ hidden: true
     <li>Algorithmic Functionality</li>
     <li>Student Qualifications</li>
     <li>Research Track</li>
-    <li>Time Logging on Clockify</li>
+    <li>Time Logging on ?? (TBA)</li>
     <li>GitHub Projects</li>
   </ul>
 </section>
@@ -177,7 +177,7 @@ hidden: true
 <section>
   <h3>What's Next</h3>
   <ul>
-    <li>GitHub Classroom</li>
+    <li>GitHub</li>
     <li>Project Topic & Advisor</li>
     <li>First Advisor Meeting</li>
     <li>Initial Writeup & Requirements</li>
