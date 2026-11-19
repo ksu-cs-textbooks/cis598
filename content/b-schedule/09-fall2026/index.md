@@ -13,7 +13,7 @@ weight: 70
 | [Learning Path Platform Efficiency Enhancements]({{% ref "09-fall2026#e6" %}}) | Joshua Kelly | Feldhausen | Wed, Dec 16 | 1:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [D&D Campaign Companion]({{% ref "09-fall2026#e7" %}}) | Michael Bradley | Weese | Wed, Dec 16 | 2:00 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Securing AI Agents Against Tool & Privilege Abuse]({{% ref "09-fall2026#e8" %}}) | Nathan Proctor, Nicholas Wade, Sergio Espina, Makayla Lebruska | Amariucai | Wed, Dec 16 | 2:45 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
-| [Title]({{% ref "09-fall2026#e9" %}}) | Student Name | Advisor | Wed, Dec 16 | 3:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
+| [Title]({{% ref "09-fall2026#e9" %}}) | Eder Martinez | Feldhausen | Wed, Dec 16 | 3:30 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% ref "09-fall2026#e10" %}}) | Student Name | Advisor | Wed, Dec 16 | 4:15 PM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% ref "09-fall2026#e11" %}}) | Student Name | Advisor | Thur, Dec 17 | 8:45 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
 | [Title]({{% ref "09-fall2026#e12" %}}) | Student Name | Advisor | Thur, Dec 17 | 9:30 AM | {{% badge style="primary" title="DUE" %}}2168{{% /badge %}} | {{% button href="https://bit.ly/cis598s26a" style="primary" color="#512888" %}}Zoom A{{% /button %}} |
@@ -92,7 +92,7 @@ Abstract
 
 ## Project Name {#e9}
 
-Student Name
+Eder Martinez
 
 ![Image](images/placeholder.png)
 
